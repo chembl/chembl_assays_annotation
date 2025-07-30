@@ -1,4 +1,4 @@
-# assays_description
+# assay annotation
 
 ## Abstract
 Bioactivity data in ChEMBL links compounds to their biological targets via assays that measure biological activity in a given experimental set-up. Provision of assay data enables users to better understand the experimental context and well-annotated assays are therefore key to interpreting results within broader datasets. Here, we describe our current work to apply Natural Language Processing to enrich ChEMBL assay descriptions. A pipeline using  named entity recognition for experimental methods, followed by entity linking to the BioAssay Ontology, provides novel annotations. This is complemented by a high-level assay category based on a multi-class text classification model. These tasks form part of a broader goal to enhance the annotation of entities within ChEMBL and their alignment to relevant ontologies, supporting machine learning approaches by making assay data more AI-ready.
