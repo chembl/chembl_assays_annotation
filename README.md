@@ -27,7 +27,7 @@ Each of these is described further below in this readme and the code is availabl
 ### A. Named entity Recognition (NER) model to identify the specific method entity within the ChEMBL assay descriptions
 
 **Input data:**  
-- assays_data.csv : Collection of 800 binding/funtional assays that have been manually reviewed for extraction of the experimental/physical detection method from the assay description.
+- data/assays_data.csv : Collection of 800 binding/funtional assays that have been manually reviewed for extraction of the experimental/physical detection method from the assay description.
 
 **Intermediate files:**  
 - Model/assays_train.jsonl : training set for the NER assays model
@@ -59,7 +59,7 @@ Folder name: 2_broad_assay_category
 Trains a multi-class classification model using spaCy for 7 broad assay categories for a given assay description.
 
 **Input data:**
-- 2_broad_category_training_data.csv: Collection of 900 assays manually annotated with one of 15 broad assay categories
+- data/2_broad_category_training_data.csv: Collection of 900 assays manually annotated with one of 15 broad assay categories
 
 **Intermediate files:**
 - Model/assays_train.jsonl: training set for the 7 largest categories
