@@ -1,0 +1,16 @@
+label,bao_preferred_term,bao_id,count
+Nucleic acid binding,,No suitable ID at present,176
+Protein activity,functional target-based,BAO_0013016,171
+"Binding affinity, displacement, competition",binding assay,BAO_0002989,134
+"Radioligand competition, displacement, binding",radioligand binding assay,BAO_0002776,118
+Cell phenotype,cell phenotype,BAO_0002542,113
+Antimicrobial activity,,No suitable ID at present,88
+in vivo method,in vivo assay method,BAO_0040021,63
+Unclear,,,20
+Whole-organism assay,,,6
+Antioxidant activity,,,5
+Binding/activity - mixed measurements,,,2
+Prodrug metabolism,,,1
+Protein-protein interaction assay,,,1
+Stimulation of binding,,,1
+Tissue based assay,,,1

@@ -1,0 +1,1404 @@
+link,term,branch_id,branch_pref_name,id
+http://www.bioassayontology.org/bao#BAO_0000478,selectivity assay,BAO_0000032,secondary assay,BAO_0000478
+http://www.bioassayontology.org/bao#BAO_0001066,alternate organism assay,BAO_0000032,secondary assay,BAO_0001066
+http://www.bioassayontology.org/bao#BAO_0001065,alternate cell line assay,BAO_0000032,secondary assay,BAO_0001065
+http://www.bioassayontology.org/bao#BAO_0001064,alternate target assay,BAO_0000032,secondary assay,BAO_0001064
+http://www.bioassayontology.org/bao#BAO_0000803,counter screening assay,BAO_0000032,secondary assay,BAO_0000803
+http://www.bioassayontology.org/bao#BAO_0000647,parental cell line assay,BAO_0000032,secondary assay,BAO_0000647
+http://www.bioassayontology.org/bao#BAO_0000684,artifact assay,BAO_0000032,secondary assay,BAO_0000684
+http://www.bioassayontology.org/bao#BAO_0001101,compound redox activity assay,BAO_0000032,secondary assay,BAO_0001101
+http://www.bioassayontology.org/bao#BAO_0001100,compound aggregation assay,BAO_0000032,secondary assay,BAO_0001100
+http://www.bioassayontology.org/bao#BAO_0001099,compound fluorescence assay,BAO_0000032,secondary assay,BAO_0001099
+http://www.bioassayontology.org/bao#BAO_0000807,variant construct assay,BAO_0000032,secondary assay,BAO_0000807
+http://www.bioassayontology.org/bao#BAO_0001064,alternate target assay,BAO_0000032,secondary assay,BAO_0001064
+http://www.bioassayontology.org/bao#BAO_0000623,compound toxicity assay,BAO_0000032,secondary assay,BAO_0000623
+http://www.bioassayontology.org/bao#BAO_0000806,alternate confirmatory assay,BAO_0000032,secondary assay,BAO_0000806
+http://www.bioassayontology.org/bao#BAO_0000467,alternate assay format,BAO_0000032,secondary assay,BAO_0000467
+http://www.bioassayontology.org/bao#BAO_0001097,alternate assay type,BAO_0000032,secondary assay,BAO_0001097
+http://www.bioassayontology.org/bao#BAO_0001098,alternate assay conditions,BAO_0000032,secondary assay,BAO_0001098
+http://www.bioassayontology.org/bao#BAO_0001096,orthogonal assay technology,BAO_0000032,secondary assay,BAO_0001096
+http://www.bioassayontology.org/bao#BAO_0000543,orthogonal assay design,BAO_0000032,secondary assay,BAO_0000543
+http://www.bioassayontology.org/bao#BAO_0000452,imaging method,BAO_0000035,physical detection method,BAO_0000452
+http://www.bioassayontology.org/bao#BAO_0002526,microscopy,BAO_0000035,physical detection method,BAO_0002526
+http://www.bioassayontology.org/bao#BAO_0000459,scanning probe microscopy,BAO_0000035,physical detection method,BAO_0000459
+http://www.bioassayontology.org/bao#BAO_0002524,scanning tunneling microscopy,BAO_0000035,physical detection method,BAO_0002524
+http://www.bioassayontology.org/bao#BAO_0002523,atomic force microscopy,BAO_0000035,physical detection method,BAO_0002523
+http://www.bioassayontology.org/bao#BAO_0000451,optical microscopy,BAO_0000035,physical detection method,BAO_0000451
+http://www.bioassayontology.org/bao#BAO_0002512,scanning near-field optical microscopy,BAO_0000035,physical detection method,BAO_0002512
+http://www.bioassayontology.org/bao#BAO_0002513,vibrational spectroscopic imaging,BAO_0000035,physical detection method,BAO_0002513
+http://www.bioassayontology.org/bao#BAO_0002515,Raman imaging,BAO_0000035,physical detection method,BAO_0002515
+http://www.bioassayontology.org/bao#BAO_0002516,infrared imaging,BAO_0000035,physical detection method,BAO_0002516
+http://www.bioassayontology.org/bao#BAO_0002519,mid-infrared imaging,BAO_0000035,physical detection method,BAO_0002519
+http://www.bioassayontology.org/bao#BAO_0002518,near-infrared imaging,BAO_0000035,physical detection method,BAO_0002518
+http://www.bioassayontology.org/bao#BAO_0002510,dark field microscopy,BAO_0000035,physical detection method,BAO_0002510
+http://www.bioassayontology.org/bao#BAO_0002511,differential interference contrast microscopy,BAO_0000035,physical detection method,BAO_0002511
+http://www.bioassayontology.org/bao#BAO_0000457,brightfield microscopy,BAO_0000035,physical detection method,BAO_0000457
+http://www.bioassayontology.org/bao#BAO_0000458,phase contrast microscopy,BAO_0000035,physical detection method,BAO_0000458
+http://www.bioassayontology.org/bao#BAO_0000453,confocal microscopy,BAO_0000035,physical detection method,BAO_0000453
+http://www.bioassayontology.org/bao#BAO_0000450,fluorescence microscopy,BAO_0000035,physical detection method,BAO_0000450
+http://www.bioassayontology.org/bao#BAO_0000064,total internal reflection fluorescence microscopy,BAO_0000035,physical detection method,BAO_0000064
+http://www.bioassayontology.org/bao#BAO_0000449,electron microscopy,BAO_0000035,physical detection method,BAO_0000449
+http://www.bioassayontology.org/bao#BAO_0000454,scanning electron microscopy,BAO_0000035,physical detection method,BAO_0000454
+http://www.bioassayontology.org/bao#BAO_0000455,transmission electron microscopy,BAO_0000035,physical detection method,BAO_0000455
+http://www.bioassayontology.org/bao#BAO_0002525,tomography,BAO_0000035,physical detection method,BAO_0002525
+http://www.bioassayontology.org/bao#BAO_0000427,label free method,BAO_0000035,physical detection method,BAO_0000427
+http://www.bioassayontology.org/bao#BAO_0000404,x ray crystallography,BAO_0000035,physical detection method,BAO_0000404
+http://www.bioassayontology.org/bao#BAO_0000456,quartz crystal microbalance,BAO_0000035,physical detection method,BAO_0000456
+http://www.bioassayontology.org/bao#BAO_0000160,nuclear magnetic resonance,BAO_0000035,physical detection method,BAO_0000160
+http://www.bioassayontology.org/bao#BAO_0000163,electrical sensor,BAO_0000035,physical detection method,BAO_0000163
+http://www.bioassayontology.org/bao#BAO_0000061,impedance,BAO_0000035,physical detection method,BAO_0000061
+http://www.bioassayontology.org/bao#BAO_0000471,carbon nanotube based sensor,BAO_0000035,physical detection method,BAO_0000471
+http://www.bioassayontology.org/bao#BAO_0000382,microelectrode measurement,BAO_0000035,physical detection method,BAO_0000382
+http://www.bioassayontology.org/bao#BAO_0000062,patch clamp,BAO_0000035,physical detection method,BAO_0000062
+http://www.bioassayontology.org/bao#BAO_0000060,current clamp,BAO_0000035,physical detection method,BAO_0000060
+http://www.bioassayontology.org/bao#BAO_0000063,voltage clamp,BAO_0000035,physical detection method,BAO_0000063
+http://www.bioassayontology.org/bao#BAO_0000161,circular dichroism,BAO_0000035,physical detection method,BAO_0000161
+http://www.bioassayontology.org/bao#BAO_0000428,isothermal titration calorimetry,BAO_0000035,physical detection method,BAO_0000428
+http://www.bioassayontology.org/bao#BAO_0000057,optical based,BAO_0000035,physical detection method,BAO_0000057
+http://www.bioassayontology.org/bao#BAO_0000066,bio layer interferometry,BAO_0000035,physical detection method,BAO_0000066
+http://www.bioassayontology.org/bao#BAO_0000068,optical waveguide grating,BAO_0000035,physical detection method,BAO_0000068
+http://www.bioassayontology.org/bao#BAO_0000067,fiber optic waveguide,BAO_0000035,physical detection method,BAO_0000067
+http://www.bioassayontology.org/bao#BAO_0000069,resonant waveguide grating,BAO_0000035,physical detection method,BAO_0000069
+http://www.bioassayontology.org/bao#BAO_0000054,surface plasmon resonance,BAO_0000035,physical detection method,BAO_0000054
+http://www.bioassayontology.org/bao#BAO_0010264,biosensor method,BAO_0000035,physical detection method,BAO_0010264
+http://www.bioassayontology.org/bao#BAO_0000046,fluorescence method,BAO_0000035,physical detection method,BAO_0000046
+http://www.bioassayontology.org/bao#BAO_0000003,fluorescence polarization,BAO_0000035,physical detection method,BAO_0000003
+http://www.bioassayontology.org/bao#BAO_0000001,fluorescence resonance energy transfer,BAO_0000035,physical detection method,BAO_0000001
+http://www.bioassayontology.org/bao#BAO_0000004,time resolved fluorescence resonance energy transfer,BAO_0000035,physical detection method,BAO_0000004
+http://www.bioassayontology.org/bao#BAO_0000002,homogeneous time resolved fluorescence,BAO_0000035,physical detection method,BAO_0000002
+http://www.bioassayontology.org/bao#BAO_0000005,flow cytometry,BAO_0000035,physical detection method,BAO_0000005
+http://www.bioassayontology.org/bao#BAO_0000363,fluorescence intensity,BAO_0000035,physical detection method,BAO_0000363
+http://www.bioassayontology.org/bao#BAO_0000058,thermal shift,BAO_0000035,physical detection method,BAO_0000058
+http://www.bioassayontology.org/bao#BAO_0000045,luminescence method,BAO_0000035,physical detection method,BAO_0000045
+http://www.bioassayontology.org/bao#BAO_0000050,bioluminescence,BAO_0000035,physical detection method,BAO_0000050
+http://www.bioassayontology.org/bao#BAO_0000461,bioluminescence resonance energy transfer,BAO_0000035,physical detection method,BAO_0000461
+http://www.bioassayontology.org/bao#BAO_0000051,chemiluminescence,BAO_0000035,physical detection method,BAO_0000051
+http://www.bioassayontology.org/bao#BAO_0000462,chemiluminescence resonance energy transfer,BAO_0000035,physical detection method,BAO_0000462
+http://www.bioassayontology.org/bao#BAO_0000130,alphascreen,BAO_0000035,physical detection method,BAO_0000130
+http://www.bioassayontology.org/bao#BAO_0000049,spectrophotometry method,BAO_0000035,physical detection method,BAO_0000049
+http://www.bioassayontology.org/bao#BAO_0000070,absorbance,BAO_0000035,physical detection method,BAO_0000070
+http://www.bioassayontology.org/bao#BAO_0000071,transmittance,BAO_0000035,physical detection method,BAO_0000071
+http://www.bioassayontology.org/bao#BAO_0002529,atomic absorption spectrophotometry,BAO_0000035,physical detection method,BAO_0002529
+http://www.bioassayontology.org/bao#BAO_0000055,mass spectrometry,BAO_0000035,physical detection method,BAO_0000055
+http://www.bioassayontology.org/bao#BAO_0050003,simple measurement method,BAO_0000035,physical detection method,BAO_0050003
+http://www.bioassayontology.org/bao#BAO_0050002,visual observation method,BAO_0000035,physical detection method,BAO_0050002
+http://www.bioassayontology.org/bao#BAO_0000657,radiometry method,BAO_0000035,physical detection method,BAO_0000657
+http://www.bioassayontology.org/bao#BAO_0000405,scintillation counting,BAO_0000035,physical detection method,BAO_0000405
+http://www.bioassayontology.org/bao#BAO_0000401,filter assay,BAO_0000035,physical detection method,BAO_0000401
+http://www.bioassayontology.org/bao#BAO_0000408,lysate based,BAO_0000035,physical detection method,BAO_0000408
+http://www.bioassayontology.org/bao#BAO_0000017,scintillation proximity assay,BAO_0000035,physical detection method,BAO_0000017
+http://www.bioassayontology.org/bao#BAO_0002528,phosphorimaging,BAO_0000035,physical detection method,BAO_0002528
+http://www.bioassayontology.org/bao#BAO_0002527,autoradiography,BAO_0000035,physical detection method,BAO_0002527
+http://purl.obolibrary.org/obo/NCIT_C18639,Quantitative Autoradiography,BAO_0000035,physical detection method,NCIT_C18639
+http://www.bioassayontology.org/bao#BAO_0010009,physicochemical assay,BAO_0000015,bioassay,BAO_0010009
+http://www.bioassayontology.org/bao#BAO_0010010,solubility assay,BAO_0000015,bioassay,BAO_0010010
+http://www.bioassayontology.org/bao#BAO_0010247,turbidimetric solubility assay,BAO_0000015,bioassay,BAO_0010247
+http://www.bioassayontology.org/bao#BAO_0010246,thermodynamic solubility assay,BAO_0000015,bioassay,BAO_0010246
+http://www.bioassayontology.org/bao#BAO_0010243,chemical stability assay,BAO_0000015,bioassay,BAO_0010243
+http://www.bioassayontology.org/bao#BAO_0010108,simulated intestinal fluid stability assay,BAO_0000015,bioassay,BAO_0010108
+http://www.bioassayontology.org/bao#BAO_0010104,simulated gastric fluid stability assay,BAO_0000015,bioassay,BAO_0010104
+http://www.bioassayontology.org/bao#BAO_0010244,pH stability assay,BAO_0000015,bioassay,BAO_0010244
+http://www.bioassayontology.org/bao#BAO_0010245,GSH adduct formation,BAO_0000015,bioassay,BAO_0010245
+http://www.bioassayontology.org/bao#BAO_0010241,lipophilicity assay,BAO_0000015,bioassay,BAO_0010241
+http://www.bioassayontology.org/bao#BAO_0010242,pKa determination,BAO_0000015,bioassay,BAO_0010242
+http://www.bioassayontology.org/bao#BAO_0003000,rna splicing assay,BAO_0000015,bioassay,BAO_0003000
+http://www.bioassayontology.org/bao#BAO_0003001,sensitizer assay,BAO_0000015,bioassay,BAO_0003001
+http://www.bioassayontology.org/bao#BAO_0003002,signal transduction assay,BAO_0000015,bioassay,BAO_0003002
+http://www.bioassayontology.org/bao#BAO_0003007,second messenger assay,BAO_0000015,bioassay,BAO_0003007
+http://www.bioassayontology.org/bao#BAO_0003004,posttranslation modification assay,BAO_0000015,bioassay,BAO_0003004
+http://www.bioassayontology.org/bao#BAO_0003005,phosphorylation assay,BAO_0000015,bioassay,BAO_0003005
+http://www.bioassayontology.org/bao#BAO_0010050,Bead-based immunoassay for protein state,BAO_0000015,bioassay,BAO_0010050
+http://www.bioassayontology.org/bao#BAO_0010052,ELISA protein state assay,BAO_0000015,bioassay,BAO_0010052
+http://www.bioassayontology.org/bao#BAO_0010059,Fluorescence imaging protein state assay,BAO_0000015,bioassay,BAO_0010059
+http://www.bioassayontology.org/bao#BAO_0010077,GPCR Signaling,BAO_0000015,bioassay,BAO_0010077
+http://www.bioassayontology.org/bao#BAO_0010081,TRUPath,BAO_0000015,bioassay,BAO_0010081
+http://www.bioassayontology.org/bao#BAO_0010078,Arrestin2 recruitment assay,BAO_0000015,bioassay,BAO_0010078
+http://www.bioassayontology.org/bao#BAO_0010277,gpcrMAX℠ GPCR Assay Panel,BAO_0000015,bioassay,BAO_0010277
+http://www.bioassayontology.org/bao#BAO_0010251,signaling pathway assay,BAO_0000015,bioassay,BAO_0010251
+http://www.bioassayontology.org/bao#BAO_0002763,platelet activation assay,BAO_0000015,bioassay,BAO_0002763
+http://www.bioassayontology.org/bao#BAO_0000042,Cue Signal Response assay,BAO_0000015,bioassay,BAO_0000042
+http://www.bioassayontology.org/bao#BAO_0003003,cytokine secretion assay,BAO_0000015,bioassay,BAO_0003003
+http://www.bioassayontology.org/bao#BAO_0010005,single cell protein secretion microfluidic assay,BAO_0000015,bioassay,BAO_0010005
+http://www.bioassayontology.org/bao#BAO_0010051,ELISA protein secretion profiling assay,BAO_0000015,bioassay,BAO_0010051
+http://www.bioassayontology.org/bao#BAO_0003005,phosphorylation assay,BAO_0000015,bioassay,BAO_0003005
+http://www.bioassayontology.org/bao#BAO_0010050,Bead-based immunoassay for protein state,BAO_0000015,bioassay,BAO_0010050
+http://www.bioassayontology.org/bao#BAO_0010052,ELISA protein state assay,BAO_0000015,bioassay,BAO_0010052
+http://www.bioassayontology.org/bao#BAO_0010059,Fluorescence imaging protein state assay,BAO_0000015,bioassay,BAO_0010059
+http://www.bioassayontology.org/bao#BAO_0003009,cell viability assay,BAO_0000015,bioassay,BAO_0003009
+http://www.bioassayontology.org/bao#BAO_0010001,cell viability ATP quantitation assay,BAO_0000015,bioassay,BAO_0010001
+http://www.bioassayontology.org/bao#BAO_0010060,MEMA cell growth assay,BAO_0000015,bioassay,BAO_0010060
+http://www.bioassayontology.org/bao#BAO_0010056,Fluorescence imaging cell growth inhibition assay,BAO_0000015,bioassay,BAO_0010056
+http://www.bioassayontology.org/bao#BAO_0003008,transporter assay,BAO_0000015,bioassay,BAO_0003008
+http://www.bioassayontology.org/bao#BAO_0010204,transporter substrate assay,BAO_0000015,bioassay,BAO_0010204
+http://www.bioassayontology.org/bao#BAO_0010205,efflux transporter substrate assay,BAO_0000015,bioassay,BAO_0010205
+http://www.bioassayontology.org/bao#BAO_0010209,MATE1 substrate assay,BAO_0000015,bioassay,BAO_0010209
+http://www.bioassayontology.org/bao#BAO_0010206,P-gp substrate assay,BAO_0000015,bioassay,BAO_0010206
+http://www.bioassayontology.org/bao#BAO_0010207,MRP2 substrate assay,BAO_0000015,bioassay,BAO_0010207
+http://www.bioassayontology.org/bao#BAO_0010208,BCRP substrate assay,BAO_0000015,bioassay,BAO_0010208
+http://www.bioassayontology.org/bao#BAO_0010210,MATE2 substrate assay,BAO_0000015,bioassay,BAO_0010210
+http://www.bioassayontology.org/bao#BAO_0010211,uptake transporter substrate assay,BAO_0000015,bioassay,BAO_0010211
+http://www.bioassayontology.org/bao#BAO_0010220,hepatocyte uptake assay,BAO_0000015,bioassay,BAO_0010220
+http://www.bioassayontology.org/bao#BAO_0010221,sandwich cultured human hepatocyte assay,BAO_0000015,bioassay,BAO_0010221
+http://www.bioassayontology.org/bao#BAO_0010222,plated human hepatocytes assay,BAO_0000015,bioassay,BAO_0010222
+http://www.bioassayontology.org/bao#BAO_0010214,OAT3 substrate assay,BAO_0000015,bioassay,BAO_0010214
+http://www.bioassayontology.org/bao#BAO_0010212,OAT1 substrate assay,BAO_0000015,bioassay,BAO_0010212
+http://www.bioassayontology.org/bao#BAO_0010219,OATP2B1 substrate assay,BAO_0000015,bioassay,BAO_0010219
+http://www.bioassayontology.org/bao#BAO_0010217,OCT1 substrate assay,BAO_0000015,bioassay,BAO_0010217
+http://www.bioassayontology.org/bao#BAO_0010216,OATP1B3 substrate assay,BAO_0000015,bioassay,BAO_0010216
+http://www.bioassayontology.org/bao#BAO_0010213,OAT2 substrate assay,BAO_0000015,bioassay,BAO_0010213
+http://www.bioassayontology.org/bao#BAO_0010215,OATP1B1 substrate assay,BAO_0000015,bioassay,BAO_0010215
+http://www.bioassayontology.org/bao#BAO_0010218,OCT2 substrate assay,BAO_0000015,bioassay,BAO_0010218
+http://www.bioassayontology.org/bao#BAO_0010186,transporter induction assay,BAO_0000015,bioassay,BAO_0010186
+http://www.bioassayontology.org/bao#BAO_0010187,p-gp induction assay,BAO_0000015,bioassay,BAO_0010187
+http://www.bioassayontology.org/bao#BAO_0010188,transporter inhibition assay,BAO_0000015,bioassay,BAO_0010188
+http://www.bioassayontology.org/bao#BAO_0010196,uptake transporter inhibition assay,BAO_0000015,bioassay,BAO_0010196
+http://www.bioassayontology.org/bao#BAO_0010203,OCT2 inhibition assay,BAO_0000015,bioassay,BAO_0010203
+http://www.bioassayontology.org/bao#BAO_0010201,OATP1B3 inhibition assay,BAO_0000015,bioassay,BAO_0010201
+http://www.bioassayontology.org/bao#BAO_0010202,OCT1 inhibition assay,BAO_0000015,bioassay,BAO_0010202
+http://www.bioassayontology.org/bao#BAO_0010200,OATP1B1 inhibition assay,BAO_0000015,bioassay,BAO_0010200
+http://www.bioassayontology.org/bao#BAO_0010199,OAT3 inhibition assay,BAO_0000015,bioassay,BAO_0010199
+http://www.bioassayontology.org/bao#BAO_0010197,OAT1 inhibition assay,BAO_0000015,bioassay,BAO_0010197
+http://www.bioassayontology.org/bao#BAO_0010198,OAT2 inhibition assay,BAO_0000015,bioassay,BAO_0010198
+http://www.bioassayontology.org/bao#BAO_0010189,efflux transporter inhibition assay,BAO_0000015,bioassay,BAO_0010189
+http://www.bioassayontology.org/bao#BAO_0010195,MATE2 inhibition assay,BAO_0000015,bioassay,BAO_0010195
+http://www.bioassayontology.org/bao#BAO_0010191,BCRP inhibition assay,BAO_0000015,bioassay,BAO_0010191
+http://www.bioassayontology.org/bao#BAO_0010192,MRP2 inhibition assay,BAO_0000015,bioassay,BAO_0010192
+http://www.bioassayontology.org/bao#BAO_0010193,P-gp inhibition assay,BAO_0000015,bioassay,BAO_0010193
+http://www.bioassayontology.org/bao#BAO_0010190,BSEP inhibition assay,BAO_0000015,bioassay,BAO_0010190
+http://www.bioassayontology.org/bao#BAO_0010194,MATE1 inhibition assay,BAO_0000015,bioassay,BAO_0010194
+http://www.bioassayontology.org/bao#BAO_0002989,binding assay,BAO_0000015,bioassay,BAO_0002989
+http://www.bioassayontology.org/bao#BAO_0002776,radioligand binding assay,BAO_0000015,bioassay,BAO_0002776
+http://www.bioassayontology.org/bao#BAO_0002908,KiNativ assay,BAO_0000015,bioassay,BAO_0002908
+http://www.bioassayontology.org/bao#BAO_0010250,cell binding assay,BAO_0000015,bioassay,BAO_0010250
+http://www.bioassayontology.org/bao#BAO_0000394,protein-nucleotide interaction assay,BAO_0000015,bioassay,BAO_0000394
+http://www.bioassayontology.org/bao#BAO_0002990,protein-protein interaction assay,BAO_0000015,bioassay,BAO_0002990
+http://www.bioassayontology.org/bao#BAO_0010067,Protein-Protein NanoBRET Assay,BAO_0000015,bioassay,BAO_0010067
+http://www.bioassayontology.org/bao#BAO_0010081,TRUPath,BAO_0000015,bioassay,BAO_0010081
+http://www.bioassayontology.org/bao#BAO_0010080,Heterotrimeric G-protein dissassociation assay,BAO_0000015,bioassay,BAO_0010080
+http://www.bioassayontology.org/bao#BAO_0010081,TRUPath,BAO_0000015,bioassay,BAO_0010081
+http://www.bioassayontology.org/bao#BAO_0000110,protein-small molecule interaction assay,BAO_0000015,bioassay,BAO_0000110
+http://www.bioassayontology.org/bao#BAO_0010068,Protein-Small Molecule NanoBRET Assay,BAO_0000015,bioassay,BAO_0010068
+http://www.bioassayontology.org/bao#BAO_0010069,Kinase NanoBRET Assay,BAO_0000015,bioassay,BAO_0010069
+http://www.bioassayontology.org/bao#BAO_0080034,beta-arrestin clustering assay,BAO_0000015,bioassay,BAO_0080034
+http://www.bioassayontology.org/bao#BAO_0010259,target engagement assay,BAO_0000015,bioassay,BAO_0010259
+http://www.bioassayontology.org/bao#BAO_0000591,protein-DNA interaction assay,BAO_0000015,bioassay,BAO_0000591
+http://www.bioassayontology.org/bao#BAO_0000590,DNA-RNA interaction assay,BAO_0000015,bioassay,BAO_0000590
+http://www.bioassayontology.org/bao#BAO_0000593,protein-RNA interaction assay,BAO_0000015,bioassay,BAO_0000593
+http://www.bioassayontology.org/bao#BAO_0003011,KINOMEScan assay,BAO_0000015,bioassay,BAO_0003011
+http://www.bioassayontology.org/bao#BAO_0010248,kinome activity assay,BAO_0000015,bioassay,BAO_0010248
+http://www.bioassayontology.org/bao#BAO_0002778,cell permeability assay,BAO_0000015,bioassay,BAO_0002778
+http://www.bioassayontology.org/bao#BAO_0002779,protein unfolding assay,BAO_0000015,bioassay,BAO_0002779
+http://www.bioassayontology.org/bao#BAO_0010082,drug absorption assay,BAO_0000015,bioassay,BAO_0010082
+http://www.bioassayontology.org/bao#BAO_0010083,permeability assay,BAO_0000015,bioassay,BAO_0010083
+http://www.bioassayontology.org/bao#BAO_0010008,Caco-2 permeability assay,BAO_0000015,bioassay,BAO_0010008
+http://www.bioassayontology.org/bao#BAO_0010084,Ussing chamber permeability assay,BAO_0000015,bioassay,BAO_0010084
+http://www.bioassayontology.org/bao#BAO_0010089,MDCKII monolayer permeability assay,BAO_0000015,bioassay,BAO_0010089
+http://www.bioassayontology.org/bao#BAO_0010088,LLCPK1 monolayer permeability assay,BAO_0000015,bioassay,BAO_0010088
+http://www.bioassayontology.org/bao#BAO_0010086,MDCK permeability assay,BAO_0000015,bioassay,BAO_0010086
+http://www.bioassayontology.org/bao#BAO_0010087,RRCK permeability assay,BAO_0000015,bioassay,BAO_0010087
+http://www.bioassayontology.org/bao#BAO_0010085,MDCK-BCRP permeability assay,BAO_0000015,bioassay,BAO_0010085
+http://www.bioassayontology.org/bao#BAO_0002196,localization assay,BAO_0000015,bioassay,BAO_0002196
+http://www.bioassayontology.org/bao#BAO_0010223,pharmacometrics,BAO_0000015,bioassay,BAO_0010223
+http://www.bioassayontology.org/bao#BAO_0010224,PBPK modeling,BAO_0000015,bioassay,BAO_0010224
+http://www.bioassayontology.org/bao#BAO_0010226,other pharmacokinetic studies,BAO_0000015,bioassay,BAO_0010226
+http://www.bioassayontology.org/bao#BAO_0010225,method development and validation,BAO_0000015,bioassay,BAO_0010225
+http://www.bioassayontology.org/bao#BAO_0010072,parallel artificial membrane permeability assay,BAO_0000015,bioassay,BAO_0010072
+http://www.bioassayontology.org/bao#BAO_0010076,low throughput screening,BAO_0000015,bioassay,BAO_0010076
+http://www.bioassayontology.org/bao#BAO_0010270,PD biomarker assay,BAO_0000015,bioassay,BAO_0010270
+http://www.bioassayontology.org/bao#BAO_0010273,"γH2AX, pNBS1, and β-catenin Multiplex Immunofluorescence Assay",BAO_0000015,bioassay,BAO_0010273
+http://www.bioassayontology.org/bao#BAO_0010272,PAR Immunoassay,BAO_0000015,bioassay,BAO_0010272
+http://www.bioassayontology.org/bao#BAO_0010275,HIF1-alpha assay,BAO_0000015,bioassay,BAO_0010275
+http://www.bioassayontology.org/bao#BAO_0010274,γH2Ax immunoassay,BAO_0000015,bioassay,BAO_0010274
+http://www.bioassayontology.org/bao#BAO_0010276,Total Topoisomerase I assay,BAO_0000015,bioassay,BAO_0010276
+http://www.bioassayontology.org/bao#BAO_0010271,MET immunoassay,BAO_0000015,bioassay,BAO_0010271
+http://www.bioassayontology.org/bao#BAO_0002785,gene expression assay,BAO_0000015,bioassay,BAO_0002785
+http://www.bioassayontology.org/bao#BAO_0002995,transcriptional profiling assay,BAO_0000015,bioassay,BAO_0002995
+http://www.bioassayontology.org/bao#BAO_0010047,Nanostring,BAO_0000015,bioassay,BAO_0010047
+http://www.bioassayontology.org/bao#BAO_0010046,L1000 mRNA profiling assay,BAO_0000015,bioassay,BAO_0010046
+http://www.bioassayontology.org/bao#BAO_0010048,Microarray,BAO_0000015,bioassay,BAO_0010048
+http://www.bioassayontology.org/bao#BAO_0010045,RNA-seq gene expression profiling assay,BAO_0000015,bioassay,BAO_0010045
+http://www.bioassayontology.org/bao#BAO_0010031,epigenetic assay,BAO_0000015,bioassay,BAO_0010031
+http://www.bioassayontology.org/bao#BAO_0010032,targeted epigenetic assay,BAO_0000015,bioassay,BAO_0010032
+http://www.bioassayontology.org/bao#BAO_0010034,methylated histone assay,BAO_0000015,bioassay,BAO_0010034
+http://www.bioassayontology.org/bao#BAO_0010035,ChIP-seq assay,BAO_0000015,bioassay,BAO_0010035
+http://www.bioassayontology.org/bao#BAO_0010033,acetylated histone assay,BAO_0000015,bioassay,BAO_0010033
+http://www.bioassayontology.org/bao#BAO_0010036,epigenetic profiling assay,BAO_0000015,bioassay,BAO_0010036
+http://www.bioassayontology.org/bao#BAO_0010038,ATAC-seq epigenetic profiling assay,BAO_0000015,bioassay,BAO_0010038
+http://www.bioassayontology.org/bao#BAO_0010039,global chromatin epigenetic profiling assay,BAO_0000015,bioassay,BAO_0010039
+http://www.bioassayontology.org/bao#BAO_0010037,Bisulfite Sequencing assay,BAO_0000015,bioassay,BAO_0010037
+http://www.bioassayontology.org/bao#BAO_0010139,drug excretion assay,BAO_0000015,bioassay,BAO_0010139
+http://www.bioassayontology.org/bao#BAO_0010140,mass balance assay,BAO_0000015,bioassay,BAO_0010140
+http://www.bioassayontology.org/bao#BAO_0010141,biliary excretion assay,BAO_0000015,bioassay,BAO_0010141
+http://www.bioassayontology.org/bao#BAO_0010143,renal excretion assay,BAO_0000015,bioassay,BAO_0010143
+http://www.bioassayontology.org/bao#BAO_0010142,human mammary epithelial cell permeability assay,BAO_0000015,bioassay,BAO_0010142
+http://www.bioassayontology.org/bao#BAO_0002188,drug interaction assay,BAO_0000015,bioassay,BAO_0002188
+http://www.bioassayontology.org/bao#BAO_0010157,enzyme inhibition assay,BAO_0000015,bioassay,BAO_0010157
+http://www.bioassayontology.org/bao#BAO_0010173,UGT inhibition assay,BAO_0000015,bioassay,BAO_0010173
+http://www.bioassayontology.org/bao#BAO_0010174,UGT1A1 with BSA assay,BAO_0000015,bioassay,BAO_0010174
+http://www.bioassayontology.org/bao#BAO_0010176,UGT1A4 with BSA assay,BAO_0000015,bioassay,BAO_0010176
+http://www.bioassayontology.org/bao#BAO_0010175,UGT1A1 without BSA assay,BAO_0000015,bioassay,BAO_0010175
+http://www.bioassayontology.org/bao#BAO_0010177,UGT1A4 without BSA assay,BAO_0000015,bioassay,BAO_0010177
+http://www.bioassayontology.org/bao#BAO_0010179,UGT1A6 without BSA assay,BAO_0000015,bioassay,BAO_0010179
+http://www.bioassayontology.org/bao#BAO_0010178,UGT1A6 with BSA assay,BAO_0000015,bioassay,BAO_0010178
+http://www.bioassayontology.org/bao#BAO_0010181,UGT1A9 without BSA assay,BAO_0000015,bioassay,BAO_0010181
+http://www.bioassayontology.org/bao#BAO_0010185,UGT2B7 without BSA assay,BAO_0000015,bioassay,BAO_0010185
+http://www.bioassayontology.org/bao#BAO_0010182,UGT2B15 with BSA assay,BAO_0000015,bioassay,BAO_0010182
+http://www.bioassayontology.org/bao#BAO_0010180,UGT1A9 with BSA assay,BAO_0000015,bioassay,BAO_0010180
+http://www.bioassayontology.org/bao#BAO_0010184,UGT2B7 with BSA assay,BAO_0000015,bioassay,BAO_0010184
+http://www.bioassayontology.org/bao#BAO_0010183,UGT2B15 without BSA assay,BAO_0000015,bioassay,BAO_0010183
+http://www.bioassayontology.org/bao#BAO_0010159,CYP inhibition assay,BAO_0000015,bioassay,BAO_0010159
+http://www.bioassayontology.org/bao#BAO_0010162,CYP2C19 inhibition assay,BAO_0000015,bioassay,BAO_0010162
+http://www.bioassayontology.org/bao#BAO_0010166,CYP cocktail IC50 assay,BAO_0000015,bioassay,BAO_0010166
+http://www.bioassayontology.org/bao#BAO_0010163,CYP2C8 inhibition assay,BAO_0000015,bioassay,BAO_0010163
+http://www.bioassayontology.org/bao#BAO_0010164,CYP2C9 inhibition assay,BAO_0000015,bioassay,BAO_0010164
+http://www.bioassayontology.org/bao#BAO_0010165,CYP3A4 inhibition assay,BAO_0000015,bioassay,BAO_0010165
+http://www.bioassayontology.org/bao#BAO_0010160,CYP1A2 inhibition assay,BAO_0000015,bioassay,BAO_0010160
+http://www.bioassayontology.org/bao#BAO_0010161,CYP2B6 inhibition assay,BAO_0000015,bioassay,BAO_0010161
+http://www.bioassayontology.org/bao#BAO_0010167,CYP single point inhibition assay,BAO_0000015,bioassay,BAO_0010167
+http://www.bioassayontology.org/bao#BAO_0010158,monoamine oxidase inhibition assay,BAO_0000015,bioassay,BAO_0010158
+http://www.bioassayontology.org/bao#BAO_0010169,CYP time-dependent inhibition assay,BAO_0000015,bioassay,BAO_0010169
+http://www.bioassayontology.org/bao#BAO_0010171,CYP time dependent inhibition kinact/KI assay,BAO_0000015,bioassay,BAO_0010171
+http://www.bioassayontology.org/bao#BAO_0010172,CYP time dependent inhibition single point assay,BAO_0000015,bioassay,BAO_0010172
+http://www.bioassayontology.org/bao#BAO_0010170,CYP time dependent inhibition IC50 shift assay,BAO_0000015,bioassay,BAO_0010170
+http://www.bioassayontology.org/bao#BAO_0010144,receptor induction assay,BAO_0000015,bioassay,BAO_0010144
+http://www.bioassayontology.org/bao#BAO_0010145,Fc/FcRN induction assay,BAO_0000015,bioassay,BAO_0010145
+http://www.bioassayontology.org/bao#BAO_0010146,enzyme induction assay,BAO_0000015,bioassay,BAO_0010146
+http://www.bioassayontology.org/bao#BAO_0010148,UGT induction assay,BAO_0000015,bioassay,BAO_0010148
+http://www.bioassayontology.org/bao#BAO_0010147,CYP induction screen,BAO_0000015,bioassay,BAO_0010147
+http://www.bioassayontology.org/bao#BAO_0010149,CYP induction assay,BAO_0000015,bioassay,BAO_0010149
+http://www.bioassayontology.org/bao#BAO_0010151,CYP2B6 induction assay,BAO_0000015,bioassay,BAO_0010151
+http://www.bioassayontology.org/bao#BAO_0010152,CYP2C19 induction assay,BAO_0000015,bioassay,BAO_0010152
+http://www.bioassayontology.org/bao#BAO_0010154,CYP2C9 induction assay,BAO_0000015,bioassay,BAO_0010154
+http://www.bioassayontology.org/bao#BAO_0010153,CYP2C8 induction assay,BAO_0000015,bioassay,BAO_0010153
+http://www.bioassayontology.org/bao#BAO_0010156,Relative Induction Score determination,BAO_0000015,bioassay,BAO_0010156
+http://www.bioassayontology.org/bao#BAO_0010150,CYP1A2 induction assay,BAO_0000015,bioassay,BAO_0010150
+http://www.bioassayontology.org/bao#BAO_0010155,CYP3A4 induction assay,BAO_0000015,bioassay,BAO_0010155
+http://www.bioassayontology.org/bao#BAO_0002189,toxicity assay,BAO_0000015,bioassay,BAO_0002189
+http://www.bioassayontology.org/bao#BAO_0002183,pharmacodynamic assay,BAO_0000015,bioassay,BAO_0002183
+http://www.bioassayontology.org/bao#BAO_0010256,in vivo PK/PD assay,BAO_0000015,bioassay,BAO_0010256
+http://www.bioassayontology.org/bao#BAO_0010011,in vivo efficacy assay,BAO_0000015,bioassay,BAO_0010011
+http://www.bioassayontology.org/bao#BAO_0002182,pharmacokinetic assay,BAO_0000015,bioassay,BAO_0002182
+http://www.bioassayontology.org/bao#BAO_0010227,non-rodent PK,BAO_0000015,bioassay,BAO_0010227
+http://www.bioassayontology.org/bao#BAO_0010229,non-rodent IV clearance,BAO_0000015,bioassay,BAO_0010229
+http://www.bioassayontology.org/bao#BAO_0010228,non-rodent excretion in urine,BAO_0000015,bioassay,BAO_0010228
+http://www.bioassayontology.org/bao#BAO_0010233,non-rodent Vdss,BAO_0000015,bioassay,BAO_0010233
+http://www.bioassayontology.org/bao#BAO_0010231,non-rodent oral bioavailability,BAO_0000015,bioassay,BAO_0010231
+http://www.bioassayontology.org/bao#BAO_0010232,non-rodent oral half-life,BAO_0000015,bioassay,BAO_0010232
+http://www.bioassayontology.org/bao#BAO_0010230,non-rodent IV half-life,BAO_0000015,bioassay,BAO_0010230
+http://www.bioassayontology.org/bao#BAO_0013019,clearance,BAO_0000015,bioassay,BAO_0013019
+http://www.bioassayontology.org/bao#BAO_0013020,CLint,BAO_0000015,bioassay,BAO_0013020
+http://www.bioassayontology.org/bao#BAO_0010234,rodent PK,BAO_0000015,bioassay,BAO_0010234
+http://www.bioassayontology.org/bao#BAO_0010235,rodent excretion in urine,BAO_0000015,bioassay,BAO_0010235
+http://www.bioassayontology.org/bao#BAO_0010236,rodent IV clearance,BAO_0000015,bioassay,BAO_0010236
+http://www.bioassayontology.org/bao#BAO_0010239,rodent oral half-life,BAO_0000015,bioassay,BAO_0010239
+http://www.bioassayontology.org/bao#BAO_0010238,rodent oral bioavailability,BAO_0000015,bioassay,BAO_0010238
+http://www.bioassayontology.org/bao#BAO_0010237,rodent IV half-life,BAO_0000015,bioassay,BAO_0010237
+http://www.bioassayontology.org/bao#BAO_0010240,rodent Vdss,BAO_0000015,bioassay,BAO_0010240
+http://www.bioassayontology.org/bao#BAO_0002181,oxidative phosphorylation assay,BAO_0000015,bioassay,BAO_0002181
+http://www.bioassayontology.org/bao#BAO_0010252,protein expression assay,BAO_0000015,bioassay,BAO_0010252
+http://purl.obolibrary.org/obo/NCIT_C19425,Migration Assay,BAO_0000015,bioassay,NCIT_C19425
+http://www.bioassayontology.org/bao#BAO_0010044,targeted transcriptional assay,BAO_0000015,bioassay,BAO_0010044
+http://www.bioassayontology.org/bao#BAO_0003006,reporter gene assay,BAO_0000015,bioassay,BAO_0003006
+http://www.bioassayontology.org/bao#BAO_0002661,luciferase reporter gene assay,BAO_0000015,bioassay,BAO_0002661
+http://www.bioassayontology.org/bao#BAO_0003015,chloramphenicol acetyltransferase reporter gene assay,BAO_0000015,bioassay,BAO_0003015
+http://www.bioassayontology.org/bao#BAO_0003014,beta lactamase reporter gene assay,BAO_0000015,bioassay,BAO_0003014
+http://www.bioassayontology.org/bao#BAO_0003013,beta galactosidase reporter gene assay,BAO_0000015,bioassay,BAO_0003013
+http://www.bioassayontology.org/bao#BAO_0003012,fluorescent protein reporter gene assay,BAO_0000015,bioassay,BAO_0003012
+http://www.bioassayontology.org/bao#BAO_0010040,metabolomic assay,BAO_0000015,bioassay,BAO_0010040
+http://www.bioassayontology.org/bao#BAO_0010041,targeted metabolomic assay,BAO_0000015,bioassay,BAO_0010041
+http://www.bioassayontology.org/bao#BAO_0010042,metabolomic profiling assay,BAO_0000015,bioassay,BAO_0010042
+http://www.bioassayontology.org/bao#BAO_0010043,Cellarium metabolomic profiling assay,BAO_0000015,bioassay,BAO_0010043
+http://www.bioassayontology.org/bao#BAO_0002168,oxidative stress assay,BAO_0000015,bioassay,BAO_0002168
+http://www.bioassayontology.org/bao#BAO_0002167,genotoxicity assay,BAO_0000015,bioassay,BAO_0002167
+http://www.bioassayontology.org/bao#BAO_0010026,protein profiling assay,BAO_0000015,bioassay,BAO_0010026
+http://www.bioassayontology.org/bao#BAO_0010070,Tandem Mass Tag (TMT) MS Protein Quantification,BAO_0000015,bioassay,BAO_0010070
+http://www.bioassayontology.org/bao#BAO_0010071,Liquid Chromatography/Mass Spectroscopy (LC/MS) protein quantification,BAO_0000015,bioassay,BAO_0010071
+http://www.bioassayontology.org/bao#BAO_0010030,RPPA protein profiling assay,BAO_0000015,bioassay,BAO_0010030
+http://www.bioassayontology.org/bao#BAO_0010065,RPPA protein state assay,BAO_0000015,bioassay,BAO_0010065
+http://www.bioassayontology.org/bao#BAO_0010049,Microwestern,BAO_0000015,bioassay,BAO_0010049
+http://www.bioassayontology.org/bao#BAO_0010029,P100 protein profiling assay,BAO_0000015,bioassay,BAO_0010029
+http://www.bioassayontology.org/bao#BAO_0010063,P100 phosphoprotein quantification assay,BAO_0000015,bioassay,BAO_0010063
+http://www.bioassayontology.org/bao#BAO_0010028,SWATH MS protein profiling assay,BAO_0000015,bioassay,BAO_0010028
+http://www.bioassayontology.org/bao#BAO_0010066,SWATH-MS protein quantification assay,BAO_0000015,bioassay,BAO_0010066
+http://www.bioassayontology.org/bao#BAO_0010027,shotgun MS protein profiling assay,BAO_0000015,bioassay,BAO_0010027
+http://www.bioassayontology.org/bao#BAO_0010061,MS protein quantification assay,BAO_0000015,bioassay,BAO_0010061
+http://www.bioassayontology.org/bao#BAO_0010062,MS protein state assay,BAO_0000015,bioassay,BAO_0010062
+http://www.bioassayontology.org/bao#BAO_0010052,ELISA protein state assay,BAO_0000015,bioassay,BAO_0010052
+http://www.bioassayontology.org/bao#BAO_0002992,cell motility assay,BAO_0000015,bioassay,BAO_0002992
+http://www.bioassayontology.org/bao#BAO_0002999,redistribution assay,BAO_0000015,bioassay,BAO_0002999
+http://www.bioassayontology.org/bao#BAO_0000378,protein redistribution assay,BAO_0000015,bioassay,BAO_0000378
+http://www.bioassayontology.org/bao#BAO_0000379,second messenger redistribution assay,BAO_0000015,bioassay,BAO_0000379
+http://www.bioassayontology.org/bao#BAO_0000649,calcium redistribution assay,BAO_0000015,bioassay,BAO_0000649
+http://www.bioassayontology.org/bao#BAO_0002780,IP1 redistribution assay,BAO_0000015,bioassay,BAO_0002780
+http://www.bioassayontology.org/bao#BAO_0000651,cGMP redistribution assay,BAO_0000015,bioassay,BAO_0000651
+http://www.bioassayontology.org/bao#BAO_0000650,cAMP redistribution assay,BAO_0000015,bioassay,BAO_0000650
+http://www.bioassayontology.org/bao#BAO_0000162,metal ion redistribution assay,BAO_0000015,bioassay,BAO_0000162
+http://www.bioassayontology.org/bao#BAO_0000819,ion redistribution assay,BAO_0000015,bioassay,BAO_0000819
+http://www.bioassayontology.org/bao#BAO_0000649,calcium redistribution assay,BAO_0000015,bioassay,BAO_0000649
+http://www.bioassayontology.org/bao#BAO_0000653,dye redistribution assay,BAO_0000015,bioassay,BAO_0000653
+http://www.bioassayontology.org/bao#BAO_0002998,protein folding assay,BAO_0000015,bioassay,BAO_0002998
+http://www.bioassayontology.org/bao#BAO_0002997,ion channel assay,BAO_0000015,bioassay,BAO_0002997
+http://www.bioassayontology.org/bao#BAO_0002991,cell morphology assay,BAO_0000015,bioassay,BAO_0002991
+http://www.bioassayontology.org/bao#BAO_0010060,MEMA cell growth assay,BAO_0000015,bioassay,BAO_0010060
+http://www.bioassayontology.org/bao#BAO_0002803,neurite outgrowth assay,BAO_0000015,bioassay,BAO_0002803
+http://www.bioassayontology.org/bao#BAO_0010057,Fluorescence imaging morphology assay,BAO_0000015,bioassay,BAO_0010057
+http://www.bioassayontology.org/bao#BAO_0010058,Fluorescence imaging multiplex cytological profiling assay,BAO_0000015,bioassay,BAO_0010058
+http://www.bioassayontology.org/bao#BAO_0002996,membrane potential assay,BAO_0000015,bioassay,BAO_0002996
+http://www.bioassayontology.org/bao#BAO_0002194,plasma membrane potential assay,BAO_0000015,bioassay,BAO_0002194
+http://www.bioassayontology.org/bao#BAO_0002190,mitochondrial membrane potential assay,BAO_0000015,bioassay,BAO_0002190
+http://www.bioassayontology.org/bao#BAO_0002195,nuclear membrane potential assay,BAO_0000015,bioassay,BAO_0002195
+http://www.bioassayontology.org/bao#BAO_0002997,ion channel assay,BAO_0000015,bioassay,BAO_0002997
+http://www.bioassayontology.org/bao#BAO_0002993,cytotoxicity assay,BAO_0000015,bioassay,BAO_0002993
+http://www.bioassayontology.org/bao#BAO_0010262,T-cell cytotoxicity assay,BAO_0000015,bioassay,BAO_0010262
+http://www.bioassayontology.org/bao#BAO_0002043,apoptosis assay,BAO_0000015,bioassay,BAO_0002043
+http://www.bioassayontology.org/bao#BAO_0010002,2 color apoptosis assay,BAO_0000015,bioassay,BAO_0010002
+http://www.bioassayontology.org/bao#BAO_0010003,3 color apoptosis assay,BAO_0000015,bioassay,BAO_0010003
+http://www.bioassayontology.org/bao#BAO_0010265,Annexin V apoptosis assay,BAO_0000015,bioassay,BAO_0010265
+http://www.bioassayontology.org/bao#BAO_0010053,Fluorescence imaging apoptosis assay,BAO_0000015,bioassay,BAO_0010053
+http://www.bioassayontology.org/bao#BAO_0002994,enzyme activity assay,BAO_0000015,bioassay,BAO_0002994
+http://www.bioassayontology.org/bao#BAO_0002792,oxidoreductase activity assay,BAO_0000015,bioassay,BAO_0002792
+http://www.bioassayontology.org/bao#BAO_0002735,luciferase enzyme activity assay,BAO_0000015,bioassay,BAO_0002735
+http://www.bioassayontology.org/bao#BAO_0002736,cytochrome P450 enzyme activity assay,BAO_0000015,bioassay,BAO_0002736
+http://www.bioassayontology.org/bao#BAO_0002793,lyase activity assay,BAO_0000015,bioassay,BAO_0002793
+http://www.bioassayontology.org/bao#BAO_0002795,transferase activity assay,BAO_0000015,bioassay,BAO_0002795
+http://www.bioassayontology.org/bao#BAO_0002005,kinase activity assay,BAO_0000015,bioassay,BAO_0002005
+http://www.bioassayontology.org/bao#BAO_0002794,isomerase activity assay,BAO_0000015,bioassay,BAO_0002794
+http://www.bioassayontology.org/bao#BAO_0002790,hydrolase activity assay,BAO_0000015,bioassay,BAO_0002790
+http://www.bioassayontology.org/bao#BAO_0002806,generic hydrolase enzyme activity assay,BAO_0000015,bioassay,BAO_0002806
+http://www.bioassayontology.org/bao#BAO_0002777,beta galactosidase enzyme activity assay,BAO_0000015,bioassay,BAO_0002777
+http://www.bioassayontology.org/bao#BAO_0002762,phosphatase activity assay,BAO_0000015,bioassay,BAO_0002762
+http://www.bioassayontology.org/bao#BAO_0002764,protease activity assay,BAO_0000015,bioassay,BAO_0002764
+http://www.bioassayontology.org/bao#BAO_0002804,protein stability assay,BAO_0000015,bioassay,BAO_0002804
+http://www.bioassayontology.org/bao#BAO_0010261,thermal shift assay,BAO_0000015,bioassay,BAO_0010261
+http://www.bioassayontology.org/bao#BAO_0002805,cell proliferation assay,BAO_0000015,bioassay,BAO_0002805
+http://www.bioassayontology.org/bao#BAO_0010253,T-cell activation assay,BAO_0000015,bioassay,BAO_0010253
+http://www.bioassayontology.org/bao#BAO_0010054,Fluorescence imaging cell count assay,BAO_0000015,bioassay,BAO_0010054
+http://www.bioassayontology.org/bao#BAO_0010090,drug metabolism assay,BAO_0000015,bioassay,BAO_0010090
+http://www.bioassayontology.org/bao#BAO_0010114,enzyme reaction phenotyping,BAO_0000015,bioassay,BAO_0010114
+http://www.bioassayontology.org/bao#BAO_0010117,MAO reaction phenotyping assay,BAO_0000015,bioassay,BAO_0010117
+http://www.bioassayontology.org/bao#BAO_0010119,CES reaction phenotyping,BAO_0000015,bioassay,BAO_0010119
+http://www.bioassayontology.org/bao#BAO_0010121,esterase metabolite formation kinetics,BAO_0000015,bioassay,BAO_0010121
+http://www.bioassayontology.org/bao#BAO_0010122,recombinant esterases,BAO_0000015,bioassay,BAO_0010122
+http://www.bioassayontology.org/bao#BAO_0010120,esterase chemical inhibition,BAO_0000015,bioassay,BAO_0010120
+http://www.bioassayontology.org/bao#BAO_0010115,AOX reaction phenotyping,BAO_0000015,bioassay,BAO_0010115
+http://www.bioassayontology.org/bao#BAO_0010116,FMO reaction phenotyping,BAO_0000015,bioassay,BAO_0010116
+http://www.bioassayontology.org/bao#BAO_0010118,hepatocyte relay assay,BAO_0000015,bioassay,BAO_0010118
+http://www.bioassayontology.org/bao#BAO_0010128,UGT reaction phenotyping,BAO_0000015,bioassay,BAO_0010128
+http://www.bioassayontology.org/bao#BAO_0010129,UGT chemical inhibition assay,BAO_0000015,bioassay,BAO_0010129
+http://www.bioassayontology.org/bao#BAO_0010131,recombinant UGT reaction phenotyping assay,BAO_0000015,bioassay,BAO_0010131
+http://www.bioassayontology.org/bao#BAO_0010130,UGT metabolite formation kinetics,BAO_0000015,bioassay,BAO_0010130
+http://www.bioassayontology.org/bao#BAO_0010123,CYP reaction phenotyping assay,BAO_0000015,bioassay,BAO_0010123
+http://www.bioassayontology.org/bao#BAO_0010126,recombinant CYP reaction phenotyping assay,BAO_0000015,bioassay,BAO_0010126
+http://www.bioassayontology.org/bao#BAO_0010125,CYP metabolite formation kinetics,BAO_0000015,bioassay,BAO_0010125
+http://www.bioassayontology.org/bao#BAO_0010127,CYP mAb inhibition,BAO_0000015,bioassay,BAO_0010127
+http://www.bioassayontology.org/bao#BAO_0010124,CYP chemical inhibition assay,BAO_0000015,bioassay,BAO_0010124
+http://www.bioassayontology.org/bao#BAO_0010093,receptor internalization assay,BAO_0000015,bioassay,BAO_0010093
+http://www.bioassayontology.org/bao#BAO_0010092,target mediated drug dispositioning,BAO_0000015,bioassay,BAO_0010092
+http://www.bioassayontology.org/bao#BAO_0010091,metabolite identification and profiling assay,BAO_0000015,bioassay,BAO_0010091
+http://www.bioassayontology.org/bao#BAO_0010095,metabolic stability assay,BAO_0000015,bioassay,BAO_0010095
+http://www.bioassayontology.org/bao#BAO_0010006,microsomal stability assay,BAO_0000015,bioassay,BAO_0010006
+http://www.bioassayontology.org/bao#BAO_0010007,plasma stability assay,BAO_0000015,bioassay,BAO_0010007
+http://www.bioassayontology.org/bao#BAO_0010099,plasma stability with inhibitors,BAO_0000015,bioassay,BAO_0010099
+http://www.bioassayontology.org/bao#BAO_0010111,tissue homogenate stability assay,BAO_0000015,bioassay,BAO_0010111
+http://www.bioassayontology.org/bao#BAO_0010112,cell homogenate stability assay,BAO_0000015,bioassay,BAO_0010112
+http://www.bioassayontology.org/bao#BAO_0010113,enzymatic stability assay,BAO_0000015,bioassay,BAO_0010113
+http://www.bioassayontology.org/bao#BAO_0010098,whole blood stability assay,BAO_0000015,bioassay,BAO_0010098
+http://www.bioassayontology.org/bao#BAO_0010097,S9 stability assay,BAO_0000015,bioassay,BAO_0010097
+http://www.bioassayontology.org/bao#BAO_0010096,cytosol stability assay,BAO_0000015,bioassay,BAO_0010096
+http://www.bioassayontology.org/bao#BAO_0010106,intestinal fluid stability assay,BAO_0000015,bioassay,BAO_0010106
+http://www.bioassayontology.org/bao#BAO_0010108,simulated intestinal fluid stability assay,BAO_0000015,bioassay,BAO_0010108
+http://www.bioassayontology.org/bao#BAO_0010107,simulated intestinal fluid stability assay (with enzymes),BAO_0000015,bioassay,BAO_0010107
+http://www.bioassayontology.org/bao#BAO_0010109,interstitial fluid stability assay,BAO_0000015,bioassay,BAO_0010109
+http://www.bioassayontology.org/bao#BAO_0010110,simulated interstitial fluid stability assay,BAO_0000015,bioassay,BAO_0010110
+http://www.bioassayontology.org/bao#BAO_0010103,gastric fluid stability assay,BAO_0000015,bioassay,BAO_0010103
+http://www.bioassayontology.org/bao#BAO_0010105,simulated gastric fluid stability assay (with enzymes),BAO_0000015,bioassay,BAO_0010105
+http://www.bioassayontology.org/bao#BAO_0010104,simulated gastric fluid stability assay,BAO_0000015,bioassay,BAO_0010104
+http://www.bioassayontology.org/bao#BAO_0010100,hepatocyte stability assay,BAO_0000015,bioassay,BAO_0010100
+http://www.bioassayontology.org/bao#BAO_0010101,hepatocyte low clearance relay assay,BAO_0000015,bioassay,BAO_0010101
+http://www.bioassayontology.org/bao#BAO_0010102,hepatocyte co-culture low clearance assay,BAO_0000015,bioassay,BAO_0010102
+http://www.bioassayontology.org/bao#BAO_0010269,chemotaxis assay,BAO_0000015,bioassay,BAO_0010269
+http://www.bioassayontology.org/bao#BAO_0002761,chaperone activity assay,BAO_0000015,bioassay,BAO_0002761
+http://www.bioassayontology.org/bao#BAO_0002041,cell cycle assay,BAO_0000015,bioassay,BAO_0002041
+http://www.bioassayontology.org/bao#BAO_0002786,cell cycle state assay,BAO_0000015,bioassay,BAO_0002786
+http://www.bioassayontology.org/bao#BAO_0010004,mitosis/apoptosis assay,BAO_0000015,bioassay,BAO_0010004
+http://www.bioassayontology.org/bao#BAO_0002585,meiotic cell cycle state assay,BAO_0000015,bioassay,BAO_0002585
+http://www.bioassayontology.org/bao#BAO_0002584,mitotic cell cycle state assay,BAO_0000015,bioassay,BAO_0002584
+http://www.bioassayontology.org/bao#BAO_0010055,Fluorescence imaging cell cycle state assay,BAO_0000015,bioassay,BAO_0010055
+http://www.bioassayontology.org/bao#BAO_0002532,tissue distribution assay,BAO_0000015,bioassay,BAO_0002532
+http://www.bioassayontology.org/bao#BAO_0010138,microsomal binding assay,BAO_0000015,bioassay,BAO_0010138
+http://www.bioassayontology.org/bao#BAO_0010135,plasma protein binding assay,BAO_0000015,bioassay,BAO_0010135
+http://www.bioassayontology.org/bao#BAO_0010133,tissue binding assay,BAO_0000015,bioassay,BAO_0010133
+http://www.bioassayontology.org/bao#BAO_0010136,media binding assay,BAO_0000015,bioassay,BAO_0010136
+http://www.bioassayontology.org/bao#BAO_0010137,BSA binding asssay,BAO_0000015,bioassay,BAO_0010137
+http://www.bioassayontology.org/bao#BAO_0010132,blood to plasma ratio assay,BAO_0000015,bioassay,BAO_0010132
+http://www.bioassayontology.org/bao#BAO_0010134,placental transfer assay,BAO_0000015,bioassay,BAO_0010134
+http://www.bioassayontology.org/bao#BAO_0002530,bioavailability assay,BAO_0000015,bioassay,BAO_0002530
+http://www.bioassayontology.org/bao#BAO_0002533,safety pharmacology assay,BAO_0000015,bioassay,BAO_0002533
+http://www.bioassayontology.org/bao#BAO_0002188,drug interaction assay,BAO_0000015,bioassay,BAO_0002188
+http://www.bioassayontology.org/bao#BAO_0010157,enzyme inhibition assay,BAO_0000015,bioassay,BAO_0010157
+http://www.bioassayontology.org/bao#BAO_0010173,UGT inhibition assay,BAO_0000015,bioassay,BAO_0010173
+http://www.bioassayontology.org/bao#BAO_0010174,UGT1A1 with BSA assay,BAO_0000015,bioassay,BAO_0010174
+http://www.bioassayontology.org/bao#BAO_0010176,UGT1A4 with BSA assay,BAO_0000015,bioassay,BAO_0010176
+http://www.bioassayontology.org/bao#BAO_0010175,UGT1A1 without BSA assay,BAO_0000015,bioassay,BAO_0010175
+http://www.bioassayontology.org/bao#BAO_0010177,UGT1A4 without BSA assay,BAO_0000015,bioassay,BAO_0010177
+http://www.bioassayontology.org/bao#BAO_0010179,UGT1A6 without BSA assay,BAO_0000015,bioassay,BAO_0010179
+http://www.bioassayontology.org/bao#BAO_0010178,UGT1A6 with BSA assay,BAO_0000015,bioassay,BAO_0010178
+http://www.bioassayontology.org/bao#BAO_0010181,UGT1A9 without BSA assay,BAO_0000015,bioassay,BAO_0010181
+http://www.bioassayontology.org/bao#BAO_0010185,UGT2B7 without BSA assay,BAO_0000015,bioassay,BAO_0010185
+http://www.bioassayontology.org/bao#BAO_0010182,UGT2B15 with BSA assay,BAO_0000015,bioassay,BAO_0010182
+http://www.bioassayontology.org/bao#BAO_0010180,UGT1A9 with BSA assay,BAO_0000015,bioassay,BAO_0010180
+http://www.bioassayontology.org/bao#BAO_0010184,UGT2B7 with BSA assay,BAO_0000015,bioassay,BAO_0010184
+http://www.bioassayontology.org/bao#BAO_0010183,UGT2B15 without BSA assay,BAO_0000015,bioassay,BAO_0010183
+http://www.bioassayontology.org/bao#BAO_0010159,CYP inhibition assay,BAO_0000015,bioassay,BAO_0010159
+http://www.bioassayontology.org/bao#BAO_0010162,CYP2C19 inhibition assay,BAO_0000015,bioassay,BAO_0010162
+http://www.bioassayontology.org/bao#BAO_0010166,CYP cocktail IC50 assay,BAO_0000015,bioassay,BAO_0010166
+http://www.bioassayontology.org/bao#BAO_0010163,CYP2C8 inhibition assay,BAO_0000015,bioassay,BAO_0010163
+http://www.bioassayontology.org/bao#BAO_0010164,CYP2C9 inhibition assay,BAO_0000015,bioassay,BAO_0010164
+http://www.bioassayontology.org/bao#BAO_0010165,CYP3A4 inhibition assay,BAO_0000015,bioassay,BAO_0010165
+http://www.bioassayontology.org/bao#BAO_0010160,CYP1A2 inhibition assay,BAO_0000015,bioassay,BAO_0010160
+http://www.bioassayontology.org/bao#BAO_0010161,CYP2B6 inhibition assay,BAO_0000015,bioassay,BAO_0010161
+http://www.bioassayontology.org/bao#BAO_0010167,CYP single point inhibition assay,BAO_0000015,bioassay,BAO_0010167
+http://www.bioassayontology.org/bao#BAO_0010158,monoamine oxidase inhibition assay,BAO_0000015,bioassay,BAO_0010158
+http://www.bioassayontology.org/bao#BAO_0010169,CYP time-dependent inhibition assay,BAO_0000015,bioassay,BAO_0010169
+http://www.bioassayontology.org/bao#BAO_0010171,CYP time dependent inhibition kinact/KI assay,BAO_0000015,bioassay,BAO_0010171
+http://www.bioassayontology.org/bao#BAO_0010172,CYP time dependent inhibition single point assay,BAO_0000015,bioassay,BAO_0010172
+http://www.bioassayontology.org/bao#BAO_0010170,CYP time dependent inhibition IC50 shift assay,BAO_0000015,bioassay,BAO_0010170
+http://www.bioassayontology.org/bao#BAO_0010144,receptor induction assay,BAO_0000015,bioassay,BAO_0010144
+http://www.bioassayontology.org/bao#BAO_0010145,Fc/FcRN induction assay,BAO_0000015,bioassay,BAO_0010145
+http://www.bioassayontology.org/bao#BAO_0010146,enzyme induction assay,BAO_0000015,bioassay,BAO_0010146
+http://www.bioassayontology.org/bao#BAO_0010148,UGT induction assay,BAO_0000015,bioassay,BAO_0010148
+http://www.bioassayontology.org/bao#BAO_0010147,CYP induction screen,BAO_0000015,bioassay,BAO_0010147
+http://www.bioassayontology.org/bao#BAO_0010149,CYP induction assay,BAO_0000015,bioassay,BAO_0010149
+http://www.bioassayontology.org/bao#BAO_0010151,CYP2B6 induction assay,BAO_0000015,bioassay,BAO_0010151
+http://www.bioassayontology.org/bao#BAO_0010152,CYP2C19 induction assay,BAO_0000015,bioassay,BAO_0010152
+http://www.bioassayontology.org/bao#BAO_0010154,CYP2C9 induction assay,BAO_0000015,bioassay,BAO_0010154
+http://www.bioassayontology.org/bao#BAO_0010153,CYP2C8 induction assay,BAO_0000015,bioassay,BAO_0010153
+http://www.bioassayontology.org/bao#BAO_0010156,Relative Induction Score determination,BAO_0000015,bioassay,BAO_0010156
+http://www.bioassayontology.org/bao#BAO_0010150,CYP1A2 induction assay,BAO_0000015,bioassay,BAO_0010150
+http://www.bioassayontology.org/bao#BAO_0010155,CYP3A4 induction assay,BAO_0000015,bioassay,BAO_0010155
+http://www.bioassayontology.org/bao#BAO_0002184,QT interval assay,BAO_0000015,bioassay,BAO_0002184
+http://www.bioassayontology.org/bao#BAO_0010263,CEREP assay,BAO_0000015,bioassay,BAO_0010263
+http://www.bioassayontology.org/bao#BAO_0002535,metastasis assay,BAO_0000015,bioassay,BAO_0002535
+http://www.bioassayontology.org/bao#BAO_0002531,non-specific protein binding assay,BAO_0000015,bioassay,BAO_0002531
+http://www.bioassayontology.org/bao#BAO_0002100,cell growth assay,BAO_0000015,bioassay,BAO_0002100
+http://www.bioassayontology.org/bao#BAO_0010060,MEMA cell growth assay,BAO_0000015,bioassay,BAO_0010060
+http://www.bioassayontology.org/bao#BAO_0003010,protein-turnover assay,BAO_0000015,bioassay,BAO_0003010
+http://www.bioassayontology.org/bao#BAO_0002429,assay supporting method,BAO_0003028,assay method,BAO_0002429
+http://www.bioassayontology.org/bao#BAO_0000468,signal quantitation method,BAO_0003028,assay method,BAO_0000468
+http://www.bioassayontology.org/bao#BAO_0000464,densitometric scan,BAO_0003028,assay method,BAO_0000464
+http://www.bioassayontology.org/bao#BAO_0002485,reconstitution method,BAO_0003028,assay method,BAO_0002485
+http://www.bioassayontology.org/bao#BAO_0002486,complementation method,BAO_0003028,assay method,BAO_0002486
+http://www.bioassayontology.org/bao#BAO_0002488,genetic complementation,BAO_0003028,assay method,BAO_0002488
+http://www.bioassayontology.org/bao#BAO_0002489,hybrid screening,BAO_0003028,assay method,BAO_0002489
+http://www.bioassayontology.org/bao#BAO_0002492,two-hybrid assay,BAO_0003028,assay method,BAO_0002492
+http://www.bioassayontology.org/bao#BAO_0002493,mammalian two-hybrid assay,BAO_0003028,assay method,BAO_0002493
+http://www.bioassayontology.org/bao#BAO_0002494,yeast two-hybrid assay,BAO_0003028,assay method,BAO_0002494
+http://www.bioassayontology.org/bao#BAO_0002490,one-hybrid assay,BAO_0003028,assay method,BAO_0002490
+http://www.bioassayontology.org/bao#BAO_0002491,three-hybrid assay,BAO_0003028,assay method,BAO_0002491
+http://www.bioassayontology.org/bao#BAO_0002487,chemical complementation,BAO_0003028,assay method,BAO_0002487
+http://www.bioassayontology.org/bao#BAO_0002495,protein complementation,BAO_0003028,assay method,BAO_0002495
+http://www.bioassayontology.org/bao#BAO_0002496,enzyme complementation,BAO_0003028,assay method,BAO_0002496
+http://www.bioassayontology.org/bao#BAO_0002497,enzyme fragment complementation,BAO_0003028,assay method,BAO_0002497
+http://www.bioassayontology.org/bao#BAO_0002498,liposome reconstitution,BAO_0003028,assay method,BAO_0002498
+http://www.bioassayontology.org/bao#BAO_0002499,parallel artificial membrane permeation assay,BAO_0003028,assay method,BAO_0002499
+http://www.bioassayontology.org/bao#BAO_0002445,genotyping method,BAO_0003028,assay method,BAO_0002445
+http://purl.obolibrary.org/obo/NCIT_C101294,Whole Genome Sequencing,BAO_0003028,assay method,NCIT_C101294
+http://www.bioassayontology.org/bao#BAO_0002449,single nucleotide polymorphism genotyping,BAO_0003028,assay method,BAO_0002449
+http://www.bioassayontology.org/bao#BAO_0002448,restriction enzyme-based method,BAO_0003028,assay method,BAO_0002448
+http://www.bioassayontology.org/bao#BAO_0002446,nucleic acid hybridization-based method,BAO_0003028,assay method,BAO_0002446
+http://www.bioassayontology.org/bao#BAO_0002451,chromosome mapping,BAO_0003028,assay method,BAO_0002451
+http://www.bioassayontology.org/bao#BAO_0002450,nucleic acid amplification method,BAO_0003028,assay method,BAO_0002450
+http://www.bioassayontology.org/bao#BAO_0002080,polymerase chain reaction,BAO_0003028,assay method,BAO_0002080
+http://www.bioassayontology.org/bao#BAO_0002089,reverse transcription PCR,BAO_0003028,assay method,BAO_0002089
+http://www.bioassayontology.org/bao#BAO_0002090,quantitative reverse transcription PCR,BAO_0003028,assay method,BAO_0002090
+http://www.bioassayontology.org/bao#BAO_0002084,real-time PCR ,BAO_0003028,assay method,BAO_0002084
+http://www.bioassayontology.org/bao#BAO_0003031,quantitative PCR,BAO_0003028,assay method,BAO_0003031
+http://www.bioassayontology.org/bao#BAO_0002198,delivery method,BAO_0003028,assay method,BAO_0002198
+http://www.bioassayontology.org/bao#BAO_0002155,silencing RNA delivery method,BAO_0003028,assay method,BAO_0002155
+http://www.bioassayontology.org/bao#BAO_0000245,transfection method,BAO_0003028,assay method,BAO_0000245
+http://www.bioassayontology.org/bao#BAO_0000247,transient transfection,BAO_0003028,assay method,BAO_0000247
+http://www.bioassayontology.org/bao#BAO_0000246,stable transfection,BAO_0003028,assay method,BAO_0000246
+http://www.bioassayontology.org/bao#BAO_0000545,recombinant virus transduction method,BAO_0003028,assay method,BAO_0000545
+http://www.bioassayontology.org/bao#BAO_0000573,perturbagen delivery method,BAO_0003028,assay method,BAO_0000573
+http://www.bioassayontology.org/bao#BAO_0000574,single perturbagen,BAO_0003028,assay method,BAO_0000574
+http://www.bioassayontology.org/bao#BAO_0000575,mixture of perturbagens,BAO_0003028,assay method,BAO_0000575
+http://www.bioassayontology.org/bao#BAO_0002197,modification method,BAO_0003028,assay method,BAO_0002197
+http://www.bioassayontology.org/bao#BAO_0002632,protein modification method,BAO_0003028,assay method,BAO_0002632
+http://www.bioassayontology.org/bao#BAO_0002631,protein denaturation method,BAO_0003028,assay method,BAO_0002631
+http://www.bioassayontology.org/bao#BAO_0002634,chemical denaturation,BAO_0003028,assay method,BAO_0002634
+http://www.bioassayontology.org/bao#BAO_0002633,heat denaturation,BAO_0003028,assay method,BAO_0002633
+http://www.bioassayontology.org/bao#BAO_0002635,RNA modification method,BAO_0003028,assay method,BAO_0002635
+http://www.bioassayontology.org/bao#BAO_0002165,silencing RNA modification method,BAO_0003028,assay method,BAO_0002165
+http://www.bioassayontology.org/bao#BAO_0000238,cell line modification method,BAO_0003028,assay method,BAO_0000238
+http://www.bioassayontology.org/bao#BAO_0000240,cell fusion method,BAO_0003028,assay method,BAO_0000240
+http://www.bioassayontology.org/bao#BAO_0000242,cybrid cell creation method,BAO_0003028,assay method,BAO_0000242
+http://www.bioassayontology.org/bao#BAO_0000243,hybrid cell creation method,BAO_0003028,assay method,BAO_0000243
+http://www.bioassayontology.org/bao#BAO_0000241,genetic modification method,BAO_0003028,assay method,BAO_0000241
+http://www.bioassayontology.org/bao#BAO_0000245,transfection method,BAO_0003028,assay method,BAO_0000245
+http://www.bioassayontology.org/bao#BAO_0000247,transient transfection,BAO_0003028,assay method,BAO_0000247
+http://www.bioassayontology.org/bao#BAO_0000246,stable transfection,BAO_0003028,assay method,BAO_0000246
+http://www.bioassayontology.org/bao#BAO_0000244,viral transduction method,BAO_0003028,assay method,BAO_0000244
+http://www.bioassayontology.org/bao#BAO_0000546,pathogenic virus transduction method,BAO_0003028,assay method,BAO_0000546
+http://www.bioassayontology.org/bao#BAO_0000545,recombinant virus transduction method,BAO_0003028,assay method,BAO_0000545
+http://www.bioassayontology.org/bao#BAO_0000547,bacterial infection method,BAO_0003028,assay method,BAO_0000547
+http://www.bioassayontology.org/bao#BAO_0002452,labeling method,BAO_0003028,assay method,BAO_0002452
+http://www.bioassayontology.org/bao#BAO_0002480,vital dye staining,BAO_0003028,assay method,BAO_0002480
+http://www.bioassayontology.org/bao#BAO_0002481,dye exclusion method,BAO_0003028,assay method,BAO_0002481
+http://www.bioassayontology.org/bao#BAO_0002482,propidium iodide exclusion,BAO_0003028,assay method,BAO_0002482
+http://www.bioassayontology.org/bao#BAO_0002461,trypan blue cell staining,BAO_0003028,assay method,BAO_0002461
+http://www.bioassayontology.org/bao#BAO_0002483,vital staining of cells,BAO_0003028,assay method,BAO_0002483
+http://www.bioassayontology.org/bao#BAO_0002484,vital staining of organelles,BAO_0003028,assay method,BAO_0002484
+http://www.bioassayontology.org/bao#BAO_0002469,fluorescent labeling method,BAO_0003028,assay method,BAO_0002469
+http://www.bioassayontology.org/bao#BAO_0002470,fluorescent DNA hybridization probe method,BAO_0003028,assay method,BAO_0002470
+http://www.bioassayontology.org/bao#BAO_0002471,fluorescent DNA hydrolysis probe method,BAO_0003028,assay method,BAO_0002471
+http://www.bioassayontology.org/bao#BAO_0002472,fluorescent DNA intercalation method,BAO_0003028,assay method,BAO_0002472
+http://www.bioassayontology.org/bao#BAO_0002473,SYBR Green I DNA staining,BAO_0003028,assay method,BAO_0002473
+http://www.bioassayontology.org/bao#BAO_0002475,fluorescent intercalator displacement,BAO_0003028,assay method,BAO_0002475
+http://www.bioassayontology.org/bao#BAO_0002474,ethidium bromide DNA staining,BAO_0003028,assay method,BAO_0002474
+http://www.bioassayontology.org/bao#BAO_0002476,propidium iodide DNA staining,BAO_0003028,assay method,BAO_0002476
+http://www.bioassayontology.org/bao#BAO_0002477,fluorescent dye transfer,BAO_0003028,assay method,BAO_0002477
+http://www.bioassayontology.org/bao#BAO_0040025,chemiluminescent labeling method,BAO_0003028,assay method,BAO_0040025
+http://www.bioassayontology.org/bao#BAO_0002478,isotope labeling method,BAO_0003028,assay method,BAO_0002478
+http://www.bioassayontology.org/bao#BAO_0002479,photoaffinity labeling,BAO_0003028,assay method,BAO_0002479
+http://www.bioassayontology.org/bao#BAO_0002425,immunolabeling method,BAO_0003028,assay method,BAO_0002425
+http://www.bioassayontology.org/bao#BAO_0002427,immunogold labeling,BAO_0003028,assay method,BAO_0002427
+http://www.bioassayontology.org/bao#BAO_0002426,immunofluorescent labeling,BAO_0003028,assay method,BAO_0002426
+http://www.bioassayontology.org/bao#BAO_0002453,colorimetric labeling method,BAO_0003028,assay method,BAO_0002453
+http://www.bioassayontology.org/bao#BAO_0002462,colorimetric protein staining method,BAO_0003028,assay method,BAO_0002462
+http://www.bioassayontology.org/bao#BAO_0002460,sulforhodamine B staining,BAO_0003028,assay method,BAO_0002460
+http://www.bioassayontology.org/bao#BAO_0002466,Ponceau S protein staining,BAO_0003028,assay method,BAO_0002466
+http://www.bioassayontology.org/bao#BAO_0002463,Bradford protein assay,BAO_0003028,assay method,BAO_0002463
+http://www.bioassayontology.org/bao#BAO_0002464,Coomassie dye protein staining,BAO_0003028,assay method,BAO_0002464
+http://www.bioassayontology.org/bao#BAO_0002465,Lowry assay,BAO_0003028,assay method,BAO_0002465
+http://www.bioassayontology.org/bao#BAO_0002467,bicinchoninic acid assay,BAO_0003028,assay method,BAO_0002467
+http://www.bioassayontology.org/bao#BAO_0002468,crystal violet staining,BAO_0003028,assay method,BAO_0002468
+http://www.bioassayontology.org/bao#BAO_0002455,colorimetric cell staining method,BAO_0003028,assay method,BAO_0002455
+http://www.bioassayontology.org/bao#BAO_0002460,sulforhodamine B staining,BAO_0003028,assay method,BAO_0002460
+http://www.bioassayontology.org/bao#BAO_0002461,trypan blue cell staining,BAO_0003028,assay method,BAO_0002461
+http://www.bioassayontology.org/bao#BAO_0002456,MTS reduction assay,BAO_0003028,assay method,BAO_0002456
+http://www.bioassayontology.org/bao#BAO_0002458,XTT reduction assay,BAO_0003028,assay method,BAO_0002458
+http://www.bioassayontology.org/bao#BAO_0002457,MTT reduction assay,BAO_0003028,assay method,BAO_0002457
+http://www.bioassayontology.org/bao#BAO_0002459,resazurin reduction assay,BAO_0003028,assay method,BAO_0002459
+http://www.bioassayontology.org/bao#BAO_0002647,cell culture method,BAO_0003028,assay method,BAO_0002647
+http://www.bioassayontology.org/bao#BAO_0002649,co-culture,BAO_0003028,assay method,BAO_0002649
+http://www.bioassayontology.org/bao#BAO_0002648,one cell type,BAO_0003028,assay method,BAO_0002648
+http://www.bioassayontology.org/bao#BAO_0002754,assay data processing method,BAO_0003028,assay method,BAO_0002754
+http://www.bioassayontology.org/bao#BAO_0000433,curve fit method,BAO_0003028,assay method,BAO_0000433
+http://www.bioassayontology.org/bao#BAO_0040001,image analysis method,BAO_0003028,assay method,BAO_0040001
+http://www.bioassayontology.org/bao#BAO_0040002,image correction,BAO_0003028,assay method,BAO_0040002
+http://www.bioassayontology.org/bao#BAO_0040005,image sharpening,BAO_0003028,assay method,BAO_0040005
+http://www.bioassayontology.org/bao#BAO_0040006,image smoothing,BAO_0003028,assay method,BAO_0040006
+http://www.bioassayontology.org/bao#BAO_0040004,image resize,BAO_0003028,assay method,BAO_0040004
+http://www.bioassayontology.org/bao#BAO_0040003,background correction,BAO_0003028,assay method,BAO_0040003
+http://www.bioassayontology.org/bao#BAO_0040007,image segmentation,BAO_0003028,assay method,BAO_0040007
+http://www.bioassayontology.org/bao#BAO_0040008,edge detection,BAO_0003028,assay method,BAO_0040008
+http://www.bioassayontology.org/bao#BAO_0040009,image thresholding,BAO_0003028,assay method,BAO_0040009
+http://www.bioassayontology.org/bao#BAO_0002140,activity threshold specification,BAO_0003028,assay method,BAO_0002140
+http://www.bioassayontology.org/bao#BAO_0002141,activity threshold signal direction,BAO_0003028,assay method,BAO_0002141
+http://www.bioassayontology.org/bao#BAO_0000075,endpoint normalization method,BAO_0003028,assay method,BAO_0000075
+http://www.bioassayontology.org/bao#BAO_0002751,normalization without control,BAO_0003028,assay method,BAO_0002751
+http://www.bioassayontology.org/bao#BAO_0002159,b-score normalization,BAO_0003028,assay method,BAO_0002159
+http://www.bioassayontology.org/bao#BAO_0002161,mad-score normalization,BAO_0003028,assay method,BAO_0002161
+http://www.bioassayontology.org/bao#BAO_0002160,z-score normalization,BAO_0003028,assay method,BAO_0002160
+http://www.bioassayontology.org/bao#BAO_0002750,normalization based on control,BAO_0003028,assay method,BAO_0002750
+http://www.bioassayontology.org/bao#BAO_0000431,percent control normalization,BAO_0003028,assay method,BAO_0000431
+http://www.bioassayontology.org/bao#BAO_0001104,percent activation normalization,BAO_0003028,assay method,BAO_0001104
+http://www.bioassayontology.org/bao#BAO_0000065,percent inhibition normalization,BAO_0003028,assay method,BAO_0000065
+http://www.bioassayontology.org/bao#BAO_0002170,endpoint modifier,BAO_0003028,assay method,BAO_0002170
+http://www.bioassayontology.org/bao#BAO_0002172,log,BAO_0003028,assay method,BAO_0002172
+http://www.bioassayontology.org/bao#BAO_0002174,median,BAO_0003028,assay method,BAO_0002174
+http://www.bioassayontology.org/bao#BAO_0002175,p,BAO_0003028,assay method,BAO_0002175
+http://www.bioassayontology.org/bao#BAO_0002171,ln,BAO_0003028,assay method,BAO_0002171
+http://www.bioassayontology.org/bao#BAO_0002173,mean,BAO_0003028,assay method,BAO_0002173
+http://www.bioassayontology.org/bao#BAO_0002176,standard deviation,BAO_0003028,assay method,BAO_0002176
+http://www.bioassayontology.org/bao#BAO_0000028,assay quality assessment method,BAO_0003028,assay method,BAO_0000028
+http://www.bioassayontology.org/bao#BAO_0000530,signal to noise,BAO_0003028,assay method,BAO_0000530
+http://www.bioassayontology.org/bao#BAO_0000531,coefficient of variation,BAO_0003028,assay method,BAO_0000531
+http://www.bioassayontology.org/bao#BAO_0000529,signal window,BAO_0003028,assay method,BAO_0000529
+http://www.bioassayontology.org/bao#BAO_0000528,z-prime factor,BAO_0003028,assay method,BAO_0000528
+http://www.bioassayontology.org/bao#BAO_0000527,z factor,BAO_0003028,assay method,BAO_0000527
+http://www.bioassayontology.org/bao#BAO_0002143,robust z-prime factor,BAO_0003028,assay method,BAO_0002143
+http://www.bioassayontology.org/bao#BAO_0000043,endpoint qualifier,BAO_0003028,assay method,BAO_0000043
+http://www.bioassayontology.org/bao#BAO_0000419,endpoint correction,BAO_0003028,assay method,BAO_0000419
+http://www.bioassayontology.org/bao#BAO_0002431,gene expression modulation method,BAO_0003028,assay method,BAO_0002431
+http://www.bioassayontology.org/bao#BAO_0002441,gene knockout,BAO_0003028,assay method,BAO_0002441
+http://www.bioassayontology.org/bao#BAO_0002442,gene overexpression,BAO_0003028,assay method,BAO_0002442
+http://www.bioassayontology.org/bao#BAO_0002443,gene overexpression by stable transfection,BAO_0003028,assay method,BAO_0002443
+http://www.bioassayontology.org/bao#BAO_0002444,gene overexpression by transient transfection,BAO_0003028,assay method,BAO_0002444
+http://www.bioassayontology.org/bao#BAO_0002432,gene knock in,BAO_0003028,assay method,BAO_0002432
+http://www.bioassayontology.org/bao#BAO_0002433,gene knockdown,BAO_0003028,assay method,BAO_0002433
+http://www.bioassayontology.org/bao#BAO_0002440,gene knockdown by morpholino treatment,BAO_0003028,assay method,BAO_0002440
+http://www.bioassayontology.org/bao#BAO_0002439,gene knockdown by antisense RNA,BAO_0003028,assay method,BAO_0002439
+http://www.bioassayontology.org/bao#BAO_0002434,gene knockdown by RNA interference,BAO_0003028,assay method,BAO_0002434
+http://www.bioassayontology.org/bao#BAO_0002437,gene knockdown by shRNA transfection,BAO_0003028,assay method,BAO_0002437
+http://www.bioassayontology.org/bao#BAO_0002436,gene knockdown by lentiviral shRNA transduction,BAO_0003028,assay method,BAO_0002436
+http://www.bioassayontology.org/bao#BAO_0002435,gene knockdown by dsRNA transfection,BAO_0003028,assay method,BAO_0002435
+http://www.bioassayontology.org/bao#BAO_0002438,gene knockdown by siRNA transfection,BAO_0003028,assay method,BAO_0002438
+http://www.bioassayontology.org/bao#BAO_0010249,CRISPR/Cas9 method,BAO_0003028,assay method,BAO_0010249
+http://www.bioassayontology.org/bao#BAO_0002014,preparation method,BAO_0003028,assay method,BAO_0002014
+http://www.bioassayontology.org/bao#BAO_0002151,RNA interference construct preparation method,BAO_0003028,assay method,BAO_0002151
+http://www.bioassayontology.org/bao#BAO_0000356,protein preparation method,BAO_0003028,assay method,BAO_0000356
+http://www.bioassayontology.org/bao#BAO_0002076,extraction from natural source,BAO_0003028,assay method,BAO_0002076
+http://www.bioassayontology.org/bao#BAO_0002078,purification from natural source,BAO_0003028,assay method,BAO_0002078
+http://www.bioassayontology.org/bao#BAO_0002077,synthesis by a chemical process,BAO_0003028,assay method,BAO_0002077
+http://www.bioassayontology.org/bao#BAO_0000360,recombinant expression,BAO_0003028,assay method,BAO_0000360
+http://www.bioassayontology.org/bao#BAO_0002601,antibody preparation method,BAO_0003028,assay method,BAO_0002601
+http://www.bioassayontology.org/bao#BAO_0002603,affinity purification method,BAO_0003028,assay method,BAO_0002603
+http://www.bioassayontology.org/bao#BAO_0002607,protein A/G-based affinity purification method,BAO_0003028,assay method,BAO_0002607
+http://www.bioassayontology.org/bao#BAO_0002608,protein L-based affinity purification method,BAO_0003028,assay method,BAO_0002608
+http://www.bioassayontology.org/bao#BAO_0002604,protein G-based affinity purification method,BAO_0003028,assay method,BAO_0002604
+http://www.bioassayontology.org/bao#BAO_0002606,protein A-based affinity purification method,BAO_0003028,assay method,BAO_0002606
+http://www.bioassayontology.org/bao#BAO_0002605,antigen-based affinity purification method,BAO_0003028,assay method,BAO_0002605
+http://www.bioassayontology.org/bao#BAO_0002602,ammonium sulfate precipitation method,BAO_0003028,assay method,BAO_0002602
+http://www.bioassayontology.org/bao#BAO_0003029,small molecule preparation method,BAO_0003028,assay method,BAO_0003029
+http://www.bioassayontology.org/bao#BAO_0002076,extraction from natural source,BAO_0003028,assay method,BAO_0002076
+http://www.bioassayontology.org/bao#BAO_0002078,purification from natural source,BAO_0003028,assay method,BAO_0002078
+http://www.bioassayontology.org/bao#BAO_0002077,synthesis by a chemical process,BAO_0003028,assay method,BAO_0002077
+http://www.bioassayontology.org/bao#BAO_0002011,processing method,BAO_0003028,assay method,BAO_0002011
+http://www.bioassayontology.org/bao#BAO_0002033,cell processing method,BAO_0003028,assay method,BAO_0002033
+http://www.bioassayontology.org/bao#BAO_0002035,cell fixation method,BAO_0003028,assay method,BAO_0002035
+http://www.bioassayontology.org/bao#BAO_0002036,tissue processing method,BAO_0003028,assay method,BAO_0002036
+http://purl.obolibrary.org/obo/NCIT_C19286,Tissue Slice Technology,BAO_0003028,assay method,NCIT_C19286
+http://www.bioassayontology.org/bao#BAO_0002037,tissue fixation method,BAO_0003028,assay method,BAO_0002037
+http://www.bioassayontology.org/bao#BAO_0002500,separation method,BAO_0003028,assay method,BAO_0002500
+http://www.bioassayontology.org/bao#BAO_0002502,antibody-based separation method,BAO_0003028,assay method,BAO_0002502
+http://www.bioassayontology.org/bao#BAO_0002503,immunocapture,BAO_0003028,assay method,BAO_0002503
+http://www.bioassayontology.org/bao#BAO_0002504,immunochromatography,BAO_0003028,assay method,BAO_0002504
+http://www.bioassayontology.org/bao#BAO_0002507,immunomagnetic separation method,BAO_0003028,assay method,BAO_0002507
+http://www.bioassayontology.org/bao#BAO_0002505,immunodepletion,BAO_0003028,assay method,BAO_0002505
+http://www.bioassayontology.org/bao#BAO_0002508,immunoprecipitation,BAO_0003028,assay method,BAO_0002508
+http://www.bioassayontology.org/bao#BAO_0002509,cell separation method,BAO_0003028,assay method,BAO_0002509
+http://www.bioassayontology.org/bao#BAO_0002501,affinity selection,BAO_0003028,assay method,BAO_0002501
+http://www.bioassayontology.org/bao#BAO_0002026,structure analysis method,BAO_0003028,assay method,BAO_0002026
+http://www.bioassayontology.org/bao#BAO_0002409,secondary structure analysis method,BAO_0003028,assay method,BAO_0002409
+http://www.bioassayontology.org/bao#BAO_0002410,structure activity relationship analysis,BAO_0003028,assay method,BAO_0002410
+http://www.bioassayontology.org/bao#BAO_0002305,quantitative structure activity relationship analysis,BAO_0003028,assay method,BAO_0002305
+http://www.bioassayontology.org/bao#BAO_0002306,linear QSAR,BAO_0003028,assay method,BAO_0002306
+http://www.bioassayontology.org/bao#BAO_0002307,partial least squares QSAR,BAO_0003028,assay method,BAO_0002307
+http://www.bioassayontology.org/bao#BAO_0002308,regression QSAR,BAO_0003028,assay method,BAO_0002308
+http://www.bioassayontology.org/bao#BAO_0002309,non-linear QSAR,BAO_0003028,assay method,BAO_0002309
+http://www.bioassayontology.org/bao#BAO_0002310,neural network QSAR,BAO_0003028,assay method,BAO_0002310
+http://www.bioassayontology.org/bao#BAO_0002311,recursive partitioning QSAR,BAO_0003028,assay method,BAO_0002311
+http://www.bioassayontology.org/bao#BAO_0002312,three dimensional QSAR,BAO_0003028,assay method,BAO_0002312
+http://www.bioassayontology.org/bao#BAO_0002315,self organizing molecular field analysis,BAO_0003028,assay method,BAO_0002315
+http://www.bioassayontology.org/bao#BAO_0002314,comparative molecular similarity indices analysis,BAO_0003028,assay method,BAO_0002314
+http://www.bioassayontology.org/bao#BAO_0002313,comparative molecular field analysis,BAO_0003028,assay method,BAO_0002313
+http://www.bioassayontology.org/bao#BAO_0002316,two dimensional QSAR,BAO_0003028,assay method,BAO_0002316
+http://www.bioassayontology.org/bao#BAO_0002412,SAR by NMR,BAO_0003028,assay method,BAO_0002412
+http://www.bioassayontology.org/bao#BAO_0002045,primary structure analysis method,BAO_0003028,assay method,BAO_0002045
+http://www.bioassayontology.org/bao#BAO_0002212,computational structure analysis,BAO_0003028,assay method,BAO_0002212
+http://www.bioassayontology.org/bao#BAO_0002213,2D structure prediction,BAO_0003028,assay method,BAO_0002213
+http://www.bioassayontology.org/bao#BAO_0002214,PREDATOR structure prediction,BAO_0003028,assay method,BAO_0002214
+http://www.bioassayontology.org/bao#BAO_0002215,PredictProtein structure prediction,BAO_0003028,assay method,BAO_0002215
+http://www.bioassayontology.org/bao#BAO_0002216,3D structure prediction,BAO_0003028,assay method,BAO_0002216
+http://www.bioassayontology.org/bao#BAO_0002228,structure alignment,BAO_0003028,assay method,BAO_0002228
+http://www.bioassayontology.org/bao#BAO_0002230,matching molecular models obtained from theory,BAO_0003028,assay method,BAO_0002230
+http://www.bioassayontology.org/bao#BAO_0002229,distance matrix alignment,BAO_0003028,assay method,BAO_0002229
+http://www.bioassayontology.org/bao#BAO_0002221,homology modeling,BAO_0003028,assay method,BAO_0002221
+http://www.bioassayontology.org/bao#BAO_0002223,SwissModel homology modeling,BAO_0003028,assay method,BAO_0002223
+http://www.bioassayontology.org/bao#BAO_0002222,MODELLER homology modeling,BAO_0003028,assay method,BAO_0002222
+http://www.bioassayontology.org/bao#BAO_0002224,protein threading,BAO_0003028,assay method,BAO_0002224
+http://www.bioassayontology.org/bao#BAO_0002225,RAPTOR protein threading,BAO_0003028,assay method,BAO_0002225
+http://www.bioassayontology.org/bao#BAO_0002226,protein-protein docking,BAO_0003028,assay method,BAO_0002226
+http://www.bioassayontology.org/bao#BAO_0002227,global range molecular matching,BAO_0003028,assay method,BAO_0002227
+http://www.bioassayontology.org/bao#BAO_0002217,computational structure solution,BAO_0003028,assay method,BAO_0002217
+http://www.bioassayontology.org/bao#BAO_0002220,computational electron microscopy structure solution,BAO_0003028,assay method,BAO_0002220
+http://www.bioassayontology.org/bao#BAO_0002218,computational NMR structure solution,BAO_0003028,assay method,BAO_0002218
+http://www.bioassayontology.org/bao#BAO_0002219,computational X-ray structure solution,BAO_0003028,assay method,BAO_0002219
+http://www.bioassayontology.org/bao#BAO_0002413,titration method,BAO_0003028,assay method,BAO_0002413
+http://www.bioassayontology.org/bao#BAO_0002454,volumetric titration,BAO_0003028,assay method,BAO_0002454
+http://www.bioassayontology.org/bao#BAO_0002418,dilution method,BAO_0003028,assay method,BAO_0002418
+http://www.bioassayontology.org/bao#BAO_0002416,checkerboard titration,BAO_0003028,assay method,BAO_0002416
+http://www.bioassayontology.org/bao#BAO_0002414,Karl Fischer titration,BAO_0003028,assay method,BAO_0002414
+http://www.bioassayontology.org/bao#BAO_0002202,assay design method,BAO_0003028,assay method,BAO_0002202
+http://www.bioassayontology.org/bao#BAO_0040031,size separation method,BAO_0003028,assay method,BAO_0040031
+http://www.bioassayontology.org/bao#BAO_0040042,liquid chromatography-tandem mass spectrometry,BAO_0003028,assay method,BAO_0040042
+http://purl.obolibrary.org/obo/ERO_0001500,liquid chromatography ,BAO_0003028,assay method,ERO_0001500
+http://www.bioassayontology.org/bao#BAO_0040027,chromatin acessibility method,BAO_0003028,assay method,BAO_0040027
+http://www.bioassayontology.org/bao#BAO_0040030,transcription factor occupancy,BAO_0003028,assay method,BAO_0040030
+http://www.bioassayontology.org/bao#BAO_0040021,in vivo assay method,BAO_0003028,assay method,BAO_0040021
+http://www.bioassayontology.org/bao#BAO_0040023,in vivo PK/PD/Tox method,BAO_0003028,assay method,BAO_0040023
+http://www.bioassayontology.org/bao#BAO_0040022,in vivo efficacy method,BAO_0003028,assay method,BAO_0040022
+http://www.bioassayontology.org/bao#BAO_0040029,epigenetic modification detection method,BAO_0003028,assay method,BAO_0040029
+http://www.bioassayontology.org/bao#BAO_0000377,membrane potential measurement method,BAO_0003028,assay method,BAO_0000377
+http://www.bioassayontology.org/bao#BAO_0000424,electrophysiological method,BAO_0003028,assay method,BAO_0000424
+http://www.bioassayontology.org/bao#BAO_0000425,dye binding method,BAO_0003028,assay method,BAO_0000425
+http://www.bioassayontology.org/bao#BAO_0002017,cytokine quantitation method,BAO_0003028,assay method,BAO_0002017
+http://www.bioassayontology.org/bao#BAO_0000044,cytokine-specific antibody bead-based method,BAO_0003028,assay method,BAO_0000044
+http://www.bioassayontology.org/bao#BAO_0002013,phosphoprotein detection method,BAO_0003028,assay method,BAO_0002013
+http://www.bioassayontology.org/bao#BAO_0003025,phosphoprotein-specific antibody-coated bead based method,BAO_0003028,assay method,BAO_0003025
+http://www.bioassayontology.org/bao#BAO_0000499,cell movement measurement method,BAO_0003028,assay method,BAO_0000499
+http://www.bioassayontology.org/bao#BAO_0000448,morphology assessment method,BAO_0003028,assay method,BAO_0000448
+http://purl.obolibrary.org/obo/NCIT_C16681,Histology,BAO_0003028,assay method,NCIT_C16681
+http://www.bioassayontology.org/bao#BAO_0040020,sub-cellular morphology assessment method,BAO_0003028,assay method,BAO_0040020
+http://www.bioassayontology.org/bao#BAO_0000128,in situ immunoassay,BAO_0003028,assay method,BAO_0000128
+http://www.bioassayontology.org/bao#BAO_0000415,immunohistochemistry,BAO_0003028,assay method,BAO_0000415
+http://www.bioassayontology.org/bao#BAO_0000416,immunocytochemistry,BAO_0003028,assay method,BAO_0000416
+http://www.bioassayontology.org/bao#BAO_0040019,cellular morphology assessment method,BAO_0003028,assay method,BAO_0040019
+http://www.bioassayontology.org/bao#BAO_0003032,kinase competitive binding method,BAO_0003028,assay method,BAO_0003032
+http://www.bioassayontology.org/bao#BAO_0003030,kinase active-site binding method,BAO_0003028,assay method,BAO_0003030
+http://www.bioassayontology.org/bao#BAO_0002079,ATP quantitation using luciferase,BAO_0003028,assay method,BAO_0002079
+http://www.bioassayontology.org/bao#BAO_0000127,viability measurement method,BAO_0003028,assay method,BAO_0000127
+http://www.bioassayontology.org/bao#BAO_0000170,protease activity determination,BAO_0003028,assay method,BAO_0000170
+http://www.bioassayontology.org/bao#BAO_0000572,cell number determination,BAO_0003028,assay method,BAO_0000572
+http://www.bioassayontology.org/bao#BAO_0000073,phospholipid redistribution estimation,BAO_0003028,assay method,BAO_0000073
+http://www.bioassayontology.org/bao#BAO_0000169,dna content estimation,BAO_0003028,assay method,BAO_0000169
+http://www.bioassayontology.org/bao#BAO_0000164,ATP quantitation,BAO_0003028,assay method,BAO_0000164
+http://www.bioassayontology.org/bao#BAO_0002079,ATP quantitation using luciferase,BAO_0003028,assay method,BAO_0002079
+http://www.bioassayontology.org/bao#BAO_0000165,caspase activity determination,BAO_0003028,assay method,BAO_0000165
+http://www.bioassayontology.org/bao#BAO_0000166,dehydrogenase activity determination,BAO_0003028,assay method,BAO_0000166
+http://www.bioassayontology.org/bao#BAO_0000167,membrane permeability assessment,BAO_0003028,assay method,BAO_0000167
+http://www.bioassayontology.org/bao#BAO_0000423,mitochondrial membrane potential assessment,BAO_0003028,assay method,BAO_0000423
+http://www.bioassayontology.org/bao#BAO_0000158,esterase activity determination,BAO_0003028,assay method,BAO_0000158
+http://www.bioassayontology.org/bao#BAO_0000159,chromatin condensation visualization,BAO_0003028,assay method,BAO_0000159
+http://www.bioassayontology.org/bao#BAO_0040015,cell density determination,BAO_0003028,assay method,BAO_0040015
+http://www.bioassayontology.org/bao#BAO_0000126,molecular redistribution determination method,BAO_0003028,assay method,BAO_0000126
+http://www.bioassayontology.org/bao#BAO_0002888,ion redistribution determination method,BAO_0003028,assay method,BAO_0002888
+http://www.bioassayontology.org/bao#BAO_0000129,immunoassay,BAO_0003028,assay method,BAO_0000129
+http://www.bioassayontology.org/bao#BAO_0000466,ex situ immunoassay,BAO_0003028,assay method,BAO_0000466
+http://www.bioassayontology.org/bao#BAO_0002401,enzyme-multiplied immunoassay technique,BAO_0003028,assay method,BAO_0002401
+http://www.bioassayontology.org/bao#BAO_0002428,radioimmunoassay,BAO_0003028,assay method,BAO_0002428
+http://www.bioassayontology.org/bao#BAO_0002422,immunoblot,BAO_0003028,assay method,BAO_0002422
+http://www.bioassayontology.org/bao#BAO_0002423,in-cell western assay,BAO_0003028,assay method,BAO_0002423
+http://www.bioassayontology.org/bao#BAO_0002424,western blot,BAO_0003028,assay method,BAO_0002424
+http://www.bioassayontology.org/bao#BAO_0002411,two site enzyme immunoassay,BAO_0003028,assay method,BAO_0002411
+http://www.bioassayontology.org/bao#BAO_0002415,dot immunobinding assay,BAO_0003028,assay method,BAO_0002415
+http://www.bioassayontology.org/bao#BAO_0010266,Epitope Mapping,BAO_0003028,assay method,BAO_0010266
+http://www.bioassayontology.org/bao#BAO_0000134,ELISA,BAO_0003028,assay method,BAO_0000134
+http://www.bioassayontology.org/bao#BAO_0002420,fluorescence-linked immunosorbent assay,BAO_0003028,assay method,BAO_0002420
+http://www.bioassayontology.org/bao#BAO_0002421,sandwich ELISA,BAO_0003028,assay method,BAO_0002421
+http://www.bioassayontology.org/bao#BAO_0002417,chemiluminescence-linked immunosorbent assay,BAO_0003028,assay method,BAO_0002417
+http://www.bioassayontology.org/bao#BAO_0002419,enzyme-linked immunosorbent spot assay,BAO_0003028,assay method,BAO_0002419
+http://www.bioassayontology.org/bao#BAO_0000137,antigen down assay,BAO_0003028,assay method,BAO_0000137
+http://www.bioassayontology.org/bao#BAO_0000132,competitive immunoassay,BAO_0003028,assay method,BAO_0000132
+http://www.bioassayontology.org/bao#BAO_0000128,in situ immunoassay,BAO_0003028,assay method,BAO_0000128
+http://www.bioassayontology.org/bao#BAO_0000415,immunohistochemistry,BAO_0003028,assay method,BAO_0000415
+http://www.bioassayontology.org/bao#BAO_0000416,immunocytochemistry,BAO_0003028,assay method,BAO_0000416
+http://www.bioassayontology.org/bao#BAO_0000124,enzyme activity measurement method,BAO_0003028,assay method,BAO_0000124
+http://www.bioassayontology.org/bao#BAO_0000142,coupled enzyme activity measurement method,BAO_0003028,assay method,BAO_0000142
+http://www.bioassayontology.org/bao#BAO_0002730,cofactor coupled enzyme activity measurement method,BAO_0003028,assay method,BAO_0002730
+http://www.bioassayontology.org/bao#BAO_0002593,substrate coupled enzyme activity measurement method,BAO_0003028,assay method,BAO_0002593
+http://www.bioassayontology.org/bao#BAO_0002594,ATP coupled enzyme activity measurement method,BAO_0003028,assay method,BAO_0002594
+http://www.bioassayontology.org/bao#BAO_0002595,luciferin coupled enzyme activity measurement method,BAO_0003028,assay method,BAO_0002595
+http://www.bioassayontology.org/bao#BAO_0002791,ADP coupled enzyme activity measurement method,BAO_0003028,assay method,BAO_0002791
+http://www.bioassayontology.org/bao#BAO_0002591,chaperone coupled enzyme activity measurement method,BAO_0003028,assay method,BAO_0002591
+http://www.bioassayontology.org/bao#BAO_0002592,protease coupled enzyme activity measurement method,BAO_0003028,assay method,BAO_0002592
+http://www.bioassayontology.org/bao#BAO_0000139,direct enzyme activity measurement method,BAO_0003028,assay method,BAO_0000139
+http://www.bioassayontology.org/bao#BAO_0002734,luciferase enzyme activity measurement method,BAO_0003028,assay method,BAO_0002734
+http://www.bioassayontology.org/bao#BAO_0040016,Beta-galactosidase activity measurement method,BAO_0003028,assay method,BAO_0040016
+http://www.bioassayontology.org/bao#BAO_0000123,binding assessment method,BAO_0003028,assay method,BAO_0000123
+http://www.bioassayontology.org/bao#BAO_0040033,ligand covalent binding method,BAO_0003028,assay method,BAO_0040033
+http://www.bioassayontology.org/bao#BAO_0040037,tyrosine ligand covalent binding method,BAO_0003028,assay method,BAO_0040037
+http://www.bioassayontology.org/bao#BAO_0040038,N-terminal ligand covalent binding method,BAO_0003028,assay method,BAO_0040038
+http://www.bioassayontology.org/bao#BAO_0040035,methionine ligand covalent binding method,BAO_0003028,assay method,BAO_0040035
+http://www.bioassayontology.org/bao#BAO_0040036,serine ligand covalent binding method,BAO_0003028,assay method,BAO_0040036
+http://www.bioassayontology.org/bao#BAO_0040034,lysine ligand covalent binding method,BAO_0003028,assay method,BAO_0040034
+http://www.bioassayontology.org/bao#BAO_0040041,cysteine ligand covalent binding method,BAO_0003028,assay method,BAO_0040041
+http://www.bioassayontology.org/bao#BAO_0040039,threonine ligand covalent binding method,BAO_0003028,assay method,BAO_0040039
+http://www.bioassayontology.org/bao#BAO_0040040,unnatural amino acid ligand covalent binding method,BAO_0003028,assay method,BAO_0040040
+http://www.bioassayontology.org/bao#BAO_0000406,protein fragment complementation method,BAO_0003028,assay method,BAO_0000406
+http://www.bioassayontology.org/bao#BAO_0000402,radioligand binding method,BAO_0003028,assay method,BAO_0000402
+http://www.bioassayontology.org/bao#BAO_0040024,thermal shift assessment method,BAO_0003028,assay method,BAO_0040024
+http://www.bioassayontology.org/bao#BAO_0002755,fluorescent ligand binding method,BAO_0003028,assay method,BAO_0002755
+http://www.bioassayontology.org/bao#BAO_0040032,NanoBRET,BAO_0003028,assay method,BAO_0040032
+http://www.bioassayontology.org/bao#BAO_0003033,mobility shift assessment method,BAO_0003028,assay method,BAO_0003033
+http://www.bioassayontology.org/bao#BAO_0010267,equilibrium assay,BAO_0003028,assay method,BAO_0010267
+http://www.bioassayontology.org/bao#BAO_0000129,immunoassay,BAO_0003028,assay method,BAO_0000129
+http://www.bioassayontology.org/bao#BAO_0000466,ex situ immunoassay,BAO_0003028,assay method,BAO_0000466
+http://www.bioassayontology.org/bao#BAO_0002401,enzyme-multiplied immunoassay technique,BAO_0003028,assay method,BAO_0002401
+http://www.bioassayontology.org/bao#BAO_0002428,radioimmunoassay,BAO_0003028,assay method,BAO_0002428
+http://www.bioassayontology.org/bao#BAO_0002422,immunoblot,BAO_0003028,assay method,BAO_0002422
+http://www.bioassayontology.org/bao#BAO_0002423,in-cell western assay,BAO_0003028,assay method,BAO_0002423
+http://www.bioassayontology.org/bao#BAO_0002424,western blot,BAO_0003028,assay method,BAO_0002424
+http://www.bioassayontology.org/bao#BAO_0002411,two site enzyme immunoassay,BAO_0003028,assay method,BAO_0002411
+http://www.bioassayontology.org/bao#BAO_0002415,dot immunobinding assay,BAO_0003028,assay method,BAO_0002415
+http://www.bioassayontology.org/bao#BAO_0010266,Epitope Mapping,BAO_0003028,assay method,BAO_0010266
+http://www.bioassayontology.org/bao#BAO_0000134,ELISA,BAO_0003028,assay method,BAO_0000134
+http://www.bioassayontology.org/bao#BAO_0002420,fluorescence-linked immunosorbent assay,BAO_0003028,assay method,BAO_0002420
+http://www.bioassayontology.org/bao#BAO_0002421,sandwich ELISA,BAO_0003028,assay method,BAO_0002421
+http://www.bioassayontology.org/bao#BAO_0002417,chemiluminescence-linked immunosorbent assay,BAO_0003028,assay method,BAO_0002417
+http://www.bioassayontology.org/bao#BAO_0002419,enzyme-linked immunosorbent spot assay,BAO_0003028,assay method,BAO_0002419
+http://www.bioassayontology.org/bao#BAO_0000137,antigen down assay,BAO_0003028,assay method,BAO_0000137
+http://www.bioassayontology.org/bao#BAO_0000132,competitive immunoassay,BAO_0003028,assay method,BAO_0000132
+http://www.bioassayontology.org/bao#BAO_0000128,in situ immunoassay,BAO_0003028,assay method,BAO_0000128
+http://www.bioassayontology.org/bao#BAO_0000415,immunohistochemistry,BAO_0003028,assay method,BAO_0000415
+http://www.bioassayontology.org/bao#BAO_0000416,immunocytochemistry,BAO_0003028,assay method,BAO_0000416
+http://www.bioassayontology.org/bao#BAO_0002892,second messenger competitive binding assessment method,BAO_0003028,assay method,BAO_0002892
+http://www.bioassayontology.org/bao#BAO_0002047,cell cycle progression assessment method,BAO_0003028,assay method,BAO_0002047
+http://www.bioassayontology.org/bao#BAO_0002741,M phase assessment method,BAO_0003028,assay method,BAO_0002741
+http://www.bioassayontology.org/bao#BAO_0002740,S phase assessment method,BAO_0003028,assay method,BAO_0002740
+http://www.bioassayontology.org/bao#BAO_0000048,conformation determination method,BAO_0003028,assay method,BAO_0000048
+http://www.bioassayontology.org/bao#BAO_0000469,nucleic acid conformation assessment,BAO_0003028,assay method,BAO_0000469
+http://www.bioassayontology.org/bao#BAO_0000470,protein conformation assessment,BAO_0003028,assay method,BAO_0000470
+http://www.bioassayontology.org/bao#BAO_0040011,molecular abundance method,BAO_0003028,assay method,BAO_0040011
+http://www.bioassayontology.org/bao#BAO_0040028,metabolite abundance method,BAO_0003028,assay method,BAO_0040028
+http://www.bioassayontology.org/bao#BAO_0040014,protein abundance method,BAO_0003028,assay method,BAO_0040014
+http://purl.obolibrary.org/obo/ERO_0002176,isobaric labeling,BAO_0003028,assay method,ERO_0002176
+http://www.bioassayontology.org/bao#BAO_0040013,lipid abundance method,BAO_0003028,assay method,BAO_0040013
+http://www.bioassayontology.org/bao#BAO_0040018,small molecule abundance method,BAO_0003028,assay method,BAO_0040018
+http://www.bioassayontology.org/bao#BAO_0040012,second messenger abundance,BAO_0003028,assay method,BAO_0040012
+http://www.bioassayontology.org/bao#BAO_0040017,DNA or RNA abundance method,BAO_0003028,assay method,BAO_0040017
+http://www.bioassayontology.org/bao#BAO_0003024,gene expression detection method,BAO_0003028,assay method,BAO_0003024
+http://www.bioassayontology.org/bao#BAO_0003034,nucleic acid identification and quantitation method,BAO_0003028,assay method,BAO_0003034
+http://www.bioassayontology.org/bao#BAO_0002447,nucleic acid sequencing method,BAO_0003028,assay method,BAO_0002447
+http://www.bioassayontology.org/bao#BAO_0040026,dna-seq method,BAO_0003028,assay method,BAO_0040026
+http://www.bioassayontology.org/bao#BAO_0002430,serial analysis of gene expression,BAO_0003028,assay method,BAO_0002430
+http://www.bioassayontology.org/bao#BAO_0003027,rna-seq method,BAO_0003028,assay method,BAO_0003027
+http://www.bioassayontology.org/bao#BAO_0002450,nucleic acid amplification method,BAO_0003028,assay method,BAO_0002450
+http://www.bioassayontology.org/bao#BAO_0002080,polymerase chain reaction,BAO_0003028,assay method,BAO_0002080
+http://www.bioassayontology.org/bao#BAO_0002089,reverse transcription PCR,BAO_0003028,assay method,BAO_0002089
+http://www.bioassayontology.org/bao#BAO_0002090,quantitative reverse transcription PCR,BAO_0003028,assay method,BAO_0002090
+http://www.bioassayontology.org/bao#BAO_0002084,real-time PCR ,BAO_0003028,assay method,BAO_0002084
+http://www.bioassayontology.org/bao#BAO_0003031,quantitative PCR,BAO_0003028,assay method,BAO_0003031
+http://www.bioassayontology.org/bao#BAO_0002022,dna-coated bead based method,BAO_0003028,assay method,BAO_0002022
+http://www.bioassayontology.org/bao#BAO_0003026,nucleic acid array method,BAO_0003028,assay method,BAO_0003026
+http://www.bioassayontology.org/bao#BAO_0000125,reporter gene method,BAO_0003028,assay method,BAO_0000125
+http://www.bioassayontology.org/bao#BAO_0000494,chloramphenicol acetyltransferase induction,BAO_0003028,assay method,BAO_0000494
+http://www.bioassayontology.org/bao#BAO_0000150,beta galactosidase induction,BAO_0003028,assay method,BAO_0000150
+http://www.bioassayontology.org/bao#BAO_0000151,beta lactamase induction,BAO_0003028,assay method,BAO_0000151
+http://www.bioassayontology.org/bao#BAO_0000153,fluorescent protein induction,BAO_0003028,assay method,BAO_0000153
+http://www.bioassayontology.org/bao#BAO_0000152,luciferase induction,BAO_0003028,assay method,BAO_0000152
+http://www.bioassayontology.org/bao#BAO_0002540,ECL western blotting detection kit,BAO_0000248,assay kit,BAO_0002540
+http://www.bioassayontology.org/bao#BAO_0000923,GeneBLAzer,BAO_0000248,assay kit,BAO_0000923
+http://www.bioassayontology.org/bao#BAO_0002982,Cellomics Mitotic Index Kit,BAO_0000248,assay kit,BAO_0002982
+http://www.bioassayontology.org/bao#BAO_0002983,Cellomics Multiparameter Cytotoxicity 1 Kit,BAO_0000248,assay kit,BAO_0002983
+http://www.bioassayontology.org/bao#BAO_0002985,Cellomics Multiplexed p53 and p21 Detection Kit,BAO_0000248,assay kit,BAO_0002985
+http://www.bioassayontology.org/bao#BAO_0002984,Cellomics Multiplexed NFκB and c-Jun Activation Kit,BAO_0000248,assay kit,BAO_0002984
+http://www.bioassayontology.org/bao#BAO_0002986,Cellomics p38 MAPK Activation Kit,BAO_0000248,assay kit,BAO_0002986
+http://www.bioassayontology.org/bao#BAO_0002981,Cellomics Cytoskeletal Rearrangement Kit,BAO_0000248,assay kit,BAO_0002981
+http://www.bioassayontology.org/bao#BAO_0002980,Cellomics c-Jun Activation Kit,BAO_0000248,assay kit,BAO_0002980
+http://www.bioassayontology.org/bao#BAO_0000873,Calcium 5 Assay Kit,BAO_0000248,assay kit,BAO_0000873
+http://www.bioassayontology.org/bao#BAO_0140038,LanthaScreen Tb-Ubiquitin Assay,BAO_0000248,assay kit,BAO_0140038
+http://www.bioassayontology.org/bao#BAO_0140032,Sensolyte 520 HCV Protease Assay Kit (AnaSpec),BAO_0000248,assay kit,BAO_0140032
+http://www.bioassayontology.org/bao#BAO_0140034,FluoZin-2 AM fluorescent assay of zinc concentration,BAO_0000248,assay kit,BAO_0140034
+http://www.bioassayontology.org/bao#BAO_0140031,CDP-Star alkaline phosphatase assay system,BAO_0000248,assay kit,BAO_0140031
+http://www.bioassayontology.org/bao#BAO_0140035,Phospho-ERK1/2 (Thr202/Tyr204) Cellular Assay Kit (Cisbio),BAO_0000248,assay kit,BAO_0140035
+http://www.bioassayontology.org/bao#BAO_0140033,EnzyChrom Aspartate Transaminase Assay Kit (BioAssay Systems),BAO_0000248,assay kit,BAO_0140033
+http://www.bioassayontology.org/bao#BAO_0140037,insulin ELISA kit (Alpco),BAO_0000248,assay kit,BAO_0140037
+http://www.bioassayontology.org/bao#BAO_0140036,IMAP Assay of phosphoproteins (Molecular Devices),BAO_0000248,assay kit,BAO_0140036
+http://www.bioassayontology.org/bao#BAO_0140039,LanthaScreen Tb-Streptavidin Binding Assay,BAO_0000248,assay kit,BAO_0140039
+http://www.bioassayontology.org/bao#BAO_0003109,KINOMEscan kit,BAO_0000248,assay kit,BAO_0003109
+http://www.bioassayontology.org/bao#BAO_0140040,PathHunter U2OS Keap1-NRF2 Nuclear Translocation Assay (DiscoverX),BAO_0000248,assay kit,BAO_0140040
+http://www.bioassayontology.org/bao#BAO_0140046,CellTiter-Fluor Cell Viability Assay Kit,BAO_0000248,assay kit,BAO_0140046
+http://www.bioassayontology.org/bao#BAO_0140047,HEPATOPAC® co-culture kit,BAO_0000248,assay kit,BAO_0140047
+http://www.bioassayontology.org/bao#BAO_0140041,qScript One-step Fast qRT-PCR kit (QuantaBioSciences),BAO_0000248,assay kit,BAO_0140041
+http://www.bioassayontology.org/bao#BAO_0140043,Ub-CHOP2-Reporter-Kit (LifeSensors Inc.),BAO_0000248,assay kit,BAO_0140043
+http://www.bioassayontology.org/bao#BAO_0000689,ATPLite Luminescence Assay System,BAO_0000248,assay kit,BAO_0000689
+http://www.bioassayontology.org/bao#BAO_0000686,britelite plus,BAO_0000248,assay kit,BAO_0000686
+http://www.bioassayontology.org/bao#BAO_0002732,Phospho(Thr180/Tyr182)/Total p38 Assay Whole Cell Lysate Kit,BAO_0000248,assay kit,BAO_0002732
+http://www.bioassayontology.org/bao#BAO_0000948,IP-One HTRF Assay,BAO_0000248,assay kit,BAO_0000948
+http://www.bioassayontology.org/bao#BAO_0000940,HTScan IKK-beta Kinase Assay Kit,BAO_0000248,assay kit,BAO_0000940
+http://www.bioassayontology.org/bao#BAO_0000942,HTScan PKC-theta Kinase Assay Kit,BAO_0000248,assay kit,BAO_0000942
+http://www.bioassayontology.org/bao#BAO_0000941,HTScan PKC-beta Kinase Assay Kit,BAO_0000248,assay kit,BAO_0000941
+http://www.bioassayontology.org/bao#BAO_0010079,PRESTO-TANGO,BAO_0000248,assay kit,BAO_0010079
+http://www.bioassayontology.org/bao#BAO_0002018,xMap kit,BAO_0000248,assay kit,BAO_0002018
+http://www.bioassayontology.org/bao#BAO_0003092,Calcium Assay Kit,BAO_0000248,assay kit,BAO_0003092
+http://www.bioassayontology.org/bao#BAO_0003090,HTRF KinEASE,BAO_0000248,assay kit,BAO_0003090
+http://www.bioassayontology.org/bao#BAO_0003091,Fluo-4 Calcium Assay Kit,BAO_0000248,assay kit,BAO_0003091
+http://www.bioassayontology.org/bao#BAO_0000216,steadylite HTS Reagent,BAO_0000248,assay kit,BAO_0000216
+http://www.bioassayontology.org/bao#BAO_0002977,Cellomics Caspase9 Activation Kit,BAO_0000248,assay kit,BAO_0002977
+http://www.bioassayontology.org/bao#BAO_0002976,Cellomics Caspase3 Activation Kit,BAO_0000248,assay kit,BAO_0002976
+http://www.bioassayontology.org/bao#BAO_0002974,Cellomics Beta-Catenin Activation Kit,BAO_0000248,assay kit,BAO_0002974
+http://www.bioassayontology.org/bao#BAO_0002975,Cellomics BrdU and Ki67 Cell Proliferation Kit,BAO_0000248,assay kit,BAO_0002975
+http://www.bioassayontology.org/bao#BAO_0002978,Cellomics Cell Motility Kit,BAO_0000248,assay kit,BAO_0002978
+http://www.bioassayontology.org/bao#BAO_0002979,Cellomics Cell Viability Kit,BAO_0000248,assay kit,BAO_0002979
+http://www.bioassayontology.org/bao#BAO_0003076,PolarScreen Competitor Assay Kit,BAO_0000248,assay kit,BAO_0003076
+http://www.bioassayontology.org/bao#BAO_0003077,HitHunter Calcium No WashPLUS Assay Kit,BAO_0000248,assay kit,BAO_0003077
+http://www.bioassayontology.org/bao#BAO_0003078,HitHunter cAMP Assay Kit,BAO_0000248,assay kit,BAO_0003078
+http://www.bioassayontology.org/bao#BAO_0003079,AlphaScreen Phosphotyrosine Assay Kit,BAO_0000248,assay kit,BAO_0003079
+http://www.bioassayontology.org/bao#BAO_0140022,Human Cytochrome c ELISA (R&D Systems),BAO_0000248,assay kit,BAO_0140022
+http://www.bioassayontology.org/bao#BAO_0140027,ToxiLight BioAssay Kit (Lonza),BAO_0000248,assay kit,BAO_0140027
+http://www.bioassayontology.org/bao#BAO_0140023,OptEIA human IL-2 ELISA (BD Biosciences),BAO_0000248,assay kit,BAO_0140023
+http://www.bioassayontology.org/bao#BAO_0140020,Alpha Screen Assay Kit (PerkinElmer),BAO_0000248,assay kit,BAO_0140020
+http://www.bioassayontology.org/bao#BAO_0140028,TransAM Kit for NF-kB Family (Active Motif) ,BAO_0000248,assay kit,BAO_0140028
+http://www.bioassayontology.org/bao#BAO_0140025,"Polar Screen PPARg Competitor Assay, Green (Invitrogen)",BAO_0000248,assay kit,BAO_0140025
+http://www.bioassayontology.org/bao#BAO_0140024,TRANSCREENER ADP2 FP Kinase Assay (BellBrook Labs),BAO_0000248,assay kit,BAO_0140024
+http://www.bioassayontology.org/bao#BAO_0140026,QUANTI-Blue (InvivoGen),BAO_0000248,assay kit,BAO_0140026
+http://www.bioassayontology.org/bao#BAO_0140029,TRANSCREENER AMP2/GMP2 FP Assay (BellBrook Labs),BAO_0000248,assay kit,BAO_0140029
+http://www.bioassayontology.org/bao#BAO_0000908,Fluo-8 No Wash Calcium Assay Kit,BAO_0000248,assay kit,BAO_0000908
+http://www.bioassayontology.org/bao#BAO_0002728,Vybrant MTT Cell Proliferation Assay Kit,BAO_0000248,assay kit,BAO_0002728
+http://www.bioassayontology.org/bao#BAO_0002727,ELISA cAMP Competition Assay using cAMP-Screen Direct System,BAO_0000248,assay kit,BAO_0002727
+http://www.bioassayontology.org/bao#BAO_0000814,Adapta Universal Kinase Assay Kit,BAO_0000248,assay kit,BAO_0000814
+http://www.bioassayontology.org/bao#BAO_0000815,ADP Hunter Plus,BAO_0000248,assay kit,BAO_0000815
+http://www.bioassayontology.org/bao#BAO_0000816,Amplex Red Glucose/Glucose Oxidase Assay Kit,BAO_0000248,assay kit,BAO_0000816
+http://www.bioassayontology.org/bao#BAO_0000958,LiveBLAzer FRET - B/G Loading Kit,BAO_0000248,assay kit,BAO_0000958
+http://www.bioassayontology.org/bao#BAO_0000953,LANCE cAMP Detection Kit,BAO_0000248,assay kit,BAO_0000953
+http://www.bioassayontology.org/bao#BAO_0140017,Luciferase-based ('Glo') Assay System (Promega),BAO_0000248,assay kit,BAO_0140017
+http://www.bioassayontology.org/bao#BAO_0000333,P450-Glo CYP2C9 Screening System,BAO_0000248,assay kit,BAO_0000333
+http://www.bioassayontology.org/bao#BAO_0140030,Caspase-Glo 6 Assay System (Promega),BAO_0000248,assay kit,BAO_0140030
+http://www.bioassayontology.org/bao#BAO_0000679,Kinase-Glo Luminescent Kinase Assay,BAO_0000248,assay kit,BAO_0000679
+http://www.bioassayontology.org/bao#BAO_0000675,ONE-Glo Luciferase Assay System,BAO_0000248,assay kit,BAO_0000675
+http://www.bioassayontology.org/bao#BAO_0000670,P450-Glo CYP2C19 Screening System,BAO_0000248,assay kit,BAO_0000670
+http://www.bioassayontology.org/bao#BAO_0000674,P450-Glo CYP1A2 Screening System,BAO_0000248,assay kit,BAO_0000674
+http://www.bioassayontology.org/bao#BAO_0000678,Kinase-Glo Plus Luminescent Kinase Assay,BAO_0000248,assay kit,BAO_0000678
+http://www.bioassayontology.org/bao#BAO_0140042,Renilla-Glo luciferase assay system (Promega),BAO_0000248,assay kit,BAO_0140042
+http://www.bioassayontology.org/bao#BAO_0000685,Bright-Glo Luciferase Assay System,BAO_0000248,assay kit,BAO_0000685
+http://www.bioassayontology.org/bao#BAO_0000680,Dual-Luciferase Reporter Assay System,BAO_0000248,assay kit,BAO_0000680
+http://www.bioassayontology.org/bao#BAO_0000688,BacTiter-Glo Microbial Cell Viability Assay,BAO_0000248,assay kit,BAO_0000688
+http://www.bioassayontology.org/bao#BAO_0000681,Chroma-Glo Luciferase Assay System,BAO_0000248,assay kit,BAO_0000681
+http://www.bioassayontology.org/bao#BAO_0000682,CellTiter-Glo Luminescent Cell Viability Assay,BAO_0000248,assay kit,BAO_0000682
+http://www.bioassayontology.org/bao#BAO_0000687,Beta-Glo Assay System,BAO_0000248,assay kit,BAO_0000687
+http://www.bioassayontology.org/bao#BAO_0000683,Caspase Glo 3/7 Assay,BAO_0000248,assay kit,BAO_0000683
+http://www.bioassayontology.org/bao#BAO_0000298,Steady-Glo Luciferase Assay System,BAO_0000248,assay kit,BAO_0000298
+http://www.bioassayontology.org/bao#BAO_0000299,Proteasome-Glo Chymotrypsin-Like Assay,BAO_0000248,assay kit,BAO_0000299
+http://www.bioassayontology.org/bao#BAO_0000310,P450-Glo CYP3A4 Screening System,BAO_0000248,assay kit,BAO_0000310
+http://www.bioassayontology.org/bao#BAO_0000311,P450-Glo CYP2D6 Screening System,BAO_0000248,assay kit,BAO_0000311
+http://www.bioassayontology.org/bao#BAO_0140016,Ultra-Glo Luciferin Detection (Promega),BAO_0000248,assay kit,BAO_0140016
+http://www.bioassayontology.org/bao#BAO_0140009,CytoTox-Glo (Promega),BAO_0000248,assay kit,BAO_0140009
+http://www.bioassayontology.org/bao#BAO_0000690,ADP Glo Kinase Assay,BAO_0000248,assay kit,BAO_0000690
+http://www.bioassayontology.org/bao#BAO_0140011,ACTOne cAMP biosensor assay (BD Biosciences; CodexBIosolutions),BAO_0000248,assay kit,BAO_0140011
+http://www.bioassayontology.org/bao#BAO_0140014,QuantiTect SYBR Green PCR Kits (Qiagen/Thermo-Fisher),BAO_0000248,assay kit,BAO_0140014
+http://www.bioassayontology.org/bao#BAO_0140010,CAT ELISA (Roche/ Sigma-Aldrich),BAO_0000248,assay kit,BAO_0140010
+http://www.bioassayontology.org/bao#BAO_0140015,TaqMan Real-Time PCR assays (Thermo-Fisher),BAO_0000248,assay kit,BAO_0140015
+http://www.bioassayontology.org/bao#BAO_0140019,Reverse Transcription Kit (Applied Biosystems or ABI),BAO_0000248,assay kit,BAO_0140019
+http://www.bioassayontology.org/bao#BAO_0140018,WST-1 assay (Roche),BAO_0000248,assay kit,BAO_0140018
+http://www.bioassayontology.org/bao#BAO_0140012,CellTiter-Blue Cell Viability Assay (Promega),BAO_0000248,assay kit,BAO_0140012
+http://www.bioassayontology.org/bao#BAO_0140013,Gal-Screen Beta-Galactosidase Reporter Gene Assay system,BAO_0000248,assay kit,BAO_0140013
+http://www.bioassayontology.org/bao#BAO_0140005,PathScan Multi-Target HCA Stress and Apoptosis Kit,BAO_0000248,assay kit,BAO_0140005
+http://www.bioassayontology.org/bao#BAO_0140004,PathScan Multi-Target HCA DNA Damage Kit,BAO_0000248,assay kit,BAO_0140004
+http://www.bioassayontology.org/bao#BAO_0140002,PathScan EGF Receptor Activation Multiplex IF Kit,BAO_0000248,assay kit,BAO_0140002
+http://www.bioassayontology.org/bao#BAO_0140003,PathScan EMT Duplex IF Kit,BAO_0000248,assay kit,BAO_0140003
+http://www.bioassayontology.org/bao#BAO_0140007,StemLight Pluripotency Antibody Kit,BAO_0000248,assay kit,BAO_0140007
+http://www.bioassayontology.org/bao#BAO_0140006,PathScan Signaling Nodes Multiplex IF Kit,BAO_0000248,assay kit,BAO_0140006
+http://www.bioassayontology.org/bao#BAO_0140001,PathScan Apoptosis and Proliferation Multiplex IF Kit,BAO_0000248,assay kit,BAO_0140001
+http://www.bioassayontology.org/bao#BAO_0000898,cAMP-screen direct system,BAO_0000248,assay kit,BAO_0000898
+http://www.bioassayontology.org/bao#BAO_0000988,PathHunter Beta-Arrestin Assay,BAO_0000248,assay kit,BAO_0000988
+http://www.bioassayontology.org/bao#BAO_0000983,OptEIA Human IL-8 ELISA Set,BAO_0000248,assay kit,BAO_0000983
+http://www.bioassayontology.org/bao#BAO_0000937,HTRF cAMP Detection Kit,BAO_0000248,assay kit,BAO_0000937
+http://www.bioassayontology.org/bao#BAO_0000938,HTRF cAMP HiRange Detection Kit,BAO_0000248,assay kit,BAO_0000938
+http://www.bioassayontology.org/bao#BAO_0000939,HTRF KinEASE-TK,BAO_0000248,assay kit,BAO_0000939
+http://www.bioassayontology.org/bao#BAO_0000936,High Performance PBX Calcium Assay Kit,BAO_0000248,assay kit,BAO_0000936
+http://www.bioassayontology.org/bao#BAO_0002566,AlphaScreen cAMP assay kit,BAO_0000248,assay kit,BAO_0002566
+http://www.bioassayontology.org/bao#BAO_0002563,lance TR-FRET kinase assay kit,BAO_0000248,assay kit,BAO_0002563
+http://www.bioassayontology.org/bao#BAO_0002567,ECL peptide assay,BAO_0000248,assay kit,BAO_0002567
+http://www.bioassayontology.org/bao#BAO_0002565,AlphaScreen GST detection kit,BAO_0000248,assay kit,BAO_0002565
+http://www.bioassayontology.org/bao#BAO_0002561,FLIPR Calcium 3 Assay Kit,BAO_0000248,assay kit,BAO_0002561
+http://www.bioassayontology.org/bao#BAO_0002564,AlphaScreen IgG detection kit,BAO_0000248,assay kit,BAO_0002564
+http://www.bioassayontology.org/bao#BAO_0002562,LanthaScreen kinase activity assay kit,BAO_0000248,assay kit,BAO_0002562
+http://www.bioassayontology.org/bao#BAO_0000917,FluxOR Thallium Detection Kit,BAO_0000248,assay kit,BAO_0000917
+http://www.bioassayontology.org/bao#BAO_0001025,Tango GPCR Assay System,BAO_0000248,assay kit,BAO_0001025
+http://www.bioassayontology.org/bao#BAO_0001202,TruPoint assay kit,BAO_0000248,assay kit,BAO_0001202
+http://www.bioassayontology.org/bao#BAO_0001201,Lactate kit,BAO_0000248,assay kit,BAO_0001201
+http://www.bioassayontology.org/bao#BAO_0001200,Transcreener assay kit,BAO_0000248,assay kit,BAO_0001200
+http://www.bioassayontology.org/bao#BAO_0003085,LanthaScreen Co-Factor Interaction Assay,BAO_0000248,assay kit,BAO_0003085
+http://www.bioassayontology.org/bao#BAO_0003083,ViaLight Plus kit,BAO_0000248,assay kit,BAO_0003083
+http://www.bioassayontology.org/bao#BAO_0003080,AlphaScreen cGMP Detection,BAO_0000248,assay kit,BAO_0003080
+http://www.bioassayontology.org/bao#BAO_0003086,LanthaScreen Competetive Binding Assay,BAO_0000248,assay kit,BAO_0003086
+http://www.bioassayontology.org/bao#BAO_0003081,Alphascreen second messenger IP1 detection kit,BAO_0000248,assay kit,BAO_0003081
+http://www.bioassayontology.org/bao#BAO_0003088,FLIPR Membrane Potential Assay Kit,BAO_0000248,assay kit,BAO_0003088
+http://www.bioassayontology.org/bao#BAO_0003084,QuantiChrom Assay Kit,BAO_0000248,assay kit,BAO_0003084
+http://www.bioassayontology.org/bao#BAO_0003082,HTRF biomarkers,BAO_0000248,assay kit,BAO_0003082
+http://www.bioassayontology.org/bao#BAO_0003087,FLIPR Calcium 5 Assay Kit,BAO_0000248,assay kit,BAO_0003087
+http://www.bioassayontology.org/bao#BAO_0003089,CyQUANT Cell Proliferation Assay Kit,BAO_0000248,assay kit,BAO_0003089
+http://www.bioassayontology.org/bao#BAO_0000307,PKLight,BAO_0000248,assay kit,BAO_0000307
+http://www.bioassayontology.org/bao#BAO_0002547,GST tag,BAO_0003043,molecular entity,BAO_0002547
+http://www.bioassayontology.org/bao#BAO_0000929,Go6976,BAO_0003043,molecular entity,BAO_0000929
+http://www.bioassayontology.org/bao#BAO_0000926,glutamate,BAO_0003043,molecular entity,BAO_0000926
+http://www.bioassayontology.org/bao#BAO_0002051,DNA vector,BAO_0003043,molecular entity,BAO_0002051
+http://www.bioassayontology.org/bao#BAO_0000500,molecular beacon,BAO_0003043,molecular entity,BAO_0000500
+http://www.bioassayontology.org/bao#BAO_0000853,arachidonic acid,BAO_0003043,molecular entity,BAO_0000853
+http://www.bioassayontology.org/bao#BAO_0000854,arrestin-GFP,BAO_0003043,molecular entity,BAO_0000854
+http://www.bioassayontology.org/bao#BAO_0000870,BTC AM Fluorescent Dye Indicator,BAO_0003043,molecular entity,BAO_0000870
+http://www.bioassayontology.org/bao#BAO_0000874,calcium,BAO_0003043,molecular entity,BAO_0000874
+http://www.bioassayontology.org/bao#BAO_0000876,carbachol,BAO_0003043,molecular entity,BAO_0000876
+http://www.bioassayontology.org/bao#BAO_0000639,doxorubicin,BAO_0003043,molecular entity,BAO_0000639
+http://www.bioassayontology.org/bao#BAO_0000638,forskolin,BAO_0003043,molecular entity,BAO_0000638
+http://www.bioassayontology.org/bao#BAO_0001005,rauwolscine,BAO_0003043,molecular entity,BAO_0001005
+http://www.bioassayontology.org/bao#BAO_0001006,resorufin,BAO_0003043,molecular entity,BAO_0001006
+http://www.bioassayontology.org/bao#BAO_0001001,prostaglandin E2,BAO_0003043,molecular entity,BAO_0001001
+http://www.bioassayontology.org/bao#BAO_0001009,rhodamine,BAO_0003043,molecular entity,BAO_0001009
+http://www.bioassayontology.org/bao#BAO_0001000,prostaglandin,BAO_0003043,molecular entity,BAO_0001000
+http://www.bioassayontology.org/bao#BAO_0001003,"pyrimidine-4,6-dicarboxylic acid",BAO_0003043,molecular entity,BAO_0001003
+http://www.bioassayontology.org/bao#BAO_0100012,sodium chloride,BAO_0003043,molecular entity,BAO_0100012
+http://www.bioassayontology.org/bao#BAO_0100014,GPCR complex,BAO_0003043,molecular entity,BAO_0100014
+http://www.bioassayontology.org/bao#BAO_0100011,potassium chloride,BAO_0003043,molecular entity,BAO_0100011
+http://www.bioassayontology.org/bao#BAO_0100013,GPCR arrestin complex,BAO_0003043,molecular entity,BAO_0100013
+http://www.bioassayontology.org/bao#BAO_0100010,magnesium chloride,BAO_0003043,molecular entity,BAO_0100010
+http://www.bioassayontology.org/bao#BAO_0000550,DNA construct,BAO_0003043,molecular entity,BAO_0000550
+http://www.bioassayontology.org/bao#BAO_0002925,plasmid DNA construct,BAO_0003043,molecular entity,BAO_0002925
+http://www.bioassayontology.org/bao#BAO_0000666,metal salt,BAO_0003043,molecular entity,BAO_0000666
+http://www.bioassayontology.org/bao#BAO_0000957,lithium chloride,BAO_0003043,molecular entity,BAO_0000957
+http://www.bioassayontology.org/bao#BAO_0000763,ionomycin,BAO_0003043,molecular entity,BAO_0000763
+http://www.bioassayontology.org/bao#BAO_0000760,estrogen,BAO_0003043,molecular entity,BAO_0000760
+http://www.bioassayontology.org/bao#BAO_0000761,3-isobutyl-1-methylanxthine,BAO_0003043,molecular entity,BAO_0000761
+http://www.bioassayontology.org/bao#BAO_0000765,NHK 477,BAO_0003043,molecular entity,BAO_0000765
+http://www.bioassayontology.org/bao#BAO_0000769,retinoic acid,BAO_0003043,molecular entity,BAO_0000769
+http://www.bioassayontology.org/bao#BAO_0000582,gene,BAO_0003043,molecular entity,BAO_0000582
+http://www.bioassayontology.org/bao#BAO_0003044,beta galactosidase gene,BAO_0003043,molecular entity,BAO_0003044
+http://www.bioassayontology.org/bao#BAO_0003047,luciferase gene,BAO_0003043,molecular entity,BAO_0003047
+http://www.bioassayontology.org/bao#BAO_0003046,green flourescent protein gene,BAO_0003043,molecular entity,BAO_0003046
+http://www.bioassayontology.org/bao#BAO_0003045,chloramphenicol acetyl transferase gene,BAO_0003043,molecular entity,BAO_0003045
+http://www.bioassayontology.org/bao#BAO_0002651,FuGENE 6,BAO_0003043,molecular entity,BAO_0002651
+http://www.bioassayontology.org/bao#BAO_0003108,beetle luciferin,BAO_0003043,molecular entity,BAO_0003108
+http://www.bioassayontology.org/bao#BAO_0000777,CDP-ME,BAO_0003043,molecular entity,BAO_0000777
+http://www.bioassayontology.org/bao#BAO_0000772,triiodothyronine,BAO_0003043,molecular entity,BAO_0000772
+http://www.bioassayontology.org/bao#BAO_0000773,tunicamycin,BAO_0003043,molecular entity,BAO_0000773
+http://www.bioassayontology.org/bao#BAO_0000778,creatine phosphate,BAO_0003043,molecular entity,BAO_0000778
+http://www.bioassayontology.org/bao#BAO_0002149,RNA interference construct,BAO_0003043,molecular entity,BAO_0002149
+http://www.bioassayontology.org/bao#BAO_0000171,lipid,BAO_0003043,molecular entity,BAO_0000171
+http://www.bioassayontology.org/bao#BAO_0001020,Sphingosine 1-phosphate,BAO_0003043,molecular entity,BAO_0001020
+http://www.bioassayontology.org/bao#BAO_0000175,protein,BAO_0003043,molecular entity,BAO_0000175
+http://www.bioassayontology.org/bao#BAO_0000279,enzyme,BAO_0003043,molecular entity,BAO_0000279
+http://www.bioassayontology.org/bao#BAO_0030060,UDP-glucuronosyltransferase 2B23,BAO_0003043,molecular entity,BAO_0030060
+http://www.bioassayontology.org/bao#BAO_0030062,UDP-glucuronosyltransferase 2B17,BAO_0003043,molecular entity,BAO_0030062
+http://www.bioassayontology.org/bao#BAO_0030026,Cytochrome P450 3A7,BAO_0003043,molecular entity,BAO_0030026
+http://www.bioassayontology.org/bao#BAO_0030020,Cytochrome P450 2C8,BAO_0003043,molecular entity,BAO_0030020
+http://www.bioassayontology.org/bao#BAO_0030023,Cytochrome P450 2D12,BAO_0003043,molecular entity,BAO_0030023
+http://www.bioassayontology.org/bao#BAO_0030029,Cytochrome P450 3A10,BAO_0003043,molecular entity,BAO_0030029
+http://www.bioassayontology.org/bao#BAO_0030022,Cytochrome P450 3A4,BAO_0003043,molecular entity,BAO_0030022
+http://www.bioassayontology.org/bao#BAO_0030028,Cytochrome P450 3A5,BAO_0003043,molecular entity,BAO_0030028
+http://www.bioassayontology.org/bao#BAO_0030024,Cytochrome P450 2D9,BAO_0003043,molecular entity,BAO_0030024
+http://www.bioassayontology.org/bao#BAO_0030025,Cytochrome P450 2D6,BAO_0003043,molecular entity,BAO_0030025
+http://www.bioassayontology.org/bao#BAO_0030021,Cytochrome P450 2C9,BAO_0003043,molecular entity,BAO_0030021
+http://www.bioassayontology.org/bao#BAO_0030027,Epoxide hydrolase 1,BAO_0003043,molecular entity,BAO_0030027
+http://www.bioassayontology.org/bao#BAO_0000291,oxidoreductase,BAO_0003043,molecular entity,BAO_0000291
+http://www.bioassayontology.org/bao#BAO_0000141,Luciferin 4-monooxygenase,BAO_0003043,molecular entity,BAO_0000141
+http://www.bioassayontology.org/bao#BAO_0000292,transferase,BAO_0003043,molecular entity,BAO_0000292
+http://www.bioassayontology.org/bao#BAO_0000293,generic transferase,BAO_0003043,molecular entity,BAO_0000293
+http://www.bioassayontology.org/bao#BAO_0000294,kinase,BAO_0003043,molecular entity,BAO_0000294
+http://www.bioassayontology.org/bao#BAO_0000779,Creatine kinase,BAO_0003043,molecular entity,BAO_0000779
+http://www.bioassayontology.org/bao#BAO_0002789,Mitogen-activated protein kinase 1,BAO_0003043,molecular entity,BAO_0002789
+http://www.bioassayontology.org/bao#BAO_0002109,Mitogen-activated protein kinase 14,BAO_0003043,molecular entity,BAO_0002109
+http://www.bioassayontology.org/bao#BAO_0000290,lyase,BAO_0003043,molecular entity,BAO_0000290
+http://www.bioassayontology.org/bao#BAO_0030058,UDP-glucuronosyltransferase 2B10,BAO_0003043,molecular entity,BAO_0030058
+http://www.bioassayontology.org/bao#BAO_0030051,UDP-glucuronosyltransferase 1-6,BAO_0003043,molecular entity,BAO_0030051
+http://www.bioassayontology.org/bao#BAO_0030054,UDP-glucuronosyltransferase 1A9,BAO_0003043,molecular entity,BAO_0030054
+http://www.bioassayontology.org/bao#BAO_0030052,UDP-glucuronosyltransferase 1A7,BAO_0003043,molecular entity,BAO_0030052
+http://www.bioassayontology.org/bao#BAO_0030056,UDP-glucuronosyltransferase 2B4,BAO_0003043,molecular entity,BAO_0030056
+http://www.bioassayontology.org/bao#BAO_0030057,UDP-glucuronosyltransferase 2B7,BAO_0003043,molecular entity,BAO_0030057
+http://www.bioassayontology.org/bao#BAO_0030059,UDP-glucuronosyltransferase 2B15,BAO_0003043,molecular entity,BAO_0030059
+http://www.bioassayontology.org/bao#BAO_0030055,UDP-glucuronosyltransferase 1A10,BAO_0003043,molecular entity,BAO_0030055
+http://www.bioassayontology.org/bao#BAO_0030053,UDP-glucuronosyltransferase 1A8,BAO_0003043,molecular entity,BAO_0030053
+http://www.bioassayontology.org/bao#BAO_0030050,UDP-glucuronosyltransferase 1A4,BAO_0003043,molecular entity,BAO_0030050
+http://www.bioassayontology.org/bao#BAO_0030015,EST1,BAO_0003043,molecular entity,BAO_0030015
+http://www.bioassayontology.org/bao#BAO_0030012,Aldehyde oxidase,BAO_0003043,molecular entity,BAO_0030012
+http://www.bioassayontology.org/bao#BAO_0030018,Cytochrome P450 2B6,BAO_0003043,molecular entity,BAO_0030018
+http://www.bioassayontology.org/bao#BAO_0030019,Cytochrome P450 2C19,BAO_0003043,molecular entity,BAO_0030019
+http://www.bioassayontology.org/bao#BAO_0030017,Cytochrome P450 1A2,BAO_0003043,molecular entity,BAO_0030017
+http://www.bioassayontology.org/bao#BAO_0030016,EST2,BAO_0003043,molecular entity,BAO_0030016
+http://www.bioassayontology.org/bao#BAO_0030038,Amine oxidase [flavin-containing] A,BAO_0003043,molecular entity,BAO_0030038
+http://www.bioassayontology.org/bao#BAO_0030033,ATP-dependent translocase ABCB1,BAO_0003043,molecular entity,BAO_0030033
+http://www.bioassayontology.org/bao#BAO_0030030,Cytochrome P450 2D11,BAO_0003043,molecular entity,BAO_0030030
+http://www.bioassayontology.org/bao#BAO_0030039,Amine oxidase [flavin-containing] B,BAO_0003043,molecular entity,BAO_0030039
+http://www.bioassayontology.org/bao#BAO_0030037,FMO3,BAO_0003043,molecular entity,BAO_0030037
+http://www.bioassayontology.org/bao#BAO_0000288,isomerase,BAO_0003043,molecular entity,BAO_0000288
+http://www.bioassayontology.org/bao#BAO_0000289,ligase,BAO_0003043,molecular entity,BAO_0000289
+http://www.bioassayontology.org/bao#BAO_0000287,hydrolase,BAO_0003043,molecular entity,BAO_0000287
+http://www.bioassayontology.org/bao#BAO_0000222,generic hydrolase,BAO_0003043,molecular entity,BAO_0000222
+http://www.bioassayontology.org/bao#BAO_0003049,Caspase-3,BAO_0003043,molecular entity,BAO_0003049
+http://www.bioassayontology.org/bao#BAO_0000751,Beta-lactamase,BAO_0003043,molecular entity,BAO_0000751
+http://www.bioassayontology.org/bao#BAO_0000750,Beta-galactosidase,BAO_0003043,molecular entity,BAO_0000750
+http://www.bioassayontology.org/bao#BAO_0000295,phosphatase,BAO_0003043,molecular entity,BAO_0000295
+http://www.bioassayontology.org/bao#BAO_0000652,protease,BAO_0003043,molecular entity,BAO_0000652
+http://www.bioassayontology.org/bao#BAO_0030049,UDP-glucuronosyltransferase 1A3,BAO_0003043,molecular entity,BAO_0030049
+http://www.bioassayontology.org/bao#BAO_0030048,UDP-glucuronosyltransferase 1A1,BAO_0003043,molecular entity,BAO_0030048
+http://www.bioassayontology.org/bao#BAO_0000278,enzyme regulator,BAO_0003043,molecular entity,BAO_0000278
+http://www.bioassayontology.org/bao#BAO_0030003,Retinoblastoma-associated protein,BAO_0003043,molecular entity,BAO_0030003
+http://www.bioassayontology.org/bao#BAO_0030000,Histone H3.3,BAO_0003043,molecular entity,BAO_0030000
+http://www.bioassayontology.org/bao#BAO_0030001,G2/mitotic-specific cyclin-B1,BAO_0003043,molecular entity,BAO_0030001
+http://www.bioassayontology.org/bao#BAO_0030008,Microtubule-associated proteins 1A/1B light chain 3B,BAO_0003043,molecular entity,BAO_0030008
+http://www.bioassayontology.org/bao#BAO_0030002,Antigen KI-67,BAO_0003043,molecular entity,BAO_0030002
+http://www.bioassayontology.org/bao#BAO_0000370,structural,BAO_0003043,molecular entity,BAO_0000370
+http://www.bioassayontology.org/bao#BAO_0030009,Tubulin beta-3 chain,BAO_0003043,molecular entity,BAO_0030009
+http://www.bioassayontology.org/bao#BAO_0000282,transcription factor,BAO_0003043,molecular entity,BAO_0000282
+http://www.bioassayontology.org/bao#BAO_0030004,Transcription factor AP-1,BAO_0003043,molecular entity,BAO_0030004
+http://www.bioassayontology.org/bao#BAO_0030010,Transcription factor p65,BAO_0003043,molecular entity,BAO_0030010
+http://www.bioassayontology.org/bao#BAO_0000281,receptor,BAO_0003043,molecular entity,BAO_0000281
+http://www.bioassayontology.org/bao#BAO_0000285,transmembrane receptor,BAO_0003043,molecular entity,BAO_0000285
+http://www.bioassayontology.org/bao#BAO_0000718,CD40,BAO_0003043,molecular entity,BAO_0000718
+http://www.bioassayontology.org/bao#BAO_0000719,CD4-TLR4,BAO_0003043,molecular entity,BAO_0000719
+http://www.bioassayontology.org/bao#BAO_0000280,ion channel,BAO_0003043,molecular entity,BAO_0000280
+http://www.bioassayontology.org/bao#BAO_0000284,G protein coupled receptor,BAO_0003043,molecular entity,BAO_0000284
+http://www.bioassayontology.org/bao#BAO_0000286,nuclear receptor,BAO_0003043,molecular entity,BAO_0000286
+http://www.bioassayontology.org/bao#BAO_0000283,transporter,BAO_0003043,molecular entity,BAO_0000283
+http://www.bioassayontology.org/bao#BAO_0030061,Sodium/bile acid cotransporter,BAO_0003043,molecular entity,BAO_0030061
+http://www.bioassayontology.org/bao#BAO_0030014,Bile salt export pump,BAO_0003043,molecular entity,BAO_0030014
+http://www.bioassayontology.org/bao#BAO_0030013,Broad substrate specificity ATP-binding cassette transporter ABCG2,BAO_0003043,molecular entity,BAO_0030013
+http://www.bioassayontology.org/bao#BAO_0030031,Multidrug and toxin extrusion protein 1,BAO_0003043,molecular entity,BAO_0030031
+http://www.bioassayontology.org/bao#BAO_0030034,ATP-binding cassette sub-family C member 2,BAO_0003043,molecular entity,BAO_0030034
+http://www.bioassayontology.org/bao#BAO_0030036,Solute carrier family 15 member 1,BAO_0003043,molecular entity,BAO_0030036
+http://www.bioassayontology.org/bao#BAO_0030032,Multidrug and toxin extrusion protein 2,BAO_0003043,molecular entity,BAO_0030032
+http://www.bioassayontology.org/bao#BAO_0030035,ATP-binding cassette sub-family C member 3,BAO_0003043,molecular entity,BAO_0030035
+http://www.bioassayontology.org/bao#BAO_0030045,Solute carrier organic anion transporter family member 2B1,BAO_0003043,molecular entity,BAO_0030045
+http://www.bioassayontology.org/bao#BAO_0030041,Solute carrier family 22 member 7,BAO_0003043,molecular entity,BAO_0030041
+http://www.bioassayontology.org/bao#BAO_0030046,Solute carrier family 22 member 1,BAO_0003043,molecular entity,BAO_0030046
+http://www.bioassayontology.org/bao#BAO_0030040,Solute carrier family 22 member 6,BAO_0003043,molecular entity,BAO_0030040
+http://www.bioassayontology.org/bao#BAO_0030043,Solute carrier organic anion transporter family member 1B1,BAO_0003043,molecular entity,BAO_0030043
+http://www.bioassayontology.org/bao#BAO_0030044,Solute carrier organic anion transporter family member 1B3,BAO_0003043,molecular entity,BAO_0030044
+http://www.bioassayontology.org/bao#BAO_0030042,Solute carrier family 22 member 8,BAO_0003043,molecular entity,BAO_0030042
+http://www.bioassayontology.org/bao#BAO_0030047,Steroid transmembrane transporter SLC22A24,BAO_0003043,molecular entity,BAO_0030047
+http://www.bioassayontology.org/bao#BAO_0000365,cytosolic protein,BAO_0003043,molecular entity,BAO_0000365
+http://www.bioassayontology.org/bao#BAO_0000277,chaperone,BAO_0003043,molecular entity,BAO_0000277
+http://www.bioassayontology.org/bao#BAO_0000766,NOD1,BAO_0003043,molecular entity,BAO_0000766
+http://www.bioassayontology.org/bao#BAO_0000767,NOD2,BAO_0003043,molecular entity,BAO_0000767
+http://www.bioassayontology.org/bao#BAO_0030005,Annexin A5,BAO_0003043,molecular entity,BAO_0030005
+http://www.bioassayontology.org/bao#BAO_0001039,Ubiquitin-AMC,BAO_0003043,molecular entity,BAO_0001039
+http://www.bioassayontology.org/bao#BAO_0001040,Ubiquitin-Rho,BAO_0003043,molecular entity,BAO_0001040
+http://www.bioassayontology.org/bao#BAO_0001041,Ubiquitin vinyl sulfone,BAO_0003043,molecular entity,BAO_0001041
+http://www.bioassayontology.org/bao#BAO_0002108,Microtubule-associated protein tau,BAO_0003043,molecular entity,BAO_0002108
+http://www.bioassayontology.org/bao#BAO_0000369,secreted,BAO_0003043,molecular entity,BAO_0000369
+http://www.bioassayontology.org/bao#BAO_0000852,Pancreatic trypsin inhibitor,BAO_0003043,molecular entity,BAO_0000852
+http://www.bioassayontology.org/bao#BAO_0000271,Interferon gamma,BAO_0003043,molecular entity,BAO_0000271
+http://www.bioassayontology.org/bao#BAO_0000762,Interleukin-3,BAO_0003043,molecular entity,BAO_0000762
+http://www.bioassayontology.org/bao#BAO_0000771,Thrombopoietin,BAO_0003043,molecular entity,BAO_0000771
+http://www.bioassayontology.org/bao#BAO_0000947,Interleukin-8,BAO_0003043,molecular entity,BAO_0000947
+http://www.bioassayontology.org/bao#BAO_0001033,Thyroid-stimulating hormone,BAO_0003043,molecular entity,BAO_0001033
+http://www.bioassayontology.org/bao#BAO_0002066,Serum albumin,BAO_0003043,molecular entity,BAO_0002066
+http://www.bioassayontology.org/bao#BAO_0000963,Macrophage inflammatory protein 3 alpha,BAO_0003043,molecular entity,BAO_0000963
+http://www.bioassayontology.org/bao#BAO_0000204,Interleukin-6,BAO_0003043,molecular entity,BAO_0000204
+http://www.bioassayontology.org/bao#BAO_0000236,Tumor necrosis factor,BAO_0003043,molecular entity,BAO_0000236
+http://www.bioassayontology.org/bao#BAO_0000367,membrane protein,BAO_0003043,molecular entity,BAO_0000367
+http://www.bioassayontology.org/bao#BAO_0000392,generic membrane protein,BAO_0003043,molecular entity,BAO_0000392
+http://www.bioassayontology.org/bao#BAO_0002782,P-selectin glycoprotein ligand 1,BAO_0003043,molecular entity,BAO_0002782
+http://www.bioassayontology.org/bao#BAO_0000368,G protein,BAO_0003043,molecular entity,BAO_0000368
+http://www.bioassayontology.org/bao#BAO_0000919,G alpha O-Alexa Fluor 488,BAO_0003043,molecular entity,BAO_0000919
+http://www.bioassayontology.org/bao#BAO_0000237,adhesion,BAO_0003043,molecular entity,BAO_0000237
+http://www.bioassayontology.org/bao#BAO_0030007,Vascular cell adhesion protein 1,BAO_0003043,molecular entity,BAO_0030007
+http://www.bioassayontology.org/bao#BAO_0030006,E-selectin,BAO_0003043,molecular entity,BAO_0030006
+http://www.bioassayontology.org/bao#BAO_0000172,ACTOne Membrane Potential Dye,BAO_0003043,molecular entity,BAO_0000172
+http://www.bioassayontology.org/bao#BAO_0000174,peptoid,BAO_0003043,molecular entity,BAO_0000174
+http://www.bioassayontology.org/bao#BAO_0000076,screened entity,BAO_0003043,molecular entity,BAO_0000076
+http://www.bioassayontology.org/bao#BAO_0000176,small molecule,BAO_0003043,molecular entity,BAO_0000176
+http://www.bioassayontology.org/bao#BAO_0000215,small molecule probe,BAO_0003043,molecular entity,BAO_0000215
+http://www.bioassayontology.org/bao#BAO_0000322,miRNA,BAO_0003043,molecular entity,BAO_0000322
+http://www.bioassayontology.org/bao#BAO_0000324,siRNA,BAO_0003043,molecular entity,BAO_0000324
+http://www.bioassayontology.org/bao#BAO_0000323,shRNA,BAO_0003043,molecular entity,BAO_0000323
+http://www.bioassayontology.org/bao#BAO_0002016,lipopolysaccharide,BAO_0003043,molecular entity,BAO_0002016
+http://www.bioassayontology.org/bao#BAO_0700003,bivalent small molecule-peptide,BAO_0003043,molecular entity,BAO_0700003
+http://www.bioassayontology.org/bao#BAO_0000313,morpholino oligonucleotide,BAO_0003043,molecular entity,BAO_0000313
+http://www.bioassayontology.org/bao#BAO_0000544,esiRNA,BAO_0003043,molecular entity,BAO_0000544
+http://www.bioassayontology.org/bao#BAO_0002581,5/6 TAMRA,BAO_0003043,molecular entity,BAO_0002581
+http://www.bioassayontology.org/bao#BAO_0002580,malachite green,BAO_0003043,molecular entity,BAO_0002580
+http://www.bioassayontology.org/bao#BAO_0002904,HBSS,BAO_0003043,molecular entity,BAO_0002904
+http://www.bioassayontology.org/bao#BAO_0000829,[3H]N-methylscopolamine,BAO_0003043,molecular entity,BAO_0000829
+http://www.bioassayontology.org/bao#BAO_0000827,"6,8-difluoro-7-hydroxy-4-methylcoumarin",BAO_0003043,molecular entity,BAO_0000827
+http://www.bioassayontology.org/bao#BAO_0000826,"6,8-difluoro-4-methylumbelliferyl phosphate",BAO_0003043,molecular entity,BAO_0000826
+http://www.bioassayontology.org/bao#BAO_0000820,"1, 4 methyllumbelliferone",BAO_0003043,molecular entity,BAO_0000820
+http://www.bioassayontology.org/bao#BAO_0000823,3-O-methylfluorescein phosphate,BAO_0003043,molecular entity,BAO_0000823
+http://www.bioassayontology.org/bao#BAO_0000822,3-O-methyl-fluorescein,BAO_0003043,molecular entity,BAO_0000822
+http://www.bioassayontology.org/bao#BAO_0000825,5-carboxamidotryptamine,BAO_0003043,molecular entity,BAO_0000825
+http://www.bioassayontology.org/bao#BAO_0000824,4 methylumbelliferyl-D-pyranoside,BAO_0003043,molecular entity,BAO_0000824
+http://www.bioassayontology.org/bao#BAO_0000325,peptide,BAO_0003043,molecular entity,BAO_0000325
+http://www.bioassayontology.org/bao#BAO_0002544,his tag,BAO_0003043,molecular entity,BAO_0002544
+http://www.bioassayontology.org/bao#BAO_0002546,HA tag,BAO_0003043,molecular entity,BAO_0002546
+http://www.bioassayontology.org/bao#BAO_0002545,myc tag,BAO_0003043,molecular entity,BAO_0002545
+http://www.bioassayontology.org/bao#BAO_0000920,Galanin,BAO_0003043,molecular entity,BAO_0000920
+http://www.bioassayontology.org/bao#BAO_0000928,GM-TriDAP peptide,BAO_0003043,molecular entity,BAO_0000928
+http://www.bioassayontology.org/bao#BAO_0001004,R18 peptide,BAO_0003043,molecular entity,BAO_0001004
+http://www.bioassayontology.org/bao#BAO_0001002,Pyr-RTKR-AMC,BAO_0003043,molecular entity,BAO_0001002
+http://www.bioassayontology.org/bao#BAO_0000764,MurNAc-L-Ala-gamma-D-Glu-mDAP,BAO_0003043,molecular entity,BAO_0000764
+http://www.bioassayontology.org/bao#BAO_0000774,Z-Leu-Leu-Leu-al,BAO_0003043,molecular entity,BAO_0000774
+http://www.bioassayontology.org/bao#BAO_0000770,Thrombin Receptor Activator Peptide 6,BAO_0003043,molecular entity,BAO_0000770
+http://www.bioassayontology.org/bao#BAO_0000821,14LckpCAP394 peptide,BAO_0003043,molecular entity,BAO_0000821
+http://www.bioassayontology.org/bao#BAO_0000828,[125I]Y10-neuropeptide S,BAO_0003043,molecular entity,BAO_0000828
+http://www.bioassayontology.org/bao#BAO_0000865,Boc-Leu-Gly-Arg-AMC,BAO_0003043,molecular entity,BAO_0000865
+http://www.bioassayontology.org/bao#BAO_0000864,Boc-Gln-Gly-Arg-AMC,BAO_0003043,molecular entity,BAO_0000864
+http://www.bioassayontology.org/bao#BAO_0000866,Boc-Val-Pro-Arg-AMC,BAO_0003043,molecular entity,BAO_0000866
+http://www.bioassayontology.org/bao#BAO_0003057,Glutathione,BAO_0003043,molecular entity,BAO_0003057
+http://www.bioassayontology.org/bao#BAO_0003050,DEVD-NucView 488,BAO_0003043,molecular entity,BAO_0003050
+http://www.bioassayontology.org/bao#BAO_0001052,Z-Arg-Arg-AMC,BAO_0003043,molecular entity,BAO_0001052
+http://www.bioassayontology.org/bao#BAO_0001053,Z-Phe-Arg-AMC,BAO_0003043,molecular entity,BAO_0001053
+http://www.bioassayontology.org/bao#BAO_0001051,WKYMVm peptide,BAO_0003043,molecular entity,BAO_0001051
+http://www.bioassayontology.org/bao#BAO_0001035,TMR-pS259-Raf peptide,BAO_0003043,molecular entity,BAO_0001035
+http://www.bioassayontology.org/bao#BAO_0001034,Thyrotropin-releasing hormone,BAO_0003043,molecular entity,BAO_0001034
+http://www.bioassayontology.org/bao#BAO_0000976,Neuropeptide Y,BAO_0003043,molecular entity,BAO_0000976
+http://www.bioassayontology.org/bao#BAO_0000970,Muramyl dipeptide,BAO_0003043,molecular entity,BAO_0000970
+http://www.bioassayontology.org/bao#BAO_0000974,Neuropeptide W,BAO_0003043,molecular entity,BAO_0000974
+http://www.bioassayontology.org/bao#BAO_0000975,Neuropeptide S,BAO_0003043,molecular entity,BAO_0000975
+http://www.bioassayontology.org/bao#BAO_0001042,ULight poly-GT,BAO_0003043,molecular entity,BAO_0001042
+http://www.bioassayontology.org/bao#BAO_0000909,fMLFK-FITC,BAO_0003043,molecular entity,BAO_0000909
+http://www.bioassayontology.org/bao#BAO_0000745,FITC-RGS12-GoLoco peptide,BAO_0003043,molecular entity,BAO_0000745
+http://www.bioassayontology.org/bao#BAO_0000785,Kemptide peptide,BAO_0003043,molecular entity,BAO_0000785
+http://www.bioassayontology.org/bao#BAO_0000783,DYRKtide peptide,BAO_0003043,molecular entity,BAO_0000783
+http://www.bioassayontology.org/bao#BAO_0000954,LDV peptide,BAO_0003043,molecular entity,BAO_0000954
+http://www.bioassayontology.org/bao#BAO_0000896,Dy647-pS136-Bad peptide,BAO_0003043,molecular entity,BAO_0000896
+http://www.bioassayontology.org/bao#BAO_0000985,Oxytocin,BAO_0003043,molecular entity,BAO_0000985
+http://www.bioassayontology.org/bao#BAO_0000984,Orexin A,BAO_0003043,molecular entity,BAO_0000984
+http://www.bioassayontology.org/bao#BAO_0000965,Melanin-concentrating hormone,BAO_0003043,molecular entity,BAO_0000965
+http://www.bioassayontology.org/bao#BAO_0000934,H-Leu-NHMec,BAO_0003043,molecular entity,BAO_0000934
+http://www.bioassayontology.org/bao#BAO_0000918,fMLFF peptide,BAO_0003043,molecular entity,BAO_0000918
+http://www.bioassayontology.org/bao#BAO_0000912,Fluorogenic triple-helical peptide 3,BAO_0003043,molecular entity,BAO_0000912
+http://www.bioassayontology.org/bao#BAO_0001023,Suc-Ala-Ala-Pro-Phe-AMC,BAO_0003043,molecular entity,BAO_0001023
+http://www.bioassayontology.org/bao#BAO_0000837,Ac-WEHD-CHO,BAO_0003043,molecular entity,BAO_0000837
+http://www.bioassayontology.org/bao#BAO_0000833,Ac-DEVD-AFC,BAO_0003043,molecular entity,BAO_0000833
+http://www.bioassayontology.org/bao#BAO_0000834,Ac-DEVD-CHO,BAO_0003043,molecular entity,BAO_0000834
+http://www.bioassayontology.org/bao#BAO_0000836,Ac-WEHD-AFC,BAO_0003043,molecular entity,BAO_0000836
+http://www.bioassayontology.org/bao#BAO_0000835,Ac-LEHD-AMC,BAO_0003043,molecular entity,BAO_0000835
+http://www.bioassayontology.org/bao#BAO_0000888,DABCYL-Thr-Pro-Leu-Lys~Ser-Pro-Pro-Pro-Ser-Pro-Arg-EDANS,BAO_0003043,molecular entity,BAO_0000888
+http://www.bioassayontology.org/bao#BAO_0001011,Rhodamine-RGS12-GoLoco peptide,BAO_0003043,molecular entity,BAO_0001011
+http://www.bioassayontology.org/bao#BAO_0001014,RS repeat peptide,BAO_0003043,molecular entity,BAO_0001014
+http://www.bioassayontology.org/bao#BAO_0000792,S6 peptide,BAO_0003043,molecular entity,BAO_0000792
+http://www.bioassayontology.org/bao#BAO_0000794,Z-RLRGG-aminoluciferin,BAO_0003043,molecular entity,BAO_0000794
+http://www.bioassayontology.org/bao#BAO_0000793,Suc-LLVY-aminoluciferin,BAO_0003043,molecular entity,BAO_0000793
+http://www.bioassayontology.org/bao#BAO_0000849,Apelin-13,BAO_0003043,molecular entity,BAO_0000849
+http://www.bioassayontology.org/bao#BAO_0000843,AK295 peptide,BAO_0003043,molecular entity,BAO_0000843
+http://www.bioassayontology.org/bao#BAO_0000945,indo-1 calcium indicator,BAO_0003043,molecular entity,BAO_0000945
+http://www.bioassayontology.org/bao#BAO_0000949,IPEGAL,BAO_0003043,molecular entity,BAO_0000949
+http://www.bioassayontology.org/bao#BAO_0002641,cyclin B1-luciferin 4-monooxygenase,BAO_0003043,molecular entity,BAO_0002641
+http://www.bioassayontology.org/bao#BAO_0000860,beta-hydroxybutyryl coenzyme A,BAO_0003043,molecular entity,BAO_0000860
+http://www.bioassayontology.org/bao#BAO_0000867,Brij-35,BAO_0003043,molecular entity,BAO_0000867
+http://www.bioassayontology.org/bao#BAO_0000862,bisindolylmaleimide,BAO_0003043,molecular entity,BAO_0000862
+http://www.bioassayontology.org/bao#BAO_0000868,BRL-54443,BAO_0003043,molecular entity,BAO_0000868
+http://www.bioassayontology.org/bao#BAO_0003056,tris(2-carboxyethyl)phosphine hydrochloride,BAO_0003043,molecular entity,BAO_0003056
+http://www.bioassayontology.org/bao#BAO_0003054,tricine,BAO_0003043,molecular entity,BAO_0003054
+http://www.bioassayontology.org/bao#BAO_0003051,TO-PRO3,BAO_0003043,molecular entity,BAO_0003051
+http://www.bioassayontology.org/bao#BAO_0003055,octyl glucoside,BAO_0003043,molecular entity,BAO_0003055
+http://www.bioassayontology.org/bao#BAO_0003053,PIPES,BAO_0003043,molecular entity,BAO_0003053
+http://www.bioassayontology.org/bao#BAO_0000755,coenzyme Q,BAO_0003043,molecular entity,BAO_0000755
+http://www.bioassayontology.org/bao#BAO_0000754,S-adenosyl methionine,BAO_0003043,molecular entity,BAO_0000754
+http://www.bioassayontology.org/bao#BAO_0000759,doxycycline,BAO_0003043,molecular entity,BAO_0000759
+http://www.bioassayontology.org/bao#BAO_0100006,beta-mercaptoethanol,BAO_0003043,molecular entity,BAO_0100006
+http://www.bioassayontology.org/bao#BAO_0100001,DiFMUP (Molecular Probes),BAO_0003043,molecular entity,BAO_0100001
+http://www.bioassayontology.org/bao#BAO_0100009,formamide,BAO_0003043,molecular entity,BAO_0100009
+http://www.bioassayontology.org/bao#BAO_0100007,BIS-TRIS,BAO_0003043,molecular entity,BAO_0100007
+http://www.bioassayontology.org/bao#BAO_0100002,alamarBlue,BAO_0003043,molecular entity,BAO_0100002
+http://www.bioassayontology.org/bao#BAO_0100005,ammonium acetate,BAO_0003043,molecular entity,BAO_0100005
+http://www.bioassayontology.org/bao#BAO_0002784,"phosphatidylinositol (3,4,5)-triphosphate",BAO_0003043,molecular entity,BAO_0002784
+http://www.bioassayontology.org/bao#BAO_0002781,"inositol 1,4,5-trisphosphate",BAO_0003043,molecular entity,BAO_0002781
+http://www.bioassayontology.org/bao#BAO_0002015,carbohydrate,BAO_0003043,molecular entity,BAO_0002015
+http://www.bioassayontology.org/bao#BAO_0000924,Glucose,BAO_0003043,molecular entity,BAO_0000924
+http://www.bioassayontology.org/bao#BAO_0000927,Glycogen,BAO_0003043,molecular entity,BAO_0000927
+http://www.bioassayontology.org/bao#BAO_0000925,Glucose-6-phosphate,BAO_0003043,molecular entity,BAO_0000925
+http://www.bioassayontology.org/bao#BAO_0001008,Resorufin beta-D-glucopyranoside,BAO_0003043,molecular entity,BAO_0001008
+http://www.bioassayontology.org/bao#BAO_0001007,Resorufin alpha-D-pyranoside,BAO_0003043,molecular entity,BAO_0001007
+http://www.bioassayontology.org/bao#BAO_0002016,lipopolysaccharide,BAO_0003043,molecular entity,BAO_0002016
+http://www.bioassayontology.org/bao#BAO_0000782,D-galactose,BAO_0003043,molecular entity,BAO_0000782
+http://www.bioassayontology.org/bao#BAO_0000964,Mannose-6-phosphate,BAO_0003043,molecular entity,BAO_0000964
+http://www.bioassayontology.org/bao#BAO_0000910,Fluorescein Di-beta-D-Glucopyranoside,BAO_0003043,molecular entity,BAO_0000910
+http://www.bioassayontology.org/bao#BAO_0000845,Alpha-D-glucose,BAO_0003043,molecular entity,BAO_0000845
+http://www.bioassayontology.org/bao#BAO_0002010,nucleotide,BAO_0003043,molecular entity,BAO_0002010
+http://www.bioassayontology.org/bao#BAO_0000875,Cyclic adenosine monophosphate,BAO_0003043,molecular entity,BAO_0000875
+http://www.bioassayontology.org/bao#BAO_0000775,Adenosine diphosphate,BAO_0003043,molecular entity,BAO_0000775
+http://www.bioassayontology.org/bao#BAO_0000776,Adenosine triphosphate,BAO_0003043,molecular entity,BAO_0000776
+http://www.bioassayontology.org/bao#BAO_0002757,Cyclic guanosine monophosphate,BAO_0003043,molecular entity,BAO_0002757
+http://www.bioassayontology.org/bao#BAO_0002783,[35S]GTP-gamma S,BAO_0003043,molecular entity,BAO_0002783
+http://www.bioassayontology.org/bao#BAO_0002742,EdU,BAO_0003043,molecular entity,BAO_0002742
+http://www.bioassayontology.org/bao#BAO_0000931,BODIPY GTP,BAO_0003043,molecular entity,BAO_0000931
+http://www.bioassayontology.org/bao#BAO_0001060,guanosine diphosphate,BAO_0003043,molecular entity,BAO_0001060
+http://www.bioassayontology.org/bao#BAO_0001061,guanosine triphosphate,BAO_0003043,molecular entity,BAO_0001061
+http://www.bioassayontology.org/bao#BAO_0001050,WIN55212,BAO_0003043,molecular entity,BAO_0001050
+http://www.bioassayontology.org/bao#BAO_0001054,zaprinast,BAO_0003043,molecular entity,BAO_0001054
+http://www.bioassayontology.org/bao#BAO_0001037,triton X-100,BAO_0003043,molecular entity,BAO_0001037
+http://www.bioassayontology.org/bao#BAO_0001032,thioflavine S,BAO_0003043,molecular entity,BAO_0001032
+http://www.bioassayontology.org/bao#BAO_0001030,thapsigargin,BAO_0003043,molecular entity,BAO_0001030
+http://www.bioassayontology.org/bao#BAO_0001038,tween 20,BAO_0003043,molecular entity,BAO_0001038
+http://www.bioassayontology.org/bao#BAO_0000972,NBD C6-HPC,BAO_0003043,molecular entity,BAO_0000972
+http://www.bioassayontology.org/bao#BAO_0000978,NP-40,BAO_0003043,molecular entity,BAO_0000978
+http://www.bioassayontology.org/bao#BAO_0000313,morpholino oligonucleotide,BAO_0003043,molecular entity,BAO_0000313
+http://www.bioassayontology.org/bao#BAO_0001044,vasopressin,BAO_0003043,molecular entity,BAO_0001044
+http://www.bioassayontology.org/bao#BAO_0001234,ACP-tag,BAO_0003043,molecular entity,BAO_0001234
+http://www.bioassayontology.org/bao#BAO_0000900,estrogen-alexa 633,BAO_0003043,molecular entity,BAO_0000900
+http://www.bioassayontology.org/bao#BAO_0000901,Eu3+-cAMP,BAO_0003043,molecular entity,BAO_0000901
+http://www.bioassayontology.org/bao#BAO_0000907,fluo-4 AM calcium indicator,BAO_0003043,molecular entity,BAO_0000907
+http://www.bioassayontology.org/bao#BAO_0000747,saponin,BAO_0003043,molecular entity,BAO_0000747
+http://www.bioassayontology.org/bao#BAO_0000748,tetracycline,BAO_0003043,molecular entity,BAO_0000748
+http://www.bioassayontology.org/bao#BAO_0000749,NADPH,BAO_0003043,molecular entity,BAO_0000749
+http://www.bioassayontology.org/bao#BAO_0000011,nucleic acid,BAO_0003043,molecular entity,BAO_0000011
+http://www.bioassayontology.org/bao#BAO_0000270,RNA,BAO_0003043,molecular entity,BAO_0000270
+http://www.bioassayontology.org/bao#BAO_0000276,tRNA,BAO_0003043,molecular entity,BAO_0000276
+http://www.bioassayontology.org/bao#BAO_0000274,mRNA,BAO_0003043,molecular entity,BAO_0000274
+http://www.bioassayontology.org/bao#BAO_0000275,rRNA,BAO_0003043,molecular entity,BAO_0000275
+http://www.bioassayontology.org/bao#BAO_0000226,PNA,BAO_0003043,molecular entity,BAO_0000226
+http://www.bioassayontology.org/bao#BAO_0000322,miRNA,BAO_0003043,molecular entity,BAO_0000322
+http://www.bioassayontology.org/bao#BAO_0000324,siRNA,BAO_0003043,molecular entity,BAO_0000324
+http://www.bioassayontology.org/bao#BAO_0000323,shRNA,BAO_0003043,molecular entity,BAO_0000323
+http://www.bioassayontology.org/bao#BAO_0000496,RNA aptamer,BAO_0003043,molecular entity,BAO_0000496
+http://www.bioassayontology.org/bao#BAO_0000498,riboswitch,BAO_0003043,molecular entity,BAO_0000498
+http://www.bioassayontology.org/bao#BAO_0000412,LNA,BAO_0003043,molecular entity,BAO_0000412
+http://www.bioassayontology.org/bao#BAO_0000544,esiRNA,BAO_0003043,molecular entity,BAO_0000544
+http://www.bioassayontology.org/bao#BAO_0000269,DNA,BAO_0003043,molecular entity,BAO_0000269
+http://www.bioassayontology.org/bao#BAO_0000316,genomic DNA,BAO_0003043,molecular entity,BAO_0000316
+http://www.bioassayontology.org/bao#BAO_0000317,plasmid DNA,BAO_0003043,molecular entity,BAO_0000317
+http://www.bioassayontology.org/bao#BAO_0000315,cDNA,BAO_0003043,molecular entity,BAO_0000315
+http://www.bioassayontology.org/bao#BAO_0000012,phosphate buffered saline,BAO_0003043,molecular entity,BAO_0000012
+http://www.bioassayontology.org/bao#BAO_0000497,peptide aptamer,BAO_0003043,molecular entity,BAO_0000497
+http://www.bioassayontology.org/bao#BAO_0000495,DNA aptamer,BAO_0003043,molecular entity,BAO_0000495
+http://www.bioassayontology.org/bao#BAO_0000787,luciferin-PPXE,BAO_0003043,molecular entity,BAO_0000787
+http://www.bioassayontology.org/bao#BAO_0000786,luciferin 6-ME,BAO_0003043,molecular entity,BAO_0000786
+http://www.bioassayontology.org/bao#BAO_0000784,ethylene glycol ester of luciferin 6' methyl ether,BAO_0003043,molecular entity,BAO_0000784
+http://www.bioassayontology.org/bao#BAO_0000781,deoxyluciferin,BAO_0003043,molecular entity,BAO_0000781
+http://www.bioassayontology.org/bao#BAO_0000789,peptide-aminoluciferin,BAO_0003043,molecular entity,BAO_0000789
+http://www.bioassayontology.org/bao#BAO_0000788,luciferin-BE,BAO_0003043,molecular entity,BAO_0000788
+http://www.bioassayontology.org/bao#BAO_0002672,fluo-8 calcium indicator,BAO_0003043,molecular entity,BAO_0002672
+http://www.bioassayontology.org/bao#BAO_0000021,LysoTracker Red,BAO_0003043,molecular entity,BAO_0000021
+http://www.bioassayontology.org/bao#BAO_0002720,MES,BAO_0003043,molecular entity,BAO_0002720
+http://www.bioassayontology.org/bao#BAO_0000811,wee1-like protein-luciferin 4-monooxygenase,BAO_0003043,molecular entity,BAO_0000811
+http://www.bioassayontology.org/bao#BAO_0000952,L-AP4,BAO_0003043,molecular entity,BAO_0000952
+http://www.bioassayontology.org/bao#BAO_0000950,isoproterenol,BAO_0003043,molecular entity,BAO_0000950
+http://www.bioassayontology.org/bao#BAO_0000956,lipofectamine 2000,BAO_0003043,molecular entity,BAO_0000956
+http://www.bioassayontology.org/bao#BAO_0000736,1-aminoanthracene,BAO_0003043,molecular entity,BAO_0000736
+http://www.bioassayontology.org/bao#BAO_0001222,Ellman and apos's reagent,BAO_0003043,molecular entity,BAO_0001222
+http://www.bioassayontology.org/bao#BAO_0001223,3H,BAO_0003043,molecular entity,BAO_0001223
+http://www.bioassayontology.org/bao#BAO_0001221,Sytox Orange,BAO_0003043,molecular entity,BAO_0001221
+http://www.bioassayontology.org/bao#BAO_0001220,QuantaBlu,BAO_0003043,molecular entity,BAO_0001220
+http://www.bioassayontology.org/bao#BAO_0001224,35S,BAO_0003043,molecular entity,BAO_0001224
+http://www.bioassayontology.org/bao#BAO_0000892,diphosphomevalonate,BAO_0003043,molecular entity,BAO_0000892
+http://www.bioassayontology.org/bao#BAO_0000895,DTT,BAO_0003043,molecular entity,BAO_0000895
+http://www.bioassayontology.org/bao#BAO_0000890,DAMGO,BAO_0003043,molecular entity,BAO_0000890
+http://www.bioassayontology.org/bao#BAO_0000894,dopamine,BAO_0003043,molecular entity,BAO_0000894
+http://www.bioassayontology.org/bao#BAO_0000897,dynorphin A,BAO_0003043,molecular entity,BAO_0000897
+http://www.bioassayontology.org/bao#BAO_0000891,diminazene aceturate,BAO_0003043,molecular entity,BAO_0000891
+http://www.bioassayontology.org/bao#BAO_0002579,XTT red,BAO_0003043,molecular entity,BAO_0002579
+http://www.bioassayontology.org/bao#BAO_0000987,para-nitrophenylphosphate,BAO_0003043,molecular entity,BAO_0000987
+http://www.bioassayontology.org/bao#BAO_0000980,O-methyl-fluorescein phosphate,BAO_0003043,molecular entity,BAO_0000980
+http://www.bioassayontology.org/bao#BAO_0000986,para-nitrophenol,BAO_0003043,molecular entity,BAO_0000986
+http://www.bioassayontology.org/bao#BAO_0000800,TransIT-CHO kit,BAO_0003043,molecular entity,BAO_0000800
+http://www.bioassayontology.org/bao#BAO_0000801,TransIT-LT1,BAO_0003043,molecular entity,BAO_0000801
+http://www.bioassayontology.org/bao#BAO_0000962,lysophosphatidylinositol,BAO_0003043,molecular entity,BAO_0000962
+http://www.bioassayontology.org/bao#BAO_0000961,luciferin-H EGE,BAO_0003043,molecular entity,BAO_0000961
+http://www.bioassayontology.org/bao#BAO_0000967,mevalonate,BAO_0003043,molecular entity,BAO_0000967
+http://www.bioassayontology.org/bao#BAO_0000960,luciferin-H,BAO_0003043,molecular entity,BAO_0000960
+http://www.bioassayontology.org/bao#BAO_0002538,ethylenediaminetetraacetic acid,BAO_0003043,molecular entity,BAO_0002538
+http://www.bioassayontology.org/bao#BAO_0002537,"ethyleneglycol-bis(β-aminoethyl)-N,N,N′,N′-tetraacetic acid",BAO_0003043,molecular entity,BAO_0002537
+http://www.bioassayontology.org/bao#BAO_0000047,Syto 60,BAO_0003043,molecular entity,BAO_0000047
+http://www.bioassayontology.org/bao#BAO_0000933,GW8510,BAO_0003043,molecular entity,BAO_0000933
+http://www.bioassayontology.org/bao#BAO_0000932,GW5074,BAO_0003043,molecular entity,BAO_0000932
+http://www.bioassayontology.org/bao#BAO_0000116,Hoechst,BAO_0003043,molecular entity,BAO_0000116
+http://www.bioassayontology.org/bao#BAO_0000115,Hoechst 33342,BAO_0003043,molecular entity,BAO_0000115
+http://www.bioassayontology.org/bao#BAO_0000118,DMSO,BAO_0003043,molecular entity,BAO_0000118
+http://www.bioassayontology.org/bao#BAO_0000916,fluozin,BAO_0003043,molecular entity,BAO_0000916
+http://www.bioassayontology.org/bao#BAO_0000915,fluozin-2,BAO_0003043,molecular entity,BAO_0000915
+http://www.bioassayontology.org/bao#BAO_0000914,fluorophosphonate-rhodamine,BAO_0003043,molecular entity,BAO_0000914
+http://www.bioassayontology.org/bao#BAO_0001215,Fluormone ES2 Green,BAO_0003043,molecular entity,BAO_0001215
+http://www.bioassayontology.org/bao#BAO_0001218,Atto 495,BAO_0003043,molecular entity,BAO_0001218
+http://www.bioassayontology.org/bao#BAO_0001217,Amplex red reagent,BAO_0003043,molecular entity,BAO_0001217
+http://www.bioassayontology.org/bao#BAO_0001213,Fluormone PL Far Red,BAO_0003043,molecular entity,BAO_0001213
+http://www.bioassayontology.org/bao#BAO_0001216,Fluorescein,BAO_0003043,molecular entity,BAO_0001216
+http://www.bioassayontology.org/bao#BAO_0001022,stibavirin,BAO_0003043,molecular entity,BAO_0001022
+http://www.bioassayontology.org/bao#BAO_0001028,thallium,BAO_0003043,molecular entity,BAO_0001028
+http://www.bioassayontology.org/bao#BAO_0001026,texas Red,BAO_0003043,molecular entity,BAO_0001026
+http://www.bioassayontology.org/bao#BAO_0001021,staurosporine,BAO_0003043,molecular entity,BAO_0001021
+http://www.bioassayontology.org/bao#BAO_0001024,SYPRO orange dye,BAO_0003043,molecular entity,BAO_0001024
+http://www.bioassayontology.org/bao#BAO_0001027,TG003,BAO_0003043,molecular entity,BAO_0001027
+http://www.bioassayontology.org/bao#BAO_0000830,A23187,BAO_0003043,molecular entity,BAO_0000830
+http://www.bioassayontology.org/bao#BAO_0000838,acetylcholine,BAO_0003043,molecular entity,BAO_0000838
+http://www.bioassayontology.org/bao#BAO_0000886,inositol-1-phosphate,BAO_0003043,molecular entity,BAO_0000886
+http://www.bioassayontology.org/bao#BAO_0000883,Cy5,BAO_0003043,molecular entity,BAO_0000883
+http://www.bioassayontology.org/bao#BAO_0000885,cysteine,BAO_0003043,molecular entity,BAO_0000885
+http://www.bioassayontology.org/bao#BAO_0000880,CHAPS,BAO_0003043,molecular entity,BAO_0000880
+http://www.bioassayontology.org/bao#BAO_0000882,coenzyme A,BAO_0003043,molecular entity,BAO_0000882
+http://www.bioassayontology.org/bao#BAO_0000995,pluronic F-127,BAO_0003043,molecular entity,BAO_0000995
+http://www.bioassayontology.org/bao#BAO_0000991,phosphoethanolamine,BAO_0003043,molecular entity,BAO_0000991
+http://www.bioassayontology.org/bao#BAO_0000990,phosphoenolpyruvate,BAO_0003043,molecular entity,BAO_0000990
+http://www.bioassayontology.org/bao#BAO_0000996,phorbol myristate acetate,BAO_0003043,molecular entity,BAO_0000996
+http://www.bioassayontology.org/bao#BAO_0000999,profluorescent 1-AMA,BAO_0003043,molecular entity,BAO_0000999
+http://www.bioassayontology.org/bao#BAO_0000992,phosphomevalonate,BAO_0003043,molecular entity,BAO_0000992
+http://www.bioassayontology.org/bao#BAO_0000998,probenecid,BAO_0003043,molecular entity,BAO_0000998
+http://www.bioassayontology.org/bao#BAO_0000997,potassium phosphoenolpyruvate,BAO_0003043,molecular entity,BAO_0000997
+http://www.bioassayontology.org/bao#BAO_0000695,MOPS,BAO_0003043,molecular entity,BAO_0000695
+http://www.bioassayontology.org/bao#BAO_0000693,HEPES,BAO_0003043,molecular entity,BAO_0000693
+http://www.bioassayontology.org/bao#BAO_0000696,phosphate buffer,BAO_0003043,molecular entity,BAO_0000696
+http://www.bioassayontology.org/bao#BAO_0000694,tris,BAO_0003043,molecular entity,BAO_0000694
+http://www.bioassayontology.org/bao#BAO_0001017,SNC80,BAO_0003043,molecular entity,BAO_0001017
+http://www.bioassayontology.org/bao#BAO_0001018,sodium orthovanadate,BAO_0003043,molecular entity,BAO_0001018
+http://www.bioassayontology.org/bao#BAO_0001010,rhodamine-conjugated sulfonate ester,BAO_0003043,molecular entity,BAO_0001010
+http://www.bioassayontology.org/bao#BAO_0001012,Ro 20-1724,BAO_0003043,molecular entity,BAO_0001012
+http://www.bioassayontology.org/bao#BAO_0001013,rolipram,BAO_0003043,molecular entity,BAO_0001013
+http://www.bioassayontology.org/bao#BAO_0000799,lipofectin,BAO_0003043,molecular entity,BAO_0000799
+http://www.bioassayontology.org/bao#BAO_0000795,furafylline,BAO_0003043,molecular entity,BAO_0000795
+http://www.bioassayontology.org/bao#BAO_0000797,quinidine,BAO_0003043,molecular entity,BAO_0000797
+http://www.bioassayontology.org/bao#BAO_0000796,ketoconazole,BAO_0003043,molecular entity,BAO_0000796
+http://www.bioassayontology.org/bao#BAO_0000844,alkaline phosphatase-cAMP,BAO_0003043,molecular entity,BAO_0000844
+http://www.bioassayontology.org/bao#BAO_0000846,7-amino-4-methylcoumarin,BAO_0003043,molecular entity,BAO_0000846
+http://www.bioassayontology.org/bao#BAO_0000840,7-amino-4-trifluoromethylcoumarin,BAO_0003043,molecular entity,BAO_0000840
+http://www.bioassayontology.org/bao#BAO_0000848,angiotensin II,BAO_0003043,molecular entity,BAO_0000848

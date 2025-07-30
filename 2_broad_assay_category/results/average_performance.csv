@@ -1,0 +1,8 @@
+category,p,r,f
+in vivo method (BAO_0040021),0.97,0.87,0.91
+Nucleic acid binding,0.96,0.94,0.95
+Radioligand binding (BAO_0002776),0.95,0.91,0.93
+Antimicrobial activity,0.95,0.83,0.88
+Binding (BAO_0002989),0.89,0.85,0.87
+Cell phenotype (BAO_0002542),0.88,0.83,0.85
+Protein activity (BAO_0013016),0.84,0.79,0.81

@@ -1,0 +1,176 @@
+category,p,r,f,fold
+Antimicrobial activity,0.94,0.81,0.87,chunk24
+Antimicrobial activity,1.00,0.88,0.93,chunk19
+Antimicrobial activity,0.91,0.83,0.87,chunk14
+Antimicrobial activity,1.00,0.78,0.88,chunk3
+Antimicrobial activity,1.00,0.76,0.86,chunk4
+Antimicrobial activity,1.00,0.89,0.94,chunk12
+Antimicrobial activity,0.93,0.82,0.88,chunk22
+Antimicrobial activity,0.88,0.88,0.88,chunk2
+Antimicrobial activity,0.94,0.76,0.84,chunk5
+Antimicrobial activity,1.00,0.76,0.86,chunk20
+Antimicrobial activity,1.00,0.76,0.86,chunk10
+Antimicrobial activity,1.00,0.87,0.93,chunk6
+Antimicrobial activity,0.94,0.85,0.89,chunk9
+Antimicrobial activity,0.94,0.79,0.86,chunk7
+Antimicrobial activity,0.93,0.88,0.90,chunk21
+Antimicrobial activity,0.94,0.84,0.89,chunk11
+Antimicrobial activity,1.00,0.86,0.92,chunk15
+Antimicrobial activity,0.86,0.71,0.77,chunk13
+Antimicrobial activity,0.93,1.00,0.96,chunk8
+Antimicrobial activity,0.88,0.74,0.80,chunk17
+Antimicrobial activity,0.92,0.85,0.88,chunk0
+Antimicrobial activity,1.00,0.74,0.85,chunk18
+Antimicrobial activity,0.85,0.85,0.85,chunk23
+Antimicrobial activity,1.00,0.80,0.89,chunk1
+Antimicrobial activity,0.94,0.94,0.94,chunk16
+Binding (BAO_0002989),0.91,0.88,0.89,chunk19
+Binding (BAO_0002989),0.96,0.83,0.89,chunk22
+Binding (BAO_0002989),0.96,0.96,0.96,chunk0
+Binding (BAO_0002989),0.85,0.81,0.83,chunk10
+Binding (BAO_0002989),0.86,0.96,0.91,chunk11
+Binding (BAO_0002989),0.95,0.75,0.84,chunk2
+Binding (BAO_0002989),0.90,0.88,0.89,chunk15
+Binding (BAO_0002989),0.96,0.96,0.96,chunk6
+Binding (BAO_0002989),0.83,0.89,0.86,chunk17
+Binding (BAO_0002989),0.81,0.90,0.85,chunk1
+Binding (BAO_0002989),0.88,0.88,0.88,chunk12
+Binding (BAO_0002989),0.81,0.75,0.78,chunk3
+Binding (BAO_0002989),0.89,0.65,0.76,chunk16
+Binding (BAO_0002989),0.91,0.83,0.87,chunk21
+Binding (BAO_0002989),0.84,0.84,0.84,chunk5
+Binding (BAO_0002989),0.96,0.88,0.92,chunk18
+Binding (BAO_0002989),0.83,0.86,0.85,chunk7
+Binding (BAO_0002989),1.00,0.73,0.84,chunk13
+Binding (BAO_0002989),0.79,0.79,0.79,chunk23
+Binding (BAO_0002989),1.00,0.85,0.92,chunk9
+Binding (BAO_0002989),0.92,0.96,0.94,chunk4
+Binding (BAO_0002989),0.84,0.73,0.78,chunk20
+Binding (BAO_0002989),0.84,0.81,0.82,chunk8
+Binding (BAO_0002989),1.00,0.80,0.89,chunk14
+Binding (BAO_0002989),0.82,1.00,0.90,chunk24
+Cell phenotype (BAO_0002542),0.85,0.81,0.83,chunk9
+Cell phenotype (BAO_0002542),1.00,0.80,0.89,chunk21
+Cell phenotype (BAO_0002542),1.00,0.76,0.86,chunk19
+Cell phenotype (BAO_0002542),0.92,0.96,0.94,chunk17
+Cell phenotype (BAO_0002542),0.80,0.87,0.83,chunk11
+Cell phenotype (BAO_0002542),0.88,0.75,0.81,chunk20
+Cell phenotype (BAO_0002542),1.00,0.77,0.87,chunk13
+Cell phenotype (BAO_0002542),0.84,0.81,0.82,chunk16
+Cell phenotype (BAO_0002542),0.95,0.81,0.88,chunk14
+Cell phenotype (BAO_0002542),0.82,0.95,0.88,chunk15
+Cell phenotype (BAO_0002542),0.83,0.88,0.86,chunk10
+Cell phenotype (BAO_0002542),0.86,0.90,0.88,chunk12
+Cell phenotype (BAO_0002542),0.79,0.79,0.79,chunk18
+Cell phenotype (BAO_0002542),0.94,0.76,0.84,chunk5
+Cell phenotype (BAO_0002542),0.90,0.76,0.83,chunk8
+Cell phenotype (BAO_0002542),0.85,0.85,0.85,chunk24
+Cell phenotype (BAO_0002542),0.96,0.89,0.93,chunk0
+Cell phenotype (BAO_0002542),0.94,0.68,0.79,chunk4
+Cell phenotype (BAO_0002542),0.88,0.70,0.78,chunk1
+Cell phenotype (BAO_0002542),0.73,0.73,0.73,chunk7
+Cell phenotype (BAO_0002542),0.95,0.87,0.91,chunk2
+Cell phenotype (BAO_0002542),0.62,0.80,0.70,chunk3
+Cell phenotype (BAO_0002542),0.95,0.86,0.90,chunk22
+Cell phenotype (BAO_0002542),0.79,0.96,0.87,chunk23
+Cell phenotype (BAO_0002542),0.85,0.92,0.88,chunk6
+Nucleic acid binding,1.00,0.94,0.97,chunk4
+Nucleic acid binding,0.92,0.94,0.93,chunk8
+Nucleic acid binding,0.93,0.90,0.91,chunk3
+Nucleic acid binding,0.91,0.94,0.93,chunk14
+Nucleic acid binding,0.92,1.00,0.96,chunk21
+Nucleic acid binding,0.94,0.92,0.93,chunk19
+Nucleic acid binding,0.97,0.91,0.94,chunk12
+Nucleic acid binding,0.97,0.89,0.93,chunk15
+Nucleic acid binding,0.97,0.94,0.95,chunk1
+Nucleic acid binding,0.91,1.00,0.96,chunk16
+Nucleic acid binding,0.95,0.98,0.96,chunk0
+Nucleic acid binding,1.00,0.94,0.97,chunk17
+Nucleic acid binding,1.00,0.91,0.95,chunk23
+Nucleic acid binding,1.00,0.96,0.98,chunk2
+Nucleic acid binding,1.00,0.97,0.99,chunk13
+Nucleic acid binding,0.97,0.94,0.95,chunk10
+Nucleic acid binding,0.97,0.94,0.96,chunk6
+Nucleic acid binding,0.95,0.92,0.93,chunk18
+Nucleic acid binding,0.94,0.97,0.96,chunk5
+Nucleic acid binding,1.00,0.94,0.97,chunk20
+Nucleic acid binding,0.97,0.97,0.97,chunk9
+Nucleic acid binding,0.93,1.00,0.96,chunk22
+Nucleic acid binding,1.00,0.89,0.94,chunk24
+Nucleic acid binding,0.94,0.92,0.93,chunk11
+Nucleic acid binding,0.97,0.92,0.95,chunk7
+Protein activity (BAO_0013016),0.85,0.85,0.85,chunk5
+Protein activity (BAO_0013016),0.86,0.82,0.84,chunk16
+Protein activity (BAO_0013016),0.77,0.79,0.78,chunk19
+Protein activity (BAO_0013016),0.86,0.79,0.83,chunk10
+Protein activity (BAO_0013016),0.91,0.66,0.76,chunk24
+Protein activity (BAO_0013016),0.70,0.77,0.73,chunk1
+Protein activity (BAO_0013016),0.79,0.84,0.81,chunk17
+Protein activity (BAO_0013016),0.75,0.64,0.69,chunk8
+Protein activity (BAO_0013016),0.85,0.79,0.82,chunk0
+Protein activity (BAO_0013016),0.90,0.80,0.85,chunk18
+Protein activity (BAO_0013016),0.85,0.80,0.82,chunk21
+Protein activity (BAO_0013016),0.83,0.81,0.82,chunk2
+Protein activity (BAO_0013016),0.97,0.86,0.91,chunk22
+Protein activity (BAO_0013016),0.80,0.85,0.82,chunk23
+Protein activity (BAO_0013016),0.93,0.84,0.89,chunk12
+Protein activity (BAO_0013016),0.81,0.81,0.81,chunk13
+Protein activity (BAO_0013016),0.78,0.81,0.79,chunk20
+Protein activity (BAO_0013016),0.81,0.75,0.78,chunk4
+Protein activity (BAO_0013016),0.86,0.79,0.83,chunk7
+Protein activity (BAO_0013016),0.92,0.89,0.90,chunk14
+Protein activity (BAO_0013016),0.77,0.77,0.77,chunk9
+Protein activity (BAO_0013016),0.91,0.91,0.91,chunk6
+Protein activity (BAO_0013016),0.83,0.67,0.74,chunk11
+Protein activity (BAO_0013016),0.85,0.71,0.77,chunk3
+Protein activity (BAO_0013016),0.89,0.78,0.83,chunk15
+Radioligand binding (BAO_0002776),0.95,0.91,0.93,chunk19
+Radioligand binding (BAO_0002776),0.94,0.89,0.91,chunk22
+Radioligand binding (BAO_0002776),0.88,0.95,0.91,chunk21
+Radioligand binding (BAO_0002776),1.00,0.96,0.98,chunk23
+Radioligand binding (BAO_0002776),0.91,0.88,0.89,chunk20
+Radioligand binding (BAO_0002776),1.00,0.97,0.98,chunk24
+Radioligand binding (BAO_0002776),0.88,1.00,0.94,chunk0
+Radioligand binding (BAO_0002776),1.00,0.95,0.97,chunk18
+Radioligand binding (BAO_0002776),0.95,0.95,0.95,chunk8
+Radioligand binding (BAO_0002776),0.90,0.90,0.90,chunk5
+Radioligand binding (BAO_0002776),0.96,1.00,0.98,chunk9
+Radioligand binding (BAO_0002776),1.00,0.89,0.94,chunk4
+Radioligand binding (BAO_0002776),0.93,1.00,0.96,chunk10
+Radioligand binding (BAO_0002776),0.94,0.80,0.86,chunk11
+Radioligand binding (BAO_0002776),1.00,0.81,0.90,chunk12
+Radioligand binding (BAO_0002776),1.00,0.87,0.93,chunk7
+Radioligand binding (BAO_0002776),0.96,0.96,0.96,chunk3
+Radioligand binding (BAO_0002776),0.91,1.00,0.95,chunk13
+Radioligand binding (BAO_0002776),1.00,1.00,1.00,chunk14
+Radioligand binding (BAO_0002776),0.90,0.86,0.88,chunk2
+Radioligand binding (BAO_0002776),0.90,0.90,0.90,chunk15
+Radioligand binding (BAO_0002776),0.87,0.91,0.89,chunk16
+Radioligand binding (BAO_0002776),1.00,0.73,0.84,chunk1
+Radioligand binding (BAO_0002776),1.00,0.88,0.93,chunk17
+Radioligand binding (BAO_0002776),0.96,0.83,0.89,chunk6
+in vivo method (BAO_0040021),1.00,1.00,1.00,chunk3
+in vivo method (BAO_0040021),1.00,0.73,0.84,chunk1
+in vivo method (BAO_0040021),1.00,0.79,0.88,chunk23
+in vivo method (BAO_0040021),0.93,0.93,0.93,chunk4
+in vivo method (BAO_0040021),1.00,0.86,0.92,chunk24
+in vivo method (BAO_0040021),1.00,0.77,0.87,chunk0
+in vivo method (BAO_0040021),0.92,0.92,0.92,chunk5
+in vivo method (BAO_0040021),1.00,0.93,0.96,chunk2
+in vivo method (BAO_0040021),1.00,0.76,0.87,chunk8
+in vivo method (BAO_0040021),1.00,0.86,0.92,chunk22
+in vivo method (BAO_0040021),1.00,0.78,0.88,chunk7
+in vivo method (BAO_0040021),1.00,1.00,1.00,chunk18
+in vivo method (BAO_0040021),1.00,0.93,0.97,chunk9
+in vivo method (BAO_0040021),1.00,0.91,0.95,chunk21
+in vivo method (BAO_0040021),1.00,1.00,1.00,chunk10
+in vivo method (BAO_0040021),0.91,0.77,0.83,chunk11
+in vivo method (BAO_0040021),0.82,0.90,0.86,chunk20
+in vivo method (BAO_0040021),0.83,1.00,0.91,chunk13
+in vivo method (BAO_0040021),0.89,0.73,0.80,chunk14
+in vivo method (BAO_0040021),1.00,0.78,0.88,chunk15
+in vivo method (BAO_0040021),0.92,0.86,0.89,chunk19
+in vivo method (BAO_0040021),1.00,1.00,1.00,chunk16
+in vivo method (BAO_0040021),1.00,0.62,0.77,chunk17
+in vivo method (BAO_0040021),1.00,1.00,1.00,chunk6
+in vivo method (BAO_0040021),1.00,0.94,0.97,chunk12

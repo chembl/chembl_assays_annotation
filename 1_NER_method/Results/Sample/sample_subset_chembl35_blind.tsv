@@ -1,0 +1,101 @@
+assay_id	assay_type	description
+2240177	B	Induction of HDAC4 degradation in human HL-60 cells at 0.1 to 10 uM after 6 hrs by Western blot analysis
+1708538	B	Binding affinity to ACTR3 in human NCI-H23 cells at 1 uM by mass spectrometry based pull down assay
+1837015	B	Inhibition of recombinant human TRKC (510 to end residues) assessed as residual activity at 10 uM using GEEPLYWSFPAKK as substrate incubated for 40 mins in presence of [gamma33P]ATP by scintillation counting based radiometry assay relative to control
+46520	B	Inhibitory concentration of compound required against Caspase-1 compared to acylated dipeptides
+533526	B	Inhibition of human trypsin at 100 uM
+2102748	B	Inhibition of equine serum BChE using butyrylthiocholine iodide as substrate preincubated with enzyme for 30 mins followed by substrate addition and measured after 30 mins by Ellman's method
+2128681	B	Inhibition of human N-terminal GST-fusion tagged VEGFR2 cytoplasmic domain (790 to 1356 end residues) expressed in Sf21 insect cells
+659332	B	Inhibition of c-Kit by HTRF assay
+2322170	B	Inhibition of human HDAC3 using Boc-Lys (acetyl)-AMC as substrate pretreated with compound for 1 hrs followed by substrate addition measured after 1 hrs by microplate reader analysis
+1614150	B	Displacement of [125I]-p-iodoclonidine from I1 receptor imidazoline binding site in Sprague-Dawley rat kidney cell membranes after 30 mins by liquid scintillation counting
+2184197	B	Inhibition of IGF1R (unknown origin) at 1 uM relative to origin
+989540	B	Antagonist activity at human TRPA1 expressed in CHO cells assessed as inhibition of allyl isothiocyanate-induced 45Ca2+ uptake at 1 uM incubated for 10 mins prior to allyl isothiocyanate-challenge measured after 2 to 5 mins by liquid scintillation counting analysis
+384612	B	Displacement of [3H]prazosin from adrenergic alpha-1A receptor in rat submaxillary gland membranes
+841613	B	Inhibition of human recombinant COX-2 at 10 uM by ELISA
+1644000	B	Inhibition of FGFR1 in human SGC7901 cells assessed as reduction in FGF-induced phosphorylation of ERK1/2 preincubated with cells followed by FGF addition by Western blot method
+1765476	B	Binding affinity to transthyretin in dog serum assessed as protein occupancy at 10 uM by fluorescent probe exclusion assay
+2235417	B	Inhibition of full length mouse recombinant MoPrP (23 to 231 residues) aggregation in RML prion infected mouse ScN2a cell lysate using PrPSc as substrate by Thioflavin T based fluorometric assay
+27715	B	Displacement of [3H]DPCPX from human Adenosine A1 receptor expressed in CHO cells; range 213-281
+726327	B	Inhibition of STAT3 dimerization in mouse NIH3T3 cells expressing v-Src assessed as disruption of STAT3-STAT3: DNA complexation in nucleus after 30 mins by electrophoretic mobility shift assay
+2252393	B	Agonist activity at LRH-1 (unknown origin) transfected in human HeLa cells measured after 24 hrs by Dual Glo luciferase reporter gene assay
+1851198	B	Inhibition of full-length recombinant human CSK at 10 uM using poly(Glu, Tyr) 4:1 as substrate measured after 40 mins in presence of [gamma33P]ATP by scintillation counting method
+636887	B	Inhibition of STK39 at 1 uM
+1693013	B	Inhibition of wild-type human full length DLK (M1 to P859 residues) expressed in HEK293 cells assessed as residual activity at 1000 nM after 30 mins by Kinomescan method relative to control
+1336952	B	Inhibition of HSP90 in HEK cells expressing full-length mHtt Q73 gene assessed as reduction of mHtt level after 24 hrs by Western blot analysis
+696331	B	Inhibition of human COX1
+2157929	B	Binding affinity to NanoLuc human A1 adenosine receptor expressed in HEK293-A cells in prescence of SLV320 by NanoBRET competitive binding assay
+320750	B	Inhibition constant against histamine H3 receptor
+1454627	B	Antagonist activity against human galectin 1 at 10 mM by fluorescence polarization assay
+308018	B	Inhibitory activity against human Glutathione reductase relative to GSSG (100 uM)
+2204106	B	Inhibition of PI3Kalpha (unknown origin)
+2114474	B	Inhibition of HDAC in human Cal27CisR cells assessed as combination index at 0.4 uM measured in presence of 20 uM cDDP by MTT-based Chou-Talalay method
+371968	B	Binding affinity to ERbeta by scintillation proximity assay
+2265211	B	Antagonist activity at human P2Y6R expressed in human 1321N1 cells assessed as inhibition of UDP-induced calcium mobilization by FLIPR assay
+27450	B	Displacement of [3H]DPCPX from human Adenosine A1 receptor expressed in CHO cells; range 245-370
+802583	F	Antischistosomal activity against juvenile Schistosoma japonicum assessed as worm survival at 50 uM after 24 hrs relative to control
+214596	F	Effective concentration required to inhibit respiratory synaptial (RSV) virus-induced cytopathicity by 50% in Vero cell lines
+35953	F	Antagonist efficacy was determined as a function (%) of maximal inhibition of an agonist in Human androgen receptor.
+804313	F	Antibacterial activity against Escherichia coli ATCC 25922 after 24 hrs by macrobroth dilution method in the presence of bovine serum albumin
+371373	F	Inhibition of beta amyloid 42 secretion in mouse N2a cells
+185787	F	Anticonvulsant activity was measured by maximal electroshock seizure test in rat by po administration at 50 mg/kg
+638216	F	Cell cycle arrest in human MDA-MB-231 cells assessed as accumulation at S phase at 100 uM after 24 to 72 hrs using propidium staining by flow cytometry
+433677	F	Antimicrobial activity against Pseudomonas aeruginosa 19C5 tracheal isolates from mechanically ventilated chronic respiratory insufficiency patient
+1356066	F	Antimalarial activity against Plasmodium berghei infected mouse assessed as suppression of parasitemia administered through diet for 6 days
+134369	F	Curative activity of the Compound after oral administration at a dose of 6.6 mg/kg and I.C.E. value of 0.60; 2/5
+1799885	F	Antiplasmodial activity against synchronized ring stage of chloroquine-resistant Plasmodium falciparum Dd2 infected in human erythrocytes after 48 hrs by SYBR Green 1 dye based fluorescence assay
+451078	F	Induction of immune response of T-cell HNC.1 hybridoma in presence of antigen-presenting spleen cells expressing Aq assessed as drug concentration required to induce IL2 secretion after 24 hrs by ELISA
+551889	F	Antifungal activity against Candida albicans A15049 by 2-fold tube dilution method
+1907545	F	Growth inhibition of human MOLT4 cells incubated for 48 hrs by sulforhodamine B assay
+1892142	F	Analgesic activity in Albino Swiss CD-1 mouse model of CCI-induced neuropathic pain assessed as reduction in paw lifting latency time at 5 to 20 mg/kg, ip administered 7 days after CCI measured at 35 mins post-dose by Cold plate test
+1630210	F	Antibacterial activity against Staphylococcus aureus ATCC 11632 after 18 to 20 hrs by two-fold microbroth dilution method
+1552318	F	Antiproliferative activity against human H4 cells after 48 hrs by MTT assay
+790421	F	Cytotoxicity against human PC3 cells
+815412	F	Ratio of IC50 for human SJSA1 cells expressing p53 to IC50 for human p53 deficient SAOS2 cells
+504464	F	DNA damaging activity against DNA repair-deficient RS 322YK (rad 52Y) yeast assessed as drug level required to produce 12 mm zone of inhibition
+913285	F	Antidiabetic activity in Rattus norvegicus Wistar (rat) assessed as STZ-induced plasma glucose level at 10 mg/kg, po administered for 15 days by glucose oxidase method (Rvb = 377.3 +/- 10.5 mg/dl)
+1334383	F	Neuroleptic activity in ip dosed Sprague-Dawley rat assessed as failure in active avoidance response measured within 30 mins
+579615	F	Antimicrobial activity against Klebsiella sp. assessed as resistant isolates by CLSI breakpoint assay
+410484	F	Inhibition of H3 histone acetylation in human U937 cells at 100 uM
+100622	F	Cytotoxicity against MCF-7 cells in presence of 1 uM E2 (estradiol)
+1523921	F	Antimycobacterial activity against Mycobacterium kansasii 235/80 after 21 days
+978569	F	Antileishmanial activity against Leishmania amazonensis MHOM/BR/77/LTB0016 promastigotes after 24 hrs by cell counting
+1725534	F	In vivo inhibition of NMD in BALB/cA Jc1 nude mouse xenografted with human HCT116 cells assessed as upregulation of SC35 1.6 kb mRNA expression level in tumor at 100 mg/kg, po administered as single dose measured after 8 hrs by qPCR analysis relative to control
+505268	F	Growth inhibition of human DU145 cells
+456385	F	Ex vivo anticoagulant potency in rat plasma assessed as concentration required to double prothrombin time at 30 mg/kg, po after 1 hr relative to control
+2107031	F	Antimycobacterial activity against Mycobacterium tuberculosis H37Ra 7131 incubated for 21 days by broth dilution method
+312406	F	In vitro inhibition of Plasmodium falciparum K1 (0.0024 ug/mL)
+1495893	F	Antiviral activity against Hepatitis B virus infected in human HepG2.2.15 cells assessed as inhibition of HBeAg secretion at 300 uM after 9 days by ELISA
+1514200	F	Growth inhibition of human NCI-H460 cells by NCI standard protocol based method
+922533	F	Antifungal activity against Aspergillus fumigatus MTCC 343 assessed as growth inhibition by agar streak dilution method
+1798063	F	Cytoprotective activity against H2O2-induced oxidative injury in rat PC12 cells assessed as cell viability at 10 uM pretreated for 24 hrs followed by 350 uM H2O2 challenge measured after 24 hrs by MTT assay (Rvb = 60%)
+696401	F	Antimicrobial activity against Bacillus subtilis RCMB 101001 by twofold serial dilution method
+907907	F	Herbicidal activity against Lolium rigidum accession A11 assessed as fresh weight reduction applied at 1 times pre-emergence recommended rate applied in pots where terbufos had been incorporated into the soil relative to untreated control
+2117510	F	Cell cycle arrest in human U-87 MG cells assessed as accumulation at G2/M phase at 8 uM incubated for 48 hrs by PI staining based flow cytometry assay (Rvb = 8%)
+1360279	F	Inhibition of morphine sulfate-induced analgesic activity in Swiss-Webster mouse at 2 to 32 mg/kg, sc after 2 to 4 hrs
+643747	F	Cytotoxicity against human SK-MEL-2 cells by SRB assay
+1366797	F	Antiviral activity against Influenza A virus (A/Vietnam/1194/2004(H5N1)) infected in MDCK cells assessed as inhibition of viral production at 30 uM treated 4 to 8 hrs post viral infection measured after 2 hrs by crystal violet staining-based plaque reduction assay
+1571633	F	Induction of cell cycle arrest in human HCT116 cells assessed as accumulation at G1 phase at 5 uM after 24 hrs by propidium iodide staining-based flow cytometry (Rvb = 28%)
+706251	F	Antimicrobial activity in Fusobacterium varium by CLSI agar dilution method in presence of clavulanate
+112188	F	The compound was evaluated for the median survival time (MST) in mice infected with cisplatin sensitive L1210 Leukemia (dose 80 mg/kg, ip), day 9
+1859750	F	Antibacterial activity against Staphylococcus aureus NCTC12204 assessed as generation of drug resistance at 2 times MIC measured after 48 hrs by agar-based microbroth dilution method
+941967	F	Antimicrobial activity against acrAB, tolC-deficient Escherichia coli str. K-12 substr. MG1655 measured after overnight incubation by serial dilution method in presence of erythromycin in iron depleted medium
+956788	F	Antioxidant activity of the compound assessed as DPPH radical scavenging activity after 30 mins by spectrophotometry
+2110807	F	Antiproliferative activity against human HCT-116 cells assessed as decrease in cell population at S-phase at 1.25 to 10 uM measured after 24 hrs by EdU incorporation based fluorescence microscopic analysis
+1922284	F	Cytotoxicity against gefitinib-resistant human HCC827 cells assessed as inhibition of cell proliferation by MTS assay
+220265	F	Inhibitory concentration against human rotavirus MO strain
+183558	F	TNF-alpha inhibiting activity was assessed by In vivo inhibition of serum TNF production in rat at 50 mg/kg, peroral administration; Not tested (74% at 100 mg/kg, p.o.)
+991732	F	Cytoprotective activity in rat L6 cells assessed as increase in glucose oxidase-reduced cell survival at 25 uM incubated for 12 hrs prior to glucose oxidase challenge measured after 5 hrs by MTT assay in presence of 23.5 mM D-glucose
+915240	F	Antifeedant activity against fifth instar larvae of Spodoptera littoralis fed on compound-treated lettuce leaf at 10 ug/cm'2 by leaf-disk method
+185110	F	Effect in the anti ovulatory assay (AOA) in rats expressed as no. of rats ovulating/No of rats treated at 1.0 mg; 5/5
+75985	F	Cytotoxicity in vitro expressed as 50% reduction in cell number after a 3-day incubation, in human ileocecal carcinoma HCT-8 cell line
+2148298	F	Antiosteoporotic activity against OVX-induced bone loss C57BL/6 mouse model assessed as increase in microarchitectures at 10 mg/kg, po for 6 weeks by microcomputed tomography method relative to sham treated control
+811800	F	Antidiabetic activity in diet-induced ICR mouse T2DM model assessed as increase in plasma insulin level at 5 mg/kg, ip after 60 mins by ELISA (Rvb = 123.5 +/- 10.2 pmol/L)
+748380	F	Antimicrobial activity against Candida tropicalis isolate 33 after 48 hrs by microdilution broth method
+2224500	F	Antiproliferative activity against human SW480 cells assessed as cell growth inhibition
+1924496	F	Antitubercular activity against Mycobacterium tuberculosis H37Rv by radiometric assay
+2061571	F	Growth inhibition of human MDA-MB-231 cells incubated for 48 hrs by sulforhodamine B assay
+150010	F	Percent increase in life span of p388 murine leukemia cells (inoculated i.p. on day 0) as compared to that of untreated group at 0.125 mg/kg i.p. compound dose on day 1
+2275052	F	Antioxidant activity assessed as DPPH radical scavenging activity measured after 30 mins by spectrophotometric analysis
+697307	F	Antimicrobial activity against Beta-hemolytic Streptococcus sp. 'group A' assessed as growth inhibition at 0.12 ug/ml by broth microdilution method
+171608	F	Neuronal selectivity expressed as Concentration in right ventricle after iv administration in rat, pretreated with 6-hydroxydopamine (control = 4.10+/-0.23)

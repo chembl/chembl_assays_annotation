@@ -1,7 +1,7 @@
 .ipynb_checkpoints
 .DS_Store
 setup.py
-*.tsv
-*.csv
+ner_chembl_35.tsv
 chembl_35_all_BF_assays.txt
 chembl_35_broad_results_processed.txt
+chembl35_assays_bao_annotations_0_6.tsv
