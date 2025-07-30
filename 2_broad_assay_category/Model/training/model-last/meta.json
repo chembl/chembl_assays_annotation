@@ -1,0 +1,95 @@
+{
+  "lang":"en",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.7.6,<3.8.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"319e025",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "tok2vec":[
+
+    ],
+    "textcat_multilabel":[
+      "Radioligand binding (BAO_0002776)",
+      "Binding (BAO_0002989)",
+      "Protein activity (BAO_0013016)",
+      "in vivo method (BAO_0040021)",
+      "Cell phenotype (BAO_0002542)",
+      "Nucleic acid binding",
+      "Antimicrobial activity"
+    ]
+  },
+  "pipeline":[
+    "tok2vec",
+    "textcat_multilabel"
+  ],
+  "components":[
+    "tok2vec",
+    "textcat_multilabel"
+  ],
+  "disabled":[
+
+  ],
+  "performance":{
+    "cats_score":1.0,
+    "cats_score_desc":"macro AUC",
+    "cats_micro_p":1.0,
+    "cats_micro_r":1.0,
+    "cats_micro_f":1.0,
+    "cats_macro_p":1.0,
+    "cats_macro_r":1.0,
+    "cats_macro_f":1.0,
+    "cats_macro_auc":1.0,
+    "cats_f_per_type":{
+      "Radioligand binding (BAO_0002776)":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "Binding (BAO_0002989)":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "Protein activity (BAO_0013016)":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "in vivo method (BAO_0040021)":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "Cell phenotype (BAO_0002542)":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "Nucleic acid binding":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "Antimicrobial activity":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      }
+    },
+    "cats_macro_auc_per_type":0.0,
+    "tok2vec_loss":1.7173075971,
+    "textcat_multilabel_loss":0.0211274865
+  }
+}

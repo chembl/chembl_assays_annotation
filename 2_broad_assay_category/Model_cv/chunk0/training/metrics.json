@@ -1,0 +1,62 @@
+{
+  "token_acc":1.0,
+  "token_p":1.0,
+  "token_r":1.0,
+  "token_f":1.0,
+  "cats_score":0.9816362777,
+  "cats_score_desc":"macro AUC",
+  "cats_micro_p":0.9289940828,
+  "cats_micro_r":0.9075144509,
+  "cats_micro_f":0.918128655,
+  "cats_macro_p":0.932594391,
+  "cats_macro_r":0.8910765261,
+  "cats_macro_f":0.9086287296,
+  "cats_macro_auc":0.9816362777,
+  "cats_f_per_type":{
+    "Radioligand binding (BAO_0002776)":{
+      "p":0.8846153846,
+      "r":1.0,
+      "f":0.9387755102
+    },
+    "Binding (BAO_0002989)":{
+      "p":0.96,
+      "r":0.96,
+      "f":0.96
+    },
+    "Protein activity (BAO_0013016)":{
+      "p":0.8518518519,
+      "r":0.7931034483,
+      "f":0.8214285714
+    },
+    "in vivo method (BAO_0040021)":{
+      "p":1.0,
+      "r":0.7692307692,
+      "f":0.8695652174
+    },
+    "Cell phenotype (BAO_0002542)":{
+      "p":0.9615384615,
+      "r":0.8928571429,
+      "f":0.9259259259
+    },
+    "Nucleic acid binding":{
+      "p":0.9534883721,
+      "r":0.9761904762,
+      "f":0.9647058824
+    },
+    "Antimicrobial activity":{
+      "p":0.9166666667,
+      "r":0.8461538462,
+      "f":0.88
+    }
+  },
+  "cats_auc_per_type":{
+    "Radioligand binding (BAO_0002776)":0.9985507246,
+    "Binding (BAO_0002989)":0.9875675676,
+    "Protein activity (BAO_0013016)":0.9688697318,
+    "in vivo method (BAO_0040021)":0.9653846154,
+    "Cell phenotype (BAO_0002542)":0.960591133,
+    "Nucleic acid binding":0.9981824791,
+    "Antimicrobial activity":0.9923076923
+  },
+  "speed":28113.0307145454
+}

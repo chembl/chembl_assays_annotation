@@ -1,0 +1,6 @@
+assay_id	ChEMBL assay identifier
+assay_type	ChEMBL assay type
+description	ChEMBL assay description
+method	manually reviewed experimental or physical detection method from the assay description
+bao_preferred_term	BioAssay Ontology preferred term
+bao_id	BioAssay Ontology identifier to describe the experimental method

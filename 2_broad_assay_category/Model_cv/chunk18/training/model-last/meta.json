@@ -1,0 +1,95 @@
+{
+  "lang":"en",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.7.6,<3.8.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"319e025",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "tok2vec":[
+
+    ],
+    "textcat_multilabel":[
+      "Radioligand binding (BAO_0002776)",
+      "Binding (BAO_0002989)",
+      "Protein activity (BAO_0013016)",
+      "in vivo method (BAO_0040021)",
+      "Cell phenotype (BAO_0002542)",
+      "Nucleic acid binding",
+      "Antimicrobial activity"
+    ]
+  },
+  "pipeline":[
+    "tok2vec",
+    "textcat_multilabel"
+  ],
+  "components":[
+    "tok2vec",
+    "textcat_multilabel"
+  ],
+  "disabled":[
+
+  ],
+  "performance":{
+    "cats_score":0.9910826381,
+    "cats_score_desc":"macro AUC",
+    "cats_micro_p":0.9263803681,
+    "cats_micro_r":0.8779069767,
+    "cats_micro_f":0.9014925373,
+    "cats_macro_p":0.9306736156,
+    "cats_macro_r":0.8796287302,
+    "cats_macro_f":0.9017053407,
+    "cats_macro_auc":0.9910826381,
+    "cats_f_per_type":{
+      "Radioligand binding (BAO_0002776)":{
+        "p":0.95,
+        "r":0.95,
+        "f":0.95
+      },
+      "Binding (BAO_0002989)":{
+        "p":0.9230769231,
+        "r":0.96,
+        "f":0.9411764706
+      },
+      "Protein activity (BAO_0013016)":{
+        "p":0.84375,
+        "r":0.7714285714,
+        "f":0.8059701493
+      },
+      "in vivo method (BAO_0040021)":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "Cell phenotype (BAO_0002542)":{
+        "p":0.8235294118,
+        "r":0.7368421053,
+        "f":0.7777777778
+      },
+      "Nucleic acid binding":{
+        "p":0.9743589744,
+        "r":1.0,
+        "f":0.987012987
+      },
+      "Antimicrobial activity":{
+        "p":1.0,
+        "r":0.7391304348,
+        "f":0.85
+      }
+    },
+    "cats_macro_auc_per_type":0.0,
+    "tok2vec_loss":7.8346632921,
+    "textcat_multilabel_loss":0.2514122739
+  }
+}

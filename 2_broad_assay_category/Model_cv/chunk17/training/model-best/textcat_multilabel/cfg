@@ -1,0 +1,12 @@
+{
+  "labels":[
+    "Radioligand binding (BAO_0002776)",
+    "Binding (BAO_0002989)",
+    "Protein activity (BAO_0013016)",
+    "in vivo method (BAO_0040021)",
+    "Cell phenotype (BAO_0002542)",
+    "Nucleic acid binding",
+    "Antimicrobial activity"
+  ],
+  "threshold":0.5
+}

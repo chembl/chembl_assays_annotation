@@ -1,0 +1,95 @@
+{
+  "lang":"en",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.7.6,<3.8.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"319e025",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "tok2vec":[
+
+    ],
+    "textcat_multilabel":[
+      "Radioligand binding (BAO_0002776)",
+      "Binding (BAO_0002989)",
+      "Protein activity (BAO_0013016)",
+      "in vivo method (BAO_0040021)",
+      "Cell phenotype (BAO_0002542)",
+      "Nucleic acid binding",
+      "Antimicrobial activity"
+    ]
+  },
+  "pipeline":[
+    "tok2vec",
+    "textcat_multilabel"
+  ],
+  "components":[
+    "tok2vec",
+    "textcat_multilabel"
+  ],
+  "disabled":[
+
+  ],
+  "performance":{
+    "cats_score":0.9812267084,
+    "cats_score_desc":"macro AUC",
+    "cats_micro_p":0.9245283019,
+    "cats_micro_r":0.8497109827,
+    "cats_micro_f":0.8855421687,
+    "cats_macro_p":0.9394248609,
+    "cats_macro_r":0.8600301714,
+    "cats_macro_f":0.8968988739,
+    "cats_macro_auc":0.9812267084,
+    "cats_f_per_type":{
+      "Radioligand binding (BAO_0002776)":{
+        "p":0.9047619048,
+        "r":0.8636363636,
+        "f":0.8837209302
+      },
+      "Binding (BAO_0002989)":{
+        "p":0.9545454545,
+        "r":0.75,
+        "f":0.84
+      },
+      "Protein activity (BAO_0013016)":{
+        "p":0.8333333333,
+        "r":0.8139534884,
+        "f":0.8235294118
+      },
+      "in vivo method (BAO_0040021)":{
+        "p":1.0,
+        "r":0.9285714286,
+        "f":0.962962963
+      },
+      "Cell phenotype (BAO_0002542)":{
+        "p":0.95,
+        "r":0.8260869565,
+        "f":0.8837209302
+      },
+      "Nucleic acid binding":{
+        "p":1.0,
+        "r":0.962962963,
+        "f":0.9811320755
+      },
+      "Antimicrobial activity":{
+        "p":0.9333333333,
+        "r":0.875,
+        "f":0.9032258065
+      }
+    },
+    "cats_macro_auc_per_type":0.0,
+    "tok2vec_loss":1.0515437418,
+    "textcat_multilabel_loss":0.0108044285
+  }
+}

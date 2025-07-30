@@ -1,0 +1,83 @@
+preprocess:
+  cmd: python -m weasel run preprocess
+  script:
+    - python scripts/preprocess.py assets/assays_training.jsonl corpus/assays_training.spacy
+    - python scripts/preprocess.py assets/assays_eval.jsonl corpus/assays_eval.spacy
+  deps:
+    - path: assets/assays_training.jsonl
+      md5: c26b930c52bfa6676664de5337895323
+    - path: assets/assays_eval.jsonl
+      md5: aae9d603df7dd41565c42b828c9d8ede
+    - path: scripts/preprocess.py
+      md5: a1a912a37d5a490951cd6b8f819652ab
+  outs:
+    - path: corpus/assays_training.spacy
+      md5: af23f9a7e8b458fd11c4dedf5c3fbe69
+    - path: corpus/assays_eval.spacy
+      md5: 280e948c78410622b132b09cd23610d5
+download:
+  cmd: python -m weasel run download
+  script:
+    - python -m spacy download en_core_web_md
+  deps: []
+  outs: []
+train:
+  cmd: python -m weasel run train
+  script:
+    - python -m spacy train configs/config.cfg --output training/ --paths.train corpus/assays_training.spacy
+      --paths.dev corpus/assays_eval.spacy --paths.vectors en_core_web_md
+  deps:
+    - path: corpus/assays_training.spacy
+      md5: af23f9a7e8b458fd11c4dedf5c3fbe69
+    - path: corpus/assays_eval.spacy
+      md5: 280e948c78410622b132b09cd23610d5
+  outs:
+    - path: training/model-best
+      md5: 41df43cdcd739e3696329c4b2fcecc73
+evaluate:
+  cmd: python -m weasel run evaluate
+  script:
+    - python -m spacy evaluate training/model-best corpus/assays_eval.spacy --output
+      training/metrics.json
+  deps:
+    - path: corpus/assays_eval.spacy
+      md5: 280e948c78410622b132b09cd23610d5
+    - path: training/model-best
+      md5: 41df43cdcd739e3696329c4b2fcecc73
+  outs:
+    - path: training/metrics.json
+      md5: 377eccc40a7a65d78e9e7a3aa3c3a772
+preprocess-final:
+  cmd: python -m weasel run preprocess-final
+  script:
+    - python scripts/preprocess.py assets/assays_training.jsonl corpus/assays_training.spacy
+  deps:
+    - path: assets/assays_training.jsonl
+      md5: 70378ff2f79f67287e3b216f4540c389
+    - path: scripts/preprocess.py
+      md5: a1a912a37d5a490951cd6b8f819652ab
+  outs:
+    - path: corpus/assays_training.spacy
+      md5: c27d16801f25c8e09cbd90f934a8b80b
+train-final:
+  cmd: python -m weasel run train-final
+  script:
+    - python -m spacy train configs/config.cfg --output training/ --paths.train corpus/assays_training.spacy
+      --paths.vectors en_core_web_md
+  deps:
+    - path: corpus/assays_training.spacy
+      md5: c27d16801f25c8e09cbd90f934a8b80b
+  outs:
+    - path: training/model-best
+      md5: 65ed4d04642b218d2ebad1d1c9693d29
+package:
+  cmd: python -m weasel run package
+  script:
+    - python -m spacy package training/model-best packages --name ner_method --version
+      0.0.0 --force
+  deps:
+    - path: training/model-best
+      md5: 65ed4d04642b218d2ebad1d1c9693d29
+  outs:
+    - path: packages/en_ner_method-0.0.0/dist/en_ner_method-0.0.0.tar.gz
+      md5: c569a07c82b6801663a90157fffd46b2

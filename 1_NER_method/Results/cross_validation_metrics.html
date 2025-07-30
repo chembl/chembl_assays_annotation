@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-8c398964af3363be01a5f4e345b1bded"}, "mark": {"type": "line", "point": true}, "encoding": {"color": {"field": "Metric", "scale": {"domain": ["F-score", "Precision", "Recall"], "range": ["#9ecae1", "#045a8d", "#006d2c"]}, "type": "nominal"}, "tooltip": [{"field": "chunk", "type": "nominal"}, {"field": "Metric", "type": "nominal"}, {"field": "value", "type": "quantitative"}], "x": {"field": "chunk", "sort": null, "type": "ordinal"}, "y": {"field": "value", "scale": {"domain": [0.87, 0.98]}, "type": "quantitative"}}, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-8c398964af3363be01a5f4e345b1bded": [{"chunk": "chunk8", "Metric": "Precision", "value": 0.87}, {"chunk": "chunk12", "Metric": "Precision", "value": 0.89}, {"chunk": "chunk6", "Metric": "Precision", "value": 0.92}, {"chunk": "chunk23", "Metric": "Precision", "value": 0.89}, {"chunk": "chunk19", "Metric": "Precision", "value": 0.91}, {"chunk": "chunk22", "Metric": "Precision", "value": 0.94}, {"chunk": "chunk1", "Metric": "Precision", "value": 0.9}, {"chunk": "chunk17", "Metric": "Precision", "value": 0.94}, {"chunk": "chunk14", "Metric": "Precision", "value": 0.95}, {"chunk": "chunk11", "Metric": "Precision", "value": 0.95}, {"chunk": "chunk0", "Metric": "Precision", "value": 0.94}, {"chunk": "chunk13", "Metric": "Precision", "value": 0.91}, {"chunk": "chunk2", "Metric": "Precision", "value": 0.92}, {"chunk": "chunk24", "Metric": "Precision", "value": 0.95}, {"chunk": "chunk3", "Metric": "Precision", "value": 0.93}, {"chunk": "chunk21", "Metric": "Precision", "value": 0.94}, {"chunk": "chunk4", "Metric": "Precision", "value": 0.97}, {"chunk": "chunk7", "Metric": "Precision", "value": 0.95}, {"chunk": "chunk9", "Metric": "Precision", "value": 0.93}, {"chunk": "chunk15", "Metric": "Precision", "value": 0.93}, {"chunk": "chunk5", "Metric": "Precision", "value": 0.93}, {"chunk": "chunk16", "Metric": "Precision", "value": 0.95}, {"chunk": "chunk10", "Metric": "Precision", "value": 0.95}, {"chunk": "chunk18", "Metric": "Precision", "value": 0.97}, {"chunk": "chunk20", "Metric": "Precision", "value": 0.98}, {"chunk": "chunk8", "Metric": "Recall", "value": 0.93}, {"chunk": "chunk12", "Metric": "Recall", "value": 0.94}, {"chunk": "chunk6", "Metric": "Recall", "value": 0.91}, {"chunk": "chunk23", "Metric": "Recall", "value": 0.94}, {"chunk": "chunk19", "Metric": "Recall", "value": 0.93}, {"chunk": "chunk22", "Metric": "Recall", "value": 0.91}, {"chunk": "chunk1", "Metric": "Recall", "value": 0.96}, {"chunk": "chunk17", "Metric": "Recall", "value": 0.92}, {"chunk": "chunk14", "Metric": "Recall", "value": 0.91}, {"chunk": "chunk11", "Metric": "Recall", "value": 0.92}, {"chunk": "chunk0", "Metric": "Recall", "value": 0.94}, {"chunk": "chunk13", "Metric": "Recall", "value": 0.97}, {"chunk": "chunk2", "Metric": "Recall", "value": 0.96}, {"chunk": "chunk24", "Metric": "Recall", "value": 0.93}, {"chunk": "chunk3", "Metric": "Recall", "value": 0.96}, {"chunk": "chunk21", "Metric": "Recall", "value": 0.95}, {"chunk": "chunk4", "Metric": "Recall", "value": 0.93}, {"chunk": "chunk7", "Metric": "Recall", "value": 0.95}, {"chunk": "chunk9", "Metric": "Recall", "value": 0.97}, {"chunk": "chunk15", "Metric": "Recall", "value": 0.97}, {"chunk": "chunk5", "Metric": "Recall", "value": 0.98}, {"chunk": "chunk16", "Metric": "Recall", "value": 0.96}, {"chunk": "chunk10", "Metric": "Recall", "value": 0.95}, {"chunk": "chunk18", "Metric": "Recall", "value": 0.96}, {"chunk": "chunk20", "Metric": "Recall", "value": 0.98}, {"chunk": "chunk8", "Metric": "F-score", "value": 0.9}, {"chunk": "chunk12", "Metric": "F-score", "value": 0.91}, {"chunk": "chunk6", "Metric": "F-score", "value": 0.91}, {"chunk": "chunk23", "Metric": "F-score", "value": 0.92}, {"chunk": "chunk19", "Metric": "F-score", "value": 0.92}, {"chunk": "chunk22", "Metric": "F-score", "value": 0.93}, {"chunk": "chunk1", "Metric": "F-score", "value": 0.93}, {"chunk": "chunk17", "Metric": "F-score", "value": 0.93}, {"chunk": "chunk14", "Metric": "F-score", "value": 0.93}, {"chunk": "chunk11", "Metric": "F-score", "value": 0.93}, {"chunk": "chunk0", "Metric": "F-score", "value": 0.94}, {"chunk": "chunk13", "Metric": "F-score", "value": 0.94}, {"chunk": "chunk2", "Metric": "F-score", "value": 0.94}, {"chunk": "chunk24", "Metric": "F-score", "value": 0.94}, {"chunk": "chunk3", "Metric": "F-score", "value": 0.95}, {"chunk": "chunk21", "Metric": "F-score", "value": 0.95}, {"chunk": "chunk4", "Metric": "F-score", "value": 0.95}, {"chunk": "chunk7", "Metric": "F-score", "value": 0.95}, {"chunk": "chunk9", "Metric": "F-score", "value": 0.95}, {"chunk": "chunk15", "Metric": "F-score", "value": 0.95}, {"chunk": "chunk5", "Metric": "F-score", "value": 0.95}, {"chunk": "chunk16", "Metric": "F-score", "value": 0.95}, {"chunk": "chunk10", "Metric": "F-score", "value": 0.95}, {"chunk": "chunk18", "Metric": "F-score", "value": 0.96}, {"chunk": "chunk20", "Metric": "F-score", "value": 0.98}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
