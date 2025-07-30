@@ -21,13 +21,13 @@ Each of these is described further below in this readme and the code is availabl
 
 ## Available annotations for ChEMBL 35
 - Experimental methods identified by the NER model for all ChEMBL 35 assay descriptions: 1_NER_method/Results/ner_chembl_35.tsv
-- Broad assay categories predicted by the broad assay category model for all ChEMBL 35 assay descripions: 2_broad_assay_category/chembl_35_broad_results_processed.txt
-- BAO annotations for ChEMBL 35 assays with a method identified by the NER model and a minimum mapping score of 0.6 returned by the text2term tool: 3_entity_linking_BAO/results/chembl35_assays_bao_annotations_0_6.tsv 
+- Broad assay categories predicted by the broad assay category model for all ChEMBL 35 assay descripions: `2_broad_assay_category/chembl_35_broad_results_processed.txt`
+- BAO annotations for ChEMBL 35 assays with a method identified by the NER model and a minimum mapping score of 0.6 returned by the text2term tool: `3_entity_linking_BAO/results/chembl35_assays_bao_annotations_0_6.tsv`
 
 ### A. Named entity Recognition (NER) model to identify the specific method entity within the ChEMBL assay descriptions
 
 **Input data:**  
-- data/assays_data.csv : Collection of 800 binding/funtional assays that have been manually reviewed for extraction of the experimental/physical detection method from the assay description.
+- assays_data.csv : Collection of 800 binding/funtional assays that have been manually reviewed for extraction of the experimental/physical detection method from the assay description. [`1_NER_method/data/assays_data.csv`]
 
 **Intermediate files:**  
 - Model/assays_train.jsonl : training set for the NER assays model
@@ -59,7 +59,7 @@ Folder name: 2_broad_assay_category
 Trains a multi-class classification model using spaCy for 7 broad assay categories for a given assay description.
 
 **Input data:**
-- data/2_broad_category_training_data.csv: Collection of 900 assays manually annotated with one of 15 broad assay categories
+- 2_broad_category_training_data.csv: Collection of 900 assays manually annotated with one of 15 broad assay categories [`2_broad_assay_category/data/2_broad_category_training_data.csv`]
 
 **Intermediate files:**
 - Model/assays_train.jsonl: training set for the 7 largest categories
@@ -72,7 +72,7 @@ Trains a multi-class classification model using spaCy for 7 broad assay categori
 - plot_cv_results.ipynb: Calculate average performances across the 25 folds and create boxplot of individual fold performance
 
 **Pipeline Execution:**   
-See the instructions in in the `2_broad_assay_category/2_broad_category_readme.md`
+See the instructions in the `2_broad_assay_category/2_broad_category_readme.md`
 
 **Results:**
 - The final model can be found under `2_broad_assay_category/Model/training/model-best` - Specifying this path allows importing of the spaCy model.
@@ -83,7 +83,7 @@ See the instructions in in the `2_broad_assay_category/2_broad_category_readme.m
 ### C. Entity linking to Bioassay Ontology (BAO) terms with text2term
 
 #### Input data:
-- data/BAO_linking_gold_standard.csv: 800 assays manually annotated with experimental method and appropriate BAO term (of which 340 assays do not have a method, and 53 have a method but no appropriate BAO id could be found, leaving 407 assays fully annotated with method and BAO id).
+- BAO_linking_gold_standard.csv: 800 assays manually annotated with experimental method and appropriate BAO term (of which 340 assays do not have a method, and 53 have a method but no appropriate BAO id could be found, leaving 407 assays fully annotated with method and BAO id). [`3_entity_linking_BAO/data/BAO_linking_gold_standard.csv`]
 
 #### Pipeline Execution:
 Install text2term: https://text2term.readthedocs.io/en/latest/#
